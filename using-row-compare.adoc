@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: using-row-compare.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Viele Zeilen enthalten sehr ähnliche Informationen in Interoperability Matrix Tool und es kann ein mühsamer manueller Prozess für Sie, um den Unterschied zwischen den Zeilen zu finden. 
+---
+= Zeilenvergleich verwenden
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Viele Zeilen enthalten sehr ähnliche Informationen in Interoperability Matrix Tool und es kann ein mühsamer manueller Prozess für Sie, um den Unterschied zwischen den Zeilen zu finden. Das Interoperabilitäts-Matrix-Tool bietet eine Funktion zum Vergleichen von zwei Zeilen.
+
+
+
+== Über diese Aufgabe
+
+Auf der Ergebnisseite wird für jede Lösung die Schaltfläche „Hinzufügen zum Vergleich“ oder ein Symbol in der Kopfzeile der Konfigurationskarte angezeigt.
+
+
+
+== Schritte
+
+. Um die Konfiguration für den Vergleich hinzuzufügen, klicken Sie auf das Symbol *Konfiguration Komponentenvergleich*. Sie können maximal zwei Konfigurationen zum Vergleich auswählen.
+. Klicken Sie auf die Schaltfläche *Konfiguration Komponentenvergleich*, um zwei Zeilen zu vergleichen.
+
+
+
+
+== Ergebnis
+
+Die Unterschiede werden in der Schriftart *bold* auf dem Layover-Display hervorgehoben. Die Komponenten sind unter den jeweiligen Komponententypen gruppiert. Komponenten, die in beiden Zeilen gleich sind, haben eine normale Schriftart. Zeilen können nicht über zwei Lösungen hinweg verglichen werden.

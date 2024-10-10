@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: apply-filters-to-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Auf der Seite Suchkriterien verfeinern können Sie Filter anwenden, indem Sie Komponenten aus verschiedenen Kategorien auswählen. Durch Anwenden von Filtern können Sie den Suchkriterien Komponenten hinzufügen und die Konfigurationsergebnisse eingrenzen. 
+---
+= Filter auf Kategorien anwenden
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Auf der Seite *Suchkriterien verfeinern* können Sie Filter anwenden, indem Sie Komponenten aus verschiedenen Kategorien auswählen. Durch Anwenden von Filtern können Sie den Suchkriterien Komponenten hinzufügen und die Konfigurationsergebnisse eingrenzen.
+
+
+
+== Schritte
+
+. Wählen Sie die Komponenten aus den gewünschten Kategorien auf der Seite *Suchkriterien verfeinern* je nach Anforderung aus. Innerhalb jeder Kategorie können Sie nach bestimmten Komponenten suchen und die gewünschte Komponente auswählen.
+. *Optional*: Wählen Sie mehrere Komponenten aus verschiedenen Kategorien, um die Konfigurationsergebnisse einzugrenzen.
+
+
+Je nach Kompatibilität der ausgewählten Komponenten sind einige der Komponenten möglicherweise nicht in den Kategorien verfügbar.

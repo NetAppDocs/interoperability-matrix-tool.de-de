@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: modify-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Auf der Seite Suchkriterien verfeinern können Sie die Suchkriterien ändern, um den Kriterien eine Lösung, Komponente oder Kategorie hinzuzufügen. 
+---
+= Ändern Sie die Suchkriterien
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Auf der Seite *Suchkriterien verfeinern* können Sie die Suchkriterien ändern, um eine Lösung, eine Komponente oder eine Kategorie zu den Kriterien hinzuzufügen.
+
+
+
+== Schritte
+
+. Klicken Sie auf der Seite *Suchkriterien verfeinern* auf *Kriterien ändern*.
+. Auf der Seite Suchkriterien können Sie eine Lösung, Komponente oder Kategorie über das Textfeld Suchen hinzufügen.
+. Klicken Sie auf *Weiter*, um die kompatiblen Konfigurationen auf der Seite *Suchkriterien verfeinern* anzuzeigen.
+

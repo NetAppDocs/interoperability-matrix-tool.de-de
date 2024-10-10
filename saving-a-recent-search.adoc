@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: saving-a-recent-search.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Auf der Seite Willkommen auf der IMT können Sie Ihre letzten Suchvorgänge speichern, um die Kriterien für spätere Suchvorgänge beizubehalten. 
+---
+= Speichern Sie eine kürzlich durchgeführte Suche
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Auf der Seite Willkommen auf der IMT können Sie Ihre letzten Suchvorgänge speichern, um die Kriterien für spätere Suchvorgänge beizubehalten.
+
+
+
+== Schritte
+
+. Klicken Sie auf *Lösungssuche* oder *Erweiterte Suche*.
+. Wählen Sie die Suchkriterien aus.
+. Wählen Sie *direkt zu den Ergebnissen* oder klicken Sie auf *Weiter*, um Ihre Suchkriterien zu verfeinern, und navigieren Sie dann zur Seite *Unterstützte Konfigurationen anzeigen* (Ergebnisse). Ein Popup-Dialogfeld informiert Sie darüber, dass Ihre Kriterien automatisch gespeichert werden.
+

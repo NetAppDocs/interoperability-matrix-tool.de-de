@@ -1,0 +1,45 @@
+---
+sidebar: sidebar 
+permalink: add-components-to-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Sie können Ihren Suchkriterien mithilfe des Textfelds „Suche“ oder der erweiterten Suche Komponenten hinzufügen. 
+---
+= Komponenten zu Suchkriterien hinzufügen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können Komponenten zu Ihren Suchkriterien hinzufügen, indem Sie das Suchfeld oder die *Erweiterte Suche* verwenden.
+
+.Über diese Aufgabe
+Wenn Sie wissen, welche Komponenten Sie zu den Suchkriterien hinzufügen möchten, können Sie die Komponentennamen in das Suchfeld eingeben. Sie können die *Erweiterte Suche* verwenden, wenn Sie nicht sicher sind, welche Komponenten Sie zu den Suchkriterien hinzufügen möchten.
+
+Wenn Sie die in den Suchkriterien enthaltenen Komponenten löschen möchten, klicken Sie oben rechts auf *alles löschen*.
+
+.Schritte
+. Geben Sie auf der Startseite des Interoperabilitäts-Matrix-Tools den Komponentennamen in das Suchfeld ein, um die möglichen Übereinstimmungen für die Komponente anzuzeigen.
++
+.. Klicken Sie auf *Hinzufügen*, um die Komponente in die Suchkriterien aufzunehmen.
+.. Klicken Sie auf *Hinzufügen*, um die Komponenten mehrerer Kategorien in die Suchkriterien einzubeziehen.
+.. Wenn Sie auf *Alle Treffer anzeigen* klicken, zeigt IMT die *Erweiterte Suche* an, mit der Sie weitere Komponenten zu den Suchkriterien hinzufügen können.
+
+
+. Optional Mit der *erweiterten Suche* können Sie eine Komponente zu den Suchkriterien hinzufügen.
++
+.. Klicken Sie Auf *Erweiterte Suche*.
+.. Wählen Sie im Fenster *Erweiterte Suche* im linken Fensterbereich eine Kategorie oder Lösung aus.
+.. Identifizieren Sie im rechten Fensterbereich die Komponente, die zu den Suchkriterien hinzugefügt werden soll, und klicken Sie auf *Hinzufügen*.
+.. Geben Sie Schlüsselwörter in das Fenster *Erweiterte Suche* ein.
+
+
+
+
+Sie können Schlüsselwörter als Suchoption aktivieren. Wenn diese Option aktiviert ist, können Sie eine oder mehrere Zeilen mithilfe von Schlüsselwörtern durchsuchen, die mit diesen Zeilen verknüpft sind. Sie können auch das Suchfeld im Fenster *Erweiterte Suche* verwenden, um nach einer bestimmten Komponente zu suchen. Um eine mit der *Erweiterten Suche* hinzugefügte Komponente zu entfernen, können Sie im rechten Fensterbereich auf *Entfernen* klicken.
+
+
+
+== Ergebnis
+
+Wenn Sie Komponenten zu den Suchkriterien hinzufügen, werden die Komponenten im rechten Fensterbereich unter *Suchkriterien* angezeigt.

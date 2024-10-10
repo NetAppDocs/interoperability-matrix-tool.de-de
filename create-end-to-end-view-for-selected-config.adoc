@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: create-end-to-end-view-for-selected-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Mit dem Interoperabilitäts-Matrix-Tool können Sie eine End-to-End-Ansicht für eine bestimmte Konfiguration erstellen. Wählen Sie dazu passende Lösungen aus, die mit der Konfiguration kompatibel sind. 
+---
+= Erstellen Sie eine End-to-End-Ansicht für eine ausgewählte Konfiguration
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Mit dem Interoperabilitäts-Matrix-Tool können Sie eine End-to-End-Ansicht für eine bestimmte Konfiguration erstellen. Wählen Sie dazu passende Lösungen aus, die mit der Konfiguration kompatibel sind. Sie können die Funktion *Build End-to-End View with* auf der Seite *Ergebnisse* verwenden, um eine End-to-End-Ansicht für eine Konfiguration zu erstellen.
+
+
+
+== Über diese Aufgabe
+
+Sie können eine End-to-End-Ansicht für eine bestimmte Konfiguration nur auf der Seite *Ergebnisse* erstellen.
+
+
+
+== Schritte
+
+. Klicken Sie auf der Seite *Ergebnisse* für eine bestimmte Konfiguration auf das Dropdown-Menü *Build End-to-End-Ansicht mit*.
+. Wählen Sie aus der Dropdown-Liste die erforderlichen Lösungen aus, die als kompatibel mit der jeweiligen Konfiguration aufgeführt sind. Lösungen, die nicht mit dieser spezifischen Konfiguration kompatibel sind, sind abgeblendet.
+. IMT zeigt eine neue Registerkarte auf der Seite *Ergebnisse* an, die die geänderte Konfiguration anzeigt. Je nach Anforderung können Sie mit der Funktion *Build End-to-End View with* zusätzliche Lösungen hinzufügen oder die Konfigurationen exportieren.
+

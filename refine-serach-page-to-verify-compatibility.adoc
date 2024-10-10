@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: refine-serach-page-to-verify-compatibility.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Mit dem Interoperabilitäts-Matrix-Tool können Sie die kompatiblen Konfigurationen für Ihr Produkt auf der Seite *Suchkriterien verfeinern* ansehen. 
+---
+= Die Seite Suchkriterien verfeinern, um die Kompatibilität zu überprüfen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Mit dem Interoperabilitäts-Matrix-Tool können Sie die kompatiblen Konfigurationen für Ihr Produkt auf der Seite *Suchkriterien verfeinern* ansehen. Sie können die Konfigurationsergebnisse von dieser Seite auf die gewünschten Konfigurationen für Ihr Produkt eingrenzen.
+
+Sie können auf der Seite *Suchkriterium verfeinern* nur dann zur Seite *Suchkriterien verfeinern* navigieren, wenn die von Ihnen eingegebenen Kriterien Konfigurationen unterstützen. Die Seite *Suchkriterien verfeinern* ist in zwei Bereiche unterteilt:
+
+* *Suchkriterien*: Zeigt die zu den Suchkriterien hinzugefügten Lösungen, Komponenten und Filter an. Sie können die ursprünglichen Suchkriterien ändern, um die erforderlichen Konfigurationsergebnisse anzuzeigen. Sie können *Kriterien ändern* aktivieren, um zur Seite *Suchkriterien* zurückzukehren und die ursprünglichen Suchkriterien zu ändern. Sie können die Registerkarte *dynamische Filterung* überprüfen, um die Kompatibilität zwischen Komponenten sofort anzuzeigen. Sie können die Registerkarte *dynamische Filterung* deaktivieren, um mehrere Komponenten hinzuzufügen und auf *Update* count klicken. Sie können die Registerkarte *Try a different method* aktivieren, um zur Startseite zu navigieren.
+* *Suchkriterien verfeinern*: Zeigt die Liste der Komponenten in verschiedenen Kategorien an. Die in diesem Bereich aufgeführten Kategorien sind abhängig von den Suchkriterien und den kompatiblen Konfigurationen.
++
+** Wenn Sie eine Lösung in die ursprünglichen Suchkriterien aufgenommen haben, können Sie auf der Seite Refine *Suchkriterien* Komponenten aus dieser Kategorie sowie Komponenten aus anderen Kategorien auswählen.
+** Wenn Sie bestimmte Komponenten in die ursprünglichen Suchkriterien aufgenommen haben, können Sie die in den ursprünglichen Suchkriterien enthaltenen Komponenten auf der Seite *Suchkriterien verfeinern* nicht abwählen, aber Sie können zusätzliche Komponenten aus anderen Kategorien auswählen.
+
+
+
+
+In jeder Kategorie können Sie das Filtersymbol verwenden, um das Textfeld für die Suche anzuzeigen und nach einer bestimmten Komponente zu suchen. Wenn Sie die Komponentenauswahl im Bereich *Suchkriterien* zurücksetzen oder löschen möchten, klicken Sie auf *Alle löschen*.
+
+Abhängig von den Komponenten, die Sie aus den verschiedenen Kategorien auswählen, werden Sie feststellen, dass die Anzahl der Konfigurationsergebnisse variieren kann. Je mehr Komponenten Sie auswählen, desto enger wird das Interoperabilitäts-Matrix-Tool die Suchergebnisse eingrenzen und Sie können die gewünschte Konfiguration für Ihr Produkt anzeigen.

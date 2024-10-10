@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: deleting-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Sie können die gespeicherten Suchkriterien löschen. 
+---
+= Gespeicherte Kriterien löschen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können die gespeicherten Suchkriterien löschen.
+
+
+
+== Über diese Aufgabe
+
+Sie müssen den Namen der gespeicherten Kriterien haben, um die gespeicherten Kriterien löschen zu können.
+
+
+
+== Schritte
+
+. Klicken Sie in der Spalte *Aktion* auf das Löschen-Symbol *X*. Im Popup-Fenster werden Sie gefragt, ob Sie die gespeicherten Kriterien löschen möchten.
+. Klicken Sie auf *Ja*, um gespeicherte Kriterien zu löschen.
+. Klicken Sie auf *Nein*, um die gespeicherten Kriterien beizubehalten.
+

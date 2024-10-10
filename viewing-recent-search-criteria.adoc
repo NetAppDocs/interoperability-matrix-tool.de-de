@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: viewing-recent-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Auf der Seite Willkommen auf der Seite IMT können Sie gespeicherte Suchkriterien laden, um Ihre letzten Suchvorgänge anzuzeigen. 
+---
+= Zuletzt verwendete Suchkriterien anzeigen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Auf der Seite *Willkommen auf der IMT* können Sie gespeicherte Suchkriterien laden, um Ihre letzten Suchanfragen anzuzeigen.
+
+
+
+== Bevor Sie beginnen
+
+Sie müssen Ihre letzten Suchvorgänge gespeichert haben.
+
+
+
+== Schritte
+
+. Klicken Sie Auf *Gespeicherte Suche*.
+. Wählen Sie die Registerkarte *Letzte Suche*, um die zuletzt gespeicherten Suchen anzuzeigen. Ihre letzten Suchvorgänge werden angezeigt.
+. Wählen Sie die Registerkarte *Suchkriterien*, um Ihre spezifischen gespeicherten Suchkriterien anzuzeigen. Ihre gespeicherten Kriterien werden angezeigt.
+

@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: saving-configuration.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Sie können Konfigurationen mit einem beliebigen Namen für eine bestimmte Lösung speichern. 
+---
+= Konfiguration speichern
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können Konfigurationen mit einem beliebigen Namen für eine bestimmte Lösung speichern. Auf diese Weise können Sie die Konfigurationen zu einem späteren Zeitpunkt abrufen, ohne sich die komplizierte Konfigurations-ID merken zu müssen.
+
+
+
+== Bevor Sie beginnen
+
+Sie können die gewünschte Konfiguration später ganz einfach abrufen, indem Sie nach dem angegebenen Namen suchen.
+
+
+
+== Über diese Aufgabe
+
+Wenn Sie später auf die Konfiguration verweisen möchten, können Sie die Konfiguration mit einem beliebigen Namen speichern.
+
+
+
+== Schritte
+
+. Klicken Sie auf der Seite *Results* auf STAR, um die Konfiguration zu speichern. Nachdem Sie die Konfiguration gespeichert haben, wird der Stern gelb. Sie können maximal 20 Konfigurationen speichern.
+. Geben Sie im Dialogfeld *Tag-Konfiguration* den Namen und die Beschreibung ein, um die Konfiguration als Referenz zu markieren. Der gespeicherte Konfigurationsname wird auf dem Link Konfigurationsdetails angezeigt. Sie können einem bestimmten Tag mehrere Konfigurationen hinzufügen. Ein Tag ist für eine einzige Lösung einzigartig. Verschiedene Benutzer können denselben Tag-Namen verwenden.
+. Wählen Sie den Tag-Namen aus dem Dropdown-Pfeil aus, um Konfigurationen zu einer bereits gespeicherten Registerkarte hinzuzufügen.
+

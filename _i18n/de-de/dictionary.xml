@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="ec29b204bdfea025d0a04da9c1bd84d2" category="summary">Sie können Ihren Suchkriterien mithilfe des Textfelds „Suche“ oder der erweiterten Suche Komponenten hinzufügen.</block>
+  <block id="3edf5099c530f4b5bf9fd5e0777eff7a" category="doc">Komponenten zu Suchkriterien hinzufügen</block>
+  <block id="e646fe8093cae076f04ace90c652382f" category="paragraph">Sie können Komponenten zu Ihren Suchkriterien hinzufügen, indem Sie das Suchfeld oder die *Erweiterte Suche* verwenden.</block>
+  <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">Über diese Aufgabe</block>
+  <block id="1b8078dfaa97a9198e88328fca0e31bf" category="paragraph">Wenn Sie wissen, welche Komponenten Sie zu den Suchkriterien hinzufügen möchten, können Sie die Komponentennamen in das Suchfeld eingeben. Sie können die *Erweiterte Suche* verwenden, wenn Sie nicht sicher sind, welche Komponenten Sie zu den Suchkriterien hinzufügen möchten.</block>
+  <block id="ebc1aa903a0a85396e12956f684427d2" category="paragraph">Wenn Sie die in den Suchkriterien enthaltenen Komponenten löschen möchten, klicken Sie oben rechts auf *alles löschen*.</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Schritte</block>
+  <block id="b13b1beb16e7b3bbe18ffc3110b849e6" category="list-text">Geben Sie auf der Startseite des Interoperabilitäts-Matrix-Tools den Komponentennamen in das Suchfeld ein, um die möglichen Übereinstimmungen für die Komponente anzuzeigen.</block>
+  <block id="7359bee9ebd609ed80ffd27e90f987c2" category="list-text">Klicken Sie auf *Hinzufügen*, um die Komponente in die Suchkriterien aufzunehmen.</block>
+  <block id="f444123f1ed5a79c79095c2a8283fa3b" category="list-text">Klicken Sie auf *Hinzufügen*, um die Komponenten mehrerer Kategorien in die Suchkriterien einzubeziehen.</block>
+  <block id="a0906cb25d9e444b66df8499ea23ebc0" category="list-text">Wenn Sie auf *Alle Treffer anzeigen* klicken, zeigt IMT die *Erweiterte Suche* an, mit der Sie weitere Komponenten zu den Suchkriterien hinzufügen können.</block>
+  <block id="7a30b55a4c862b36fb2093711f7a6f15" category="list-text">Optional Mit der *erweiterten Suche* können Sie eine Komponente zu den Suchkriterien hinzufügen.</block>
+  <block id="08feac9cb5b89652b139e70810163d12" category="list-text">Klicken Sie Auf *Erweiterte Suche*.</block>
+  <block id="00186b1e3606607157e8569e3c14e11d" category="list-text">Wählen Sie im Fenster *Erweiterte Suche* im linken Fensterbereich eine Kategorie oder Lösung aus.</block>
+  <block id="6150b2c40e2b2d0ed506f05a1aabf090" category="list-text">Identifizieren Sie im rechten Fensterbereich die Komponente, die zu den Suchkriterien hinzugefügt werden soll, und klicken Sie auf *Hinzufügen*.</block>
+  <block id="2d657e93aaa732cc222a1272267fe78f" category="list-text">Geben Sie Schlüsselwörter in das Fenster *Erweiterte Suche* ein.</block>
+  <block id="da3e1eecdb94e4db3eb9515e82a18d50" category="paragraph">Sie können Schlüsselwörter als Suchoption aktivieren. Wenn diese Option aktiviert ist, können Sie eine oder mehrere Zeilen mithilfe von Schlüsselwörtern durchsuchen, die mit diesen Zeilen verknüpft sind. Sie können auch das Suchfeld im Fenster *Erweiterte Suche* verwenden, um nach einer bestimmten Komponente zu suchen. Um eine mit der *Erweiterten Suche* hinzugefügte Komponente zu entfernen, können Sie im rechten Fensterbereich auf *Entfernen* klicken.</block>
+  <block id="8eea62084ca7e541d918e823422bd82e" category="section-title">Ergebnis</block>
+  <block id="347d888cba284ec87f2267c0cacea73f" category="paragraph">Wenn Sie Komponenten zu den Suchkriterien hinzufügen, werden die Komponenten im rechten Fensterbereich unter *Suchkriterien* angezeigt.</block>
+  <block id="c87faeee80031f0a604ec5b1fef2d9dc" category="summary">Sie können Ihren Suchkriterien Konfigurationsnamen hinzufügen, indem Sie das Textfeld „Suchen“ verwenden.</block>
+  <block id="19612440ad579d0845fc77c245ab8bf5" category="doc">Fügen Sie den Suchkriterien Konfigurationsnamen hinzu</block>
+  <block id="135b308ed83c53f1516b7c754566d1c4" category="section-title">Bevor Sie beginnen</block>
+  <block id="544b4307f9b18bdca5c80d148e5534dc" category="paragraph">Um nach kompatiblen Konfigurationen zu suchen, müssen Sie die Konfigurationsnamen angeben. Beispielsweise ist 20150316-114603946 ein Konfigurationsname.</block>
+  <block id="c5f08056722017680adcbcbc5ac47db4" category="list-text">Geben Sie im Suchfeld den Konfigurationsnamen ein, um die möglichen Übereinstimmungen anzuzeigen.</block>
+  <block id="fc30ed61651dd02acb0d91c669eda8b8" category="list-text">Klicken Sie auf *Hinzufügen*, um den Konfigurationsnamen in die Suchkriterien aufzunehmen.</block>
+  <block id="6c1d3086557acbaa29d71c4f5d66fe99" category="summary">Sie können Ihren Suchkriterien mithilfe des Suchtextes oder der Lösungssuche Lösungen hinzufügen.</block>
+  <block id="f2dd2f0f8b0cf1eb92604fcf3246388f" category="doc">Fügen Sie Lösungen zu Suchkriterien hinzu</block>
+  <block id="21f4f2c603c6a9d7c6b8eca3b0f72bf9" category="paragraph">Sie können Ihre Suchkriterien mit Hilfe des Suchtextes oder der *Lösungssuche* ergänzen.</block>
+  <block id="c3b8a602c72ab1da1a288b28a3d303c9" category="paragraph">Wenn Sie wissen, welche spezifischen Lösungen zu den Suchkriterien hinzugefügt werden sollen, können Sie die Lösungsnamen in das Suchfeld eingeben. Sie können die *Lösungssuche* verwenden, wenn Sie nicht sicher sind, welche Lösung zu den Suchkriterien hinzugefügt werden soll.</block>
+  <block id="19d0ca12a0d83c4421882a1980ac30ac" category="paragraph">Wenn Sie die in den Suchkriterien enthaltenen Lösungen löschen möchten, klicken Sie oben rechts auf *alles löschen*.</block>
+  <block id="e1103722ec2e10b538810bbb7f3c912f" category="list-text">Geben Sie auf der Startseite des Interoperabilitäts-Matrix-Tools den Namen der Lösung in das Suchfeld ein, um die möglichen Übereinstimmungen anzuzeigen.</block>
+  <block id="0e839b0868b1f907c508aed01aedcd6d" category="list-text">Klicken Sie auf *Hinzufügen*, um die Lösung in die Suchkriterien aufzunehmen.</block>
+  <block id="9c71399453218b126316cfa8c158e22b" category="list-text">Optional Mit der *Lösungssuche* können Sie eine Lösung zu den Suchkriterien hinzufügen.</block>
+  <block id="714eaf61d8f2b023051a8d100c238594" category="list-text">Klicken Sie Auf *Lösungssuche*.</block>
+  <block id="fd272e8e969700a7df504173f6c94217" category="list-text">Geben Sie im Feld *Lösungssuche* die Lösung an, die zu den Suchkriterien hinzugefügt werden soll, und klicken Sie auf *Hinzufügen*.</block>
+  <block id="b99bbb0f522e170d357820debbcc41de" category="list-text">Bei Bedarf können Sie das Kontrollkästchen *PVR erforderlich, EOS* und *veraltete Konfigurationen* aktivieren. Dieses Kontrollkästchen enthält Informationen zu Produktabweichungsanforderung, Support für das Ende der Version und veraltete Elemente in den Ergebnissen.</block>
+  <block id="05f717f2635fbac040f4b9dcfccec9fa" category="paragraph">Sie können das Suchfeld im Fenster *Lösungssuche* verwenden, um nach einer bestimmten Lösung zu suchen. Um eine mit der *Lösungssuche* hinzugefügte Lösung zu entfernen, klicken Sie im oberen Bereich auf *Entfernen*.</block>
+  <block id="998175082912beb021f4284c543f794b" category="paragraph">Wenn Sie Lösungen zu den Suchkriterien hinzufügen, werden die Lösungen im rechten Fensterbereich unter *Suchkriterien* angezeigt.</block>
+  <block id="3dcfd6a4c3a84e20a59a4cf1daf54f63" category="summary">Auf der Seite Suchkriterien verfeinern können Sie Filter anwenden, indem Sie Komponenten aus verschiedenen Kategorien auswählen. Durch Anwenden von Filtern können Sie den Suchkriterien Komponenten hinzufügen und die Konfigurationsergebnisse eingrenzen.</block>
+  <block id="2da751b1ae9cfbd7a565d0aa3303ac08" category="doc">Filter auf Kategorien anwenden</block>
+  <block id="8bd3f1f2926b69029497fe1b18c914e4" category="paragraph">Auf der Seite *Suchkriterien verfeinern* können Sie Filter anwenden, indem Sie Komponenten aus verschiedenen Kategorien auswählen. Durch Anwenden von Filtern können Sie den Suchkriterien Komponenten hinzufügen und die Konfigurationsergebnisse eingrenzen.</block>
+  <block id="54fedbd4c5d464f56d5c258fa8e8fd14" category="list-text">Wählen Sie die Komponenten aus den gewünschten Kategorien auf der Seite *Suchkriterien verfeinern* je nach Anforderung aus. Innerhalb jeder Kategorie können Sie nach bestimmten Komponenten suchen und die gewünschte Komponente auswählen.</block>
+  <block id="aff5c57752a05d09bdc15021f4a2af4d" category="list-text">*Optional*: Wählen Sie mehrere Komponenten aus verschiedenen Kategorien, um die Konfigurationsergebnisse einzugrenzen.</block>
+  <block id="5869ca93f6c3b93fcee21a0770464545" category="paragraph">Je nach Kompatibilität der ausgewählten Komponenten sind einige der Komponenten möglicherweise nicht in den Kategorien verfügbar.</block>
+  <block id="7212ca08c31821eeb6496edfc72d63ba" category="summary">Mit dem Interoperabilitäts-Matrix-Tool können Sie eine End-to-End-Kompatibilitätsansicht für alle Produkte erstellen.</block>
+  <block id="515a17a72e6cee25fbb2699551ba7700" category="doc">Lückenlose Kompatibilität über alle Produkte hinweg</block>
+  <block id="aadfda839bc81dc1282d85593e6e0a3c" category="paragraph">Im Folgenden wird der Workflow dargestellt:</block>
+  <block id="6ccc9c65ba8ce434745b373d4ce23f37" category="image-alt">S. 17 IMT</block>
+  <block id="a8f2dd2e23ee10cc8a8bfc5da30ff0bd" category="summary">Mit dem Interoperabilitäts-Matrix-Tool können Sie eine End-to-End-Ansicht für eine bestimmte Konfiguration erstellen. Wählen Sie dazu passende Lösungen aus, die mit der Konfiguration kompatibel sind.</block>
+  <block id="4eb2dbe38d0667d97ff883758794aef2" category="doc">Erstellen Sie eine End-to-End-Ansicht für eine ausgewählte Konfiguration</block>
+  <block id="b531abe83825777dd1bd8297e14149d2" category="paragraph">Mit dem Interoperabilitäts-Matrix-Tool können Sie eine End-to-End-Ansicht für eine bestimmte Konfiguration erstellen. Wählen Sie dazu passende Lösungen aus, die mit der Konfiguration kompatibel sind. Sie können die Funktion *Build End-to-End View with* auf der Seite *Ergebnisse* verwenden, um eine End-to-End-Ansicht für eine Konfiguration zu erstellen.</block>
+  <block id="821e75721b7400aaba452b6077fc4f9d" category="paragraph">Sie können eine End-to-End-Ansicht für eine bestimmte Konfiguration nur auf der Seite *Ergebnisse* erstellen.</block>
+  <block id="243924ae17fabcf9e6324038cc3bd5d4" category="list-text">Klicken Sie auf der Seite *Ergebnisse* für eine bestimmte Konfiguration auf das Dropdown-Menü *Build End-to-End-Ansicht mit*.</block>
+  <block id="661028c95d63729eae5d9b9abe54976a" category="list-text">Wählen Sie aus der Dropdown-Liste die erforderlichen Lösungen aus, die als kompatibel mit der jeweiligen Konfiguration aufgeführt sind. Lösungen, die nicht mit dieser spezifischen Konfiguration kompatibel sind, sind abgeblendet.</block>
+  <block id="2bfe745d3dacd250f9e68c48fda0cc21" category="list-text">IMT zeigt eine neue Registerkarte auf der Seite *Ergebnisse* an, die die geänderte Konfiguration anzeigt. Je nach Anforderung können Sie mit der Funktion *Build End-to-End View with* zusätzliche Lösungen hinzufügen oder die Konfigurationen exportieren.</block>
+  <block id="d3aaebbcf4e46bb4150c9e07bd28251b" category="summary">Sie können Ihre Suchkriterien mithilfe einer Kombination aus Komponenten, Lösungen oder Kategorien definieren.</block>
+  <block id="8ee38e0305ffbadeb48d844528a6e7cb" category="doc">Definieren Sie die Suchkriterien und geben Sie sie ein</block>
+  <block id="be72c3e3e5768cf0f9e63fe8ce0ec615" category="paragraph">Sie können Ihre Suchkriterien mithilfe einer Kombination aus Komponenten, Lösungen oder Kategorien definieren. Mit dem Interoperabilitäts-Matrix-Tool können Sie Suchkriterien eingeben, indem Sie Komponenten, Lösungen oder Kategorien hinzufügen. Sie können Suchkriterien über das Suchfeld, den Lösungs-Explorer oder den Komponenten-Explorer eingeben.</block>
+  <block id="454aa33e761b57fe07fceba1c97a8a1c" category="summary">Sie können die gespeicherten Suchkriterien löschen.</block>
+  <block id="29a06b84980eab3ce920edf40d8d5109" category="doc">Gespeicherte Kriterien löschen</block>
+  <block id="c2a4313020cfae3ae79389abd1405490" category="paragraph">Sie müssen den Namen der gespeicherten Kriterien haben, um die gespeicherten Kriterien löschen zu können.</block>
+  <block id="7ea38ac86619e23b998d43e9300de6f4" category="list-text">Klicken Sie in der Spalte *Aktion* auf das Löschen-Symbol *X*. Im Popup-Fenster werden Sie gefragt, ob Sie die gespeicherten Kriterien löschen möchten.</block>
+  <block id="e60b7af6b78397b0ce0994c4015a587d" category="list-text">Klicken Sie auf *Ja*, um gespeicherte Kriterien zu löschen.</block>
+  <block id="4df02438231eca964f432488d557b6f5" category="list-text">Klicken Sie auf *Nein*, um die gespeicherten Kriterien beizubehalten.</block>
+  <block id="79726b4c9f899e56eafd4512d22caacb" category="summary">Gespeicherte Konfigurationen können gelöscht werden, indem der Tag-Name entfernt wird.</block>
+  <block id="bf4001c078f5dca25c6479d2b9431402" category="doc">Tag-Namen löschen</block>
+  <block id="fb5a9d2c1fe276643cc1aa4fdebbd902" category="paragraph">Sie können das gesamte Tag für gespeicherte Konfigurationen löschen.</block>
+  <block id="4608e0dce52112ef1d1bd967e80b2d38" category="paragraph">Gespeicherte Konfigurationen können gelöscht werden, indem der Tag-Name entfernt wird. Wenn Sie den Tag-Namen löschen, werden auch alle Konfigurationen, die diesen Tags zugeordnet sind, gelöscht.</block>
+  <block id="5062ba1d716aef6e001b96cddc22ed74" category="list-text">Klicken Sie Auf *Favoriten*.</block>
+  <block id="a07f03fd67353527209dd024831a83d2" category="list-text">Klicken Sie im Dialogfeld *Saved Criteria* auf die Registerkarte *Konfigurationen*.</block>
+  <block id="972790e194f7d2d4e41a0b2a925ab4a5" category="list-text">Klicken Sie unter der Spalte *Aktion* auf das Symbol X löschen. Das Popup-Fenster wird angezeigt, in dem Sie gefragt werden, ob Sie gespeicherte Tags und die zugehörigen Konfigurationen löschen möchten.</block>
+  <block id="aad967fedaa6422cd5835bf24465b610" category="list-text">Klicken Sie auf *Ja*, um Tags und die zugehörigen Konfigurationen zu löschen.</block>
+  <block id="905b6080bfd6bbca59e95aff6f95cae4" category="list-text">Klicken Sie auf *Nein*, um Tags und die zugehörigen Konfigurationen beizubehalten.</block>
+  <block id="3b7663c6488dd7497c4f7d3f79a8b572" category="summary">Sie können die zuvor gespeicherten Suchkriterien bearbeiten.</block>
+  <block id="e1045688150584d0415262e4c5db2f62" category="doc">Gespeicherte Kriterien bearbeiten</block>
+  <block id="f38842a1b7f6007a12c6d273c814dadd" category="paragraph">Sie können die zuvor gespeicherten Suchkriterien bearbeiten. Sie können den gespeicherten Kriterien neue Komponenten hinzufügen oder die Komponente aus vorhandenen gespeicherten Kriterien entfernen.</block>
+  <block id="01b6291996d2daf375eb9bc01feae0e1" category="paragraph">Sie müssen die gespeicherten Kriterien für die Bearbeitung laden.</block>
+  <block id="4e102708baf37507d21f0447c94ee3bc" category="list-text">Laden Sie die gespeicherten Kriterien, und klicken Sie auf den Link gespeicherte Kriterien.</block>
+  <block id="03d162f9e1a3d030cb5f634bba50c3dc" category="list-text">Klicken Sie auf den Link *Suchkriterien verfeinern*. Sie können die Kriterien hinzufügen oder aus gespeicherten Kriterien entfernen.</block>
+  <block id="8429e5c7fba655ffa4aa171da613819d" category="summary">Das Interoperabilitäts-Matrix-Tool (IMT) ist eine webbasierte Applikation, mit der Sie nach Kompatibilität und unterstützten Konfigurationen für Ihre NetApp Produkte suchen.</block>
+  <block id="65feb00ad7f6ce9dd8b3acfd443cba40" category="doc">Entdecken Sie das Interoperabilitäts-Matrix-Tool</block>
+  <block id="8d1d531715a92e9a9357a3f3a1c54f69" category="paragraph">Sie können die folgenden Aufgaben ausführen:</block>
+  <block id="838d52c510b3a7c971d00f7eb0b43d01" category="cell">Wird verwendet...</block>
+  <block id="32fbba6dfc90536fe1616258f0747518" category="cell">Sie können diese Aufgaben ausführen...</block>
+  <block id="7b19b37e7fc3dfe3c3e1ad5b84c7f565" category="cell">Homepage</block>
+  <block id="80bea2be0d3ad5e38297adac8974aa4f" category="cell">Suche mit *ONTAP SAN-Host vereinfacht, Lösungssuche, Liste und Suche* und *Erweiterte Suche* zur Kompatibilität. Bietet einen direkten Link zu den *Training* Videos und dem *Active IQ Interop Berater*.</block>
+  <block id="cf4551d7b1bd3de8dfd62bdcc6e70c2f" category="cell">ONTAP-SAN-Host vereinfacht</block>
+  <block id="60fbb95c37f0a079f6fa8e84e18325bf" category="cell">Prüfen Sie die Kompatibilität für ONTAP-Versionen und Flash/Fabric-Speicherversionskombinationen.</block>
+  <block id="d8214a5e3a3f89026f9e128a9947c838" category="cell">Lösungssuche</block>
+  <block id="8347ea1ca5f67e9f27579e43050128f4" category="cell">Suchen Sie nach einer Lösung und fügen Sie Kriterien hinzu, um die Kompatibilität zu überprüfen.</block>
+  <block id="c1fe3261108a6e6d19adbd4b06e983ca" category="cell">Auflisten und Suchen</block>
+  <block id="47dc8a6eb13d5fc80c7ddf178846b883" category="cell">Sie müssen wissen, wo die Komponente in verschiedenen Konfigurationen und in allen Lösungen eingesetzt wird.</block>
+  <block id="cd4e65d959c181a6c42b57f47e56e716" category="cell">Erweiterte Suche</block>
+  <block id="f1bc039f73889af1f8c8e3a4f6103d4d" category="cell">Suchen Sie nach Komponenten und fügen Sie Kriterien hinzu, um die Kompatibilität zu überprüfen.</block>
+  <block id="4ca2c509994c2776d0880357b4e8e5be" category="cell">Abonnements</block>
+  <block id="36fb8ca6aa944624dd0cdddb3b56d3e6" category="cell">Zeigen Sie * Speicherlösung, Kategorie oder Komponente* Konfigurationen an, die Sie zuvor abonniert haben.</block>
+  <block id="a274f4d4670213a9045ce258c6c56b80" category="cell">Benachrichtigungen</block>
+  <block id="9221dc792411a0ea421419adc679b8d2" category="cell">Anzeigen von IMT Update-Benachrichtigungen</block>
+  <block id="2b0c8dd29b8b84cc77b5cb3c21399a9a" category="cell">Gespeicherte Suche</block>
+  <block id="93da16e00ed47a17a22590f0fa1beb9a" category="cell">Öffnen Sie zuvor gespeicherte Suchvorgänge.</block>
+  <block id="b79fae1e80742757dc061d411aeb4587" category="cell">Konfig. Nicht gefunden</block>
+  <block id="90015d541decc5071ffdbc3ae63cfbc2" category="cell">Verwenden Sie diese Datei, um eine Konfiguration zu melden, die Sie in IMT nicht finden können.</block>
+  <block id="867748323b222a2e63666df4061a041b" category="cell">Toolbox</block>
+  <block id="0cebc24da73d54eee7400905a4684825" category="cell">Greifen Sie abhängig von Ihrer Rolle als *Kunde, Partner oder interner NetApp*-Mitarbeiter auf Tools zu.</block>
+  <block id="c91c7b93c28cd18741b71f727ee81ee3" category="cell">Berichte An</block>
+  <block id="18c669584ed4674d6aaf2cc2085e0c43" category="cell">Exportieren von Konfigurationen für eine Lösung mit dem Bericht *Complete Daily Exports* oder Exportieren von Komponenten zur Unterstützung der End-of-Version mithilfe des Berichts *Component EOVS Summary*.</block>
+  <block id="782f86dab3644181f614dc64b9708b07" category="cell">Abwägen</block>
+  <block id="8d6a407792142d332c838476468f3434" category="cell">Erstellen Sie eine Liste der Favoriten * Liste und Suchen* Kategorien. Diese Kategorien werden oben im *Component Explorer* in *Liste und Suchen* angezeigt.</block>
+  <block id="6a26f548831e6a8c26bfbbd9f6ec61e0" category="cell">Hilfe</block>
+  <block id="21b1f67b9d532aeefe938fbfbd201669" category="inline-link">NetApp Learning Center</block>
+  <block id="31c275477b920694cd24e6a1ed45d1d4" category="cell">Klicken Sie auf *Was ist neu*, um die neuesten Versionshinweise für den IMT anzuzeigen. Klicken Sie auf *Online-Hilfe*, um dieses Hilfeset zum Interoperabilitäts-Matrix-Tool anzuzeigen. Klicken Sie auf *Training*, um Videos anzuzeigen, in denen Sie erfahren, wie Sie das Interoperabilitäts-Matrix-Tool verwenden können<block ref="a8b86e50f810c84420a9f4a1ca1c2aaf" category="inline-link-rx"></block>. Um ein Problem zu melden oder Feedback für das Interoperabilitäts-Matrix-Tool zu geben, klicken Sie auf den Link *Problem melden*. Klicken Sie auf *FAQ*, um die häufig gestellten Fragen und Antworten zu IMT anzuzeigen. Klicken Sie auf *Dateninitiative*, falls verfügbar, um die geplante Bereinigung der IMT-Datenbank anzuzeigen. Klicken Sie auf *über IMT*, um die Version und Copyright-Erklärung anzuzeigen. Klicken Sie auf *Bekannte Probleme*, um gemeldete und ungelöste Fehler im Produkt anzuzeigen.</block>
+  <block id="ebc93e917d94e9d73100eed072d35153" category="cell">Tour starten</block>
+  <block id="83be70b7054326cbcc3cee029eb8165e" category="cell">Sehen Sie sich eine Führung durch die IMT an.</block>
+  <block id="40a7332ba168806ae7541e3b0d032443" category="cell">&lt;Your name&gt;</block>
+  <block id="3546181752f7fdc0791222b6f6046888" category="cell">Klicken Sie auf *Abmelden* des IMT.</block>
+  <block id="2500925cc553d5478036c23a243f8242" category="admonition">Wenn Sie die Größe des Fensters ändern, reagieren alle Seiten.</block>
+  <block id="f3cc6d813c2827f8ce715f9a5062edea" category="summary">Sie können die Konfigurationsergebnisse über die Seite *Ergebnisse* mit der Exportfunktion exportieren.</block>
+  <block id="4d69b4cfaa8dc0d672ee2750a68eb35a" category="doc">Exportieren Sie die Konfigurationsergebnisse</block>
+  <block id="edd2e0e3ba53de74b00fda66d6e0cd30" category="paragraph">Sie können die Konfigurationsergebnisse von der Seite *Ergebnisse* mit der Funktion *Export* exportieren. Der Export der Konfigurationsergebnisse enthält Details der Storage-Lösung, Suchkriterien, Konfigurationsdetails sowie etwaige spezifische Warnmeldungen oder zusätzliche Informationen. Sie können die Konfigurationsergebnisse in eine Excel-Tabelle oder eine PDF-Datei exportieren.</block>
+  <block id="4d3d15b0efce04bf2169f229735b7e5e" category="paragraph">Das Dateiformat des Excel-Sheets, das die Konfigurationsergebnisse enthält, lautet<block ref="985f9eebd8d56495a0d7e06fd8095217" prefix=" " category="inline-code"></block>.</block>
+  <block id="7c58248a593dd85ba9d14adda2af0325" category="list-text">Auf der Seite *Results* können Sie aus dem Dropdown-Menü *Export* die aktuelle Lösung oder die End-to-End-Ansicht der Konfiguration exportieren.</block>
+  <block id="66091295deef68a4da160f714733d1ac" category="list-text">Klicken Sie je nach Anforderung auf *Aktuelle Lösung* oder *End-to-End-Ansicht*. Sie können maximal 3000 Zeilen exportieren. Bisher konnten Sie bis zu 1000 Zeilen exportieren, aber dieses Limit wurde erhöht. Sie sollten einen Filter verwenden, um die Ergebnisse zu reduzieren. Optional können Sie die Funktion *Complete Daily Export* verwenden, um die vollständigen Ergebnisse zu erhalten.</block>
+  <block id="b745f43e456fd9c2883fdd9f0d3ee707" category="list-text">Sie können die Excel-Tabelle oder PDF auf Ihrem lokalen Computer speichern.</block>
+  <block id="1f5d7f61729ac0ea99e21d432126eac7" category="summary">Sie können das Interoperabilitäts-Matrix-Tool verwenden, um die unterstützten Host-Betriebssysteme anzuzeigen, die mit Ihrem Produkt kompatibel sind.</block>
+  <block id="71d1e250108880b270352884440117ac" category="doc">Finden Sie ein kompatibles Host-Betriebssystem für Ihre Produkte</block>
+  <block id="dfcf3d00132f60b1f9af426756af39fe" category="image-alt">pg12-IMT</block>
+  <block id="1d2471da896e9e5fab480da3eb4161fb" category="summary">Sie können das Interoperabilitäts-Matrix-Tool verwenden, um die kompatiblen Windows Server-Hosts für Ihre Produkte anzuzeigen.</block>
+  <block id="bd3874832b029bd93d2d2f94463ef334" category="doc">Finden Sie den kompatiblen Windows Server-Host für Ihre Produkte</block>
+  <block id="4225b706e93edb73a4180776f639dfe7" category="image-alt">pg13 IMT</block>
+  <block id="0c2d5226b127fb12ad60a887e5f266b3" category="summary">Sie können das Interoperabilitäts-Matrix-Tool verwenden, um das unterstützte Host-Betriebssystem für eine Konfiguration wie die Cisco UCS P81E-Karte auf FCoE anzuzeigen.</block>
+  <block id="f701ebce5644882936dc64dd39c9e75b" category="doc">Finden Sie Kompatibilität mit HBA-Karten</block>
+  <block id="cd5bfefb4f335e7277b894d20557e348" category="paragraph">Mit dem *ONTAP SAN Host vereinfacht* Feature wird die Benutzeroberfläche vereinfacht und in drei Komponenten zusammengefasst; es gab dreizehn Komponenten in früheren Versionen der Benutzeroberfläche. Die restlichen zehn Komponenten werden von NetApp implizit unterstützt, sofern sie von den jeweiligen Herstellern unterstützt werden. *Hinweise* und *Alerts* sind nach Lösungen kategorisiert und werden zu jedem Ergebnis hinzugefügt.</block>
+  <block id="c5cd5334918aca90ae81dbed3fa9af3c" category="paragraph">Das Interoperabilitäts-Matrix-Tool (IMT) unterstützt drei Komponenten: ONTAP OS, Host OS und Protokoll.</block>
+  <block id="b17081c5e9cf9e3edc7d38c568fd322d" category="paragraph">Sie können die IMT verwenden, um die Support-Möglichkeiten des Host-Betriebssystems mit ONTAP zu validieren.</block>
+  <block id="7f8e8bbc7831c49dc122632c2c03c040" category="paragraph">Validieren Sie beispielsweise die Kompatibilität der Cisco Unified Computing System (Cisco UCS) Blade-Server mit ONTAP, indem Sie die folgende Konfiguration verwenden:</block>
+  <block id="903b1963227fde2db30556c33f131e19" category="paragraph">*Beispiel Cisco UCS Blade Server Konfiguration*</block>
+  <block id="a1b6188d218e5bddeebed696cbf3bae3" category="list-text">ONTAP OS: 9.13.1</block>
+  <block id="db5c940963f3979029b7899c10d971a8" category="list-text">Host-Betriebssystem: Red hat Enterprise Linux 9.2</block>
+  <block id="1c0367b44b8dbceb306ecc16ca826d83" category="list-text">Servermodell: Cisco UCS B200 M6 Blade-Server</block>
+  <block id="fbb66a2116e69bb488ef282fee889dcc" category="list-text">Host Bus Adapter (HBA)</block>
+  <block id="94feebc966033912ff0490b818801a4b" category="list-text">Modell: Cisco UCSB-MLOM-40G-04: Virtuelle Schnittstellenkarte Cisco UCS 1440</block>
+  <block id="1597865539e82b0429e32ba1a84643bc" category="list-text">Treiberversion: 1.6.0.53 fnic</block>
+  <block id="7ef571fcd3081fe3d4f3281411fa4ccd" category="list-text">Firmware-Version: 5.3(2)</block>
+  <block id="dcb8960d2f325ec47f22259068aba8c8" category="list-text">UCS Server Firmware: 5.2(0)</block>
+  <block id="b7745ef6a31023a20564a3a8e4acb14c" category="list-text">Protokoll FCoE</block>
+  <block id="8cd6f90ffa50a2b2dfe337b908a91c7f" category="paragraph">*Validierung der Cisco UCS Blade Server Supportfähigkeit*</block>
+  <block id="4a92a4cf25a34fa4eaffac25ad161bc8" category="list-text">Verwenden Sie die Funktion *ONTAP SAN Host Simplified* im IMT, um zu überprüfen, ob die Protokolle ONTAP 9.13.1, Red hat Enterprise Linux 9.2 und FCoE als unterstützte Konfigurationen aufgeführt sind.</block>
+  <block id="97d490040c565812e57790b753f6fb5c" category="list-text">Die von NetApp unterstützten HBA-Anbieter sind Broadcom, Marvell und Cisco. Cisco ist in der Liste der unterstützten Adapter enthalten, was bedeutet, dass auch die Cisco Virtual Interface Card (VIC) unterstützt wird.</block>
+  <block id="897676d58c3f76b10936d3debb7bb161" category="list-text">Überprüfen Sie mithilfe der Liste der Hardwarekompatibilität des Herstellers (HCL) die Cisco „UCS-Hardware- und Softwarekompatibilität“. Wie in der vorherigen Liste der Serverkonfigurationen erwähnt, überprüfen Sie, ob das HBA-Adaptermodell, die UCS-Server-Firmware-Version sowie der HBA-Treiber und die Firmware-Versionen von Red hat Enterprise Linux 9.2 unterstützt werden.</block>
+  <block id="7353700d57c9a48ad214ff004b566fc8" category="summary">Bestimmen Sie ..</block>
+  <block id="1b86a9df2cffd5bd4c8a027852a50f51" category="doc">Suchen Sie nach einer bestimmten Konfiguration und prüfen Sie, ob Produkt-Upgrades oder Downgrade-Supportmöglichkeiten verfügbar sind</block>
+  <block id="53045d2f9f252f0aa1fbe1c934b812cc" category="paragraph">Mit dem Interoperabilitäts-Matrix-Tool können Sie eine bestimmte Konfiguration anzeigen, um eine Komponente in Ihrer Produktkonfiguration zu aktualisieren oder herunterzustufen.</block>
+  <block id="aae161f20246806ea2d8edf77f1cd2ed" category="image-alt">Workflow zur Anzeige einer bestimmten Konfiguration zum Upgrade oder Downgrade</block>
+  <block id="ddb380061e50fe0b9c27047f8c07bb45" category="summary">Im Interoperabilitäts-Matrix-Tool (IMT) können Sie auf der Seite Suchkriterien verfeinern die kompatiblen Konfigurationen für Ihr Produkt anzeigen lassen.</block>
+  <block id="82625324f206dd07579432d92f280602" category="doc">Finden Sie die Kompatibilität mit Suchkriterien verfeinern</block>
+  <block id="661e70dad5348cd369ab703d47b4ee48" category="paragraph">Im Interoperabilitäts-Matrix-Tool (IMT) können Sie auf der Seite *Suchkriterien verfeinern* die kompatiblen Konfigurationen für Ihr Produkt anzeigen. Sie können nach kompatiblen Lösungen, Komponenten, Kategorien oder Konfigurationen für Ihr Produkt suchen. Durch Auswahl der entsprechenden Komponenten können Sie die Konfigurationsergebnisse je nach Ihren Anforderungen eingrenzen.</block>
+  <block id="3e281bb9c9ea48af83b90fc55763535a" category="section-title">Kompatibilitätswarnung</block>
+  <block id="3089ec2ecc746b837909fb0f8891a7de" category="paragraph">Wenn eine der Komponenten auf der Seite *Suchkriterien verfeinern* in der IMT-Endbenutzer-App miteinander kompatibel ist, wird eine Kompatibilitätswarnung angezeigt. Die Kompatibilitätswarnung, die rot markiert und oben auf der Seite angezeigt wird, sieht ähnlich aus wie die folgende Meldung:</block>
+  <block id="2551865ad6ce7e6f5e1ec745b09203dc" category="paragraph"><block ref="e9507c6157e22dd28c8b6fe86c5c8286" prefix="" category="inline-code"></block></block>
+  <block id="5da9122ffe67411f6bb966becfc55c68" category="paragraph">Wenn die Kompatibilitätswarnung angezeigt wird, navigieren Sie zur Seite *Unterstützte Konfigurationen anzeigen*, indem Sie auf den Link *Unterstützte Konfigurationen anzeigen* klicken.</block>
+  <block id="fc92c1e728dca6d51aee88f427690340" category="summary">Auf der Seite Suchkriterien verfeinern können Sie aus Kompatibilitätsgründen eine URL generieren.</block>
+  <block id="5cc0277c370ca1c2d5a7d406cc3cbfbe" category="doc">Generieren Sie die URL</block>
+  <block id="69accc7f3e266d63fbd0e69677876cef" category="paragraph">Auf der Seite *Suchkriterien verfeinern* können Sie aus Kompatibilitätsgründen eine URL generieren. Sie können die generierte URL in andere Tools einbetten, auf die NetApp Support-Website hochladen oder über eine E-Mail freigeben. Die generierte URL kann direkt in den Browser hochgeladen werden.</block>
+  <block id="f0b23f621e4092613ca29524bc68cbe3" category="list-text">Wählen Sie auf der Seite *Suchkriterien verfeinern* die Komponenten aus, um die Ergebnisse zu filtern.</block>
+  <block id="fcd387b27a07e82e1794cf788dd97515" category="list-text">Klicken Sie auf *URL generieren*.</block>
+  <block id="fed2cbfa37c3d422304ffa67ef9fad09" category="list-text">Kopieren Sie die URL aus dem Fenster URL-Freigabe.</block>
+  <block id="8ed9eb3b74971c91c758fddb1cb97292" category="list-text">Klicken Sie Auf *Ok*.</block>
+  <block id="6242808d4dbdafbb3cb8ed26c467f473" category="admonition">Sie können die von Ihnen generierte URL verwenden. Die URL zeigt die Komponenten und Lösungen an, die Sie den Suchkriterien hinzugefügt haben.</block>
+  <block id="b2869ebd73bb749c2a70fb53b7fb839a" category="summary">Hier erhalten Sie Hilfe und weitere Informationen über verschiedene Ressourcen, Dokumentationen und Foren.</block>
+  <block id="bf07f432276ee2fe7e55f9ea12c2ba5a" category="doc">Weitere Informationen</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="inline-link">Dokumentation</block>
+  <block id="e68bf38d69c46a5bdcb0ed45d61f1a86" category="list-text"><block ref="1e10b7111669dab6afefe8316896b856" category="inline-link-rx"></block> – Versionshinweise und Leitfäden für diese Version und frühere Versionen.</block>
+  <block id="ce279515f15bf629655dc687c280f365" category="inline-link">NetApp-Schulung auf YouTube</block>
+  <block id="446b148c7e08d603df3b2e6f260e2fee" category="list-text"><block ref="30896e55faaf8126310f6a705c902e48" category="inline-link-rx"></block> – NetApp-Videos.</block>
+  <block id="ed08ca4078374e76c6df3f1999af7274" category="inline-link">NetApp Ressourcen</block>
+  <block id="7d88aef12769e53ffd597ccbc028b3c9" category="list-text"><block ref="75f8e16df20a05b225d51263c0872f38" category="inline-link-rx"></block> – Technische Berichte und Artikel der Knowledgebase. Suchen Sie nach „IMT“.</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="inline-link">NetApp Community</block>
+  <block id="911f726ab6a13b9b83840ef0fa3bc02c" category="list-text"><block ref="03b9a261ab4d9f68701f67f952808855" category="inline-link-rx"></block> – NetApp Produkt- und Lösungsforen. Suchen Sie nach „IMT“.</block>
+  <block id="5b016255af60a025de6e765b432b0ddf" category="summary">*What If* ermöglicht es Ihnen, alle möglichen unterstützten Konfigurationen zu erkunden.</block>
+  <block id="a36cadb76d6293d933642bf23af7ee14" category="doc">Verwendung von Was-wäre-wenn</block>
+  <block id="2d02847e890a1e20bfe66285fc0e7a2e" category="paragraph">*What If* ermöglicht es Ihnen, alle möglichen unterstützten Konfigurationen zu erkunden. Sie können die Funktion *Was wäre wenn* verwenden, um eine Komponente in einer ausgewählten Konfiguration zu aktualisieren oder herunterzustufen und die Kompatibilität zu untersuchen. Um alle unterstützten Konfigurationen nach dem Upgrade oder Downgrade einer Komponente anzuzeigen, können Sie die Option *Export* verwenden, um die Konfigurationsdetails in ein Excel-Arbeitsblatt oder eine PDF-Datei zu exportieren.</block>
+  <block id="6dd39fde28115596491353a74238c3eb" category="paragraph">Nachdem Sie im Fenster *Was wäre, wenn* eine bestimmte Komponente zum Upgrade oder Downgrade ausgewählt haben, können Sie anzeigen, ob die ausgewählte Komponente mit anderen Komponenten in der Konfiguration kompatibel ist oder ob keine passenden Konfigurationen vorhanden sind. Falls keine passenden Konfigurationen vorhanden sind, müssen Sie die anfänglichen Kriterien erweitern, um weitere Konfigurationen abzuleiten.</block>
+  <block id="3ca94b019ebcf195609637412cfbecb4" category="paragraph">Das Fenster *Was wäre, wenn* ist in zwei Bereiche unterteilt:</block>
+  <block id="d1a2c2e0873305b3f10930e78a06d693" category="list-text">Oberer Bereich gibt an, ob eine ausgewählte Komponente mit gültigen Konfigurationen übereinstimmt.</block>
+  <block id="3d6e9b4d2325d777a80c6ea6e8f25894" category="list-text">Im unteren Bereich werden die verschiedenen Kategorien und die jeweiligen Komponentenversionen angezeigt.</block>
+  <block id="431586057fcea1248f629ef709d196af" category="paragraph">Wenn Sie die gewünschte Konfiguration nicht finden können, klicken Sie auf *Feedback*, um ein Problem zu melden.</block>
+  <block id="1ed0e75eff9abebaaab606a416c58707" category="inline-link-macro">Problem melden</block>
+  <block id="baf93ba448f7254b708aa5fc23a8e495" category="paragraph">Weitere Informationen finden Sie unter <block ref="f96d8bc56daadf09d7c41f46d3821c84" category="inline-link-macro-rx"></block>.</block>
+  <block id="149adda509afef347898a0b709d39e7d" category="summary">Das NetApp Interoperabilitäts-Matrix-Tool (IMT) ist eine webbasierte Applikation. Mit IMT können Sie nach Konfigurationen von NetApp Produkten und Komponenten suchen, die den von NetApp vorgegebenen Standards und Anforderungen entsprechen.</block>
+  <block id="158b0cd8e98337e4dafd6291bed45568" category="doc">Übersicht über das Interoperabilitäts-Matrix-Tool</block>
+  <block id="37e479b45d451661f22614d5a8e413b7" category="paragraph">Das NetApp Interoperabilitäts-Matrix-Tool (IMT) ist eine webbasierte Applikation. Mit IMT können Sie nach Konfigurationen von NetApp Produkten und Komponenten suchen, die den von NetApp vorgegebenen Standards und Anforderungen entsprechen. IMT verfügt über ein Repository von Konfigurationen und bietet eine benutzerfreundliche Oberfläche für den einfachen Zugriff auf unterstützte Konfigurationsinformationen.</block>
+  <block id="3b38d533805bb323909418ba2bdd311b" category="paragraph">Über die NetApp Support-Website können Sie über einen der folgenden Standardbrowser auf IMT zugreifen:</block>
+  <block id="950ec0214988f2cee4280a4a29075cf3" category="list-text">Für Windows:</block>
+  <block id="22b5d218c1d742f76ac7a6d9690b1bb1" category="list-text">Chrome N und N-1</block>
+  <block id="8fdfc20ed5c81ca0f5bd75843bc1899a" category="list-text">Mozilla Firefox N und N-1</block>
+  <block id="d6a3c61f34bc8dbe9c017171f37c97f8" category="admonition">N steht für die neueste Version.</block>
+  <block id="472cd12a712c63a42fa8fb5f161318c6" category="list-text">Internet Explorer 11 und Edge</block>
+  <block id="ef4abdacddb3a269e8a751b134e32921" category="list-text">Für Mac:</block>
+  <block id="afd78709ed07b4142a023acd9db8eaa6" category="list-text">Safari 8 und höher</block>
+  <block id="1846c0f46567843e737d1a67e8731078" category="admonition">Das Interoperabilitäts-Matrix-Tool akzeptiert URL-Links mit Kriterien, um bestimmte Anwendungsfälle zu vereinfachen. Wenn Sie in einem anderen Tool auf einen Link klicken, um das IMT zu öffnen, können Sie auf eine Spielplatzseite anstatt auf die Startseite gelangen, auf der eine Lösung und bestimmte Komponenten vorausgewählt sind.</block>
+  <block id="7fff391a913df6fa81e6a758bd481434" category="section-title">Erste Schritte mit dem Interoperabilitäts-Matrix-Tool</block>
+  <block id="cb547853adc31f1f9620479aab3d8aa3" category="paragraph">Das Interoperabilitäts-Matrix-Tool (IMT) ist eine webbasierte Anwendung, mit der Sie die Kompatibilität Ihrer Produkte anhand verschiedener Lösungen, Konfigurationen, Komponenten und Kategorien suchen.</block>
+  <block id="f2a8ac65809a63e8e3e6f626c097d1f6" category="paragraph">Für eine einfache Navigation und Übersichtlichkeit ist dieses Tool in drei Seiten unterteilt: *Kriterien eingeben*, *Suchkriterien verfeinern* und *Ergebnisse*. Sie müssen die Suchkriterien auf der ersten Seite eingeben. Basierend auf Ihren Suchkriterien können Sie die Kompatibilität Ihres Produkts auf der Seite *Suchkriterien verfeinern* anzeigen. In diesem Thema erfahren Sie, wie Sie IMT verwenden können.</block>
+  <block id="5ac071492665ed1020665cc1993b0893" category="paragraph">Sie können die Ergebnisse auf der Seite *Ergebnisse* anzeigen. Mit diesem Werkzeug können Sie nach Komponenten suchen, eine Auswahl treffen, Kriterien erstellen und die Kompatibilität Ihres Produkts anzeigen.</block>
+  <block id="1b290eba2d0ec5102577653f0de1de81" category="paragraph">Sie können die folgenden Aufgaben ausführen:</block>
+  <block id="a6b3261fc23a937b32e2123b3ed6ed68" category="cell">Diese Seite wird verwendet...</block>
+  <block id="6f12bd346c696b73d9091ca4f240a027" category="cell">Geben Sie Kriterien ein</block>
+  <block id="0e724ecf725f7b1d5cc2242f67f9b034" category="cell">Geben Sie Suchkriterien ein, und suchen Sie nach einer Lösung, einer Komponente, einer Konfiguration und einer Kategorie. Wenn Sie den Namen der Lösung kennen, können Sie mit dem *ONTAP SAN-Host vereinfacht* oder der *Lösungssuche*-Funktion nach einer Lösung suchen. Wenn Sie einen Komponentennamen kennen, können Sie mit der Funktion *Liste und Suche* oder *Erweiterte Suche* nach einer Komponente suchen.</block>
+  <block id="cde0dc1f79281084f435d54a430ae20c" category="cell">Suchkriterien Eingrenzen</block>
+  <block id="3f723103dfc7576cf48548094e740f8b" category="cell">Finden Sie mehr definitive Ja oder Nein Antwort zu kompatiblen Lösungen, Komponenten, Konfiguration und Kategorie für Ihr Produkt. Sie haben die Möglichkeit, die ursprünglichen Kriterien, die Sie auf der ersten Seite eingegeben haben, mit *Änderungskriterien* oder *Versuchen Sie eine andere Methode* zu ändern. Wenden Sie Filter auf die Komponenten in jeder Kategorie an, um die für Ihr Produkt am besten geeignete Konfiguration zu finden. Entfernen Sie die Filter, die Sie mit *Alle löschen* oder dem *undo*-Symbol angewendet haben.</block>
+  <block id="fd69c5cf902969e6fb71d043085ddee6" category="cell">Ergebnisse</block>
+  <block id="58c512e9361b60acf4f063951883775b" category="cell">Nachdem Sie auf *Weiter*, das *&gt;*-Symbol oder den Splitter auf der zweiten Seite geklickt haben, sehen Sie sich die Seite *Ergebnisse* an. Sie können die Komponenten, Notizen und Verlaufsdetails einer Konfiguration anzeigen, die Suchergebnisse sortieren, die ausgewählten Suchkriterien anzeigen, die Suchkriterien ändern, die Suchergebnisse filtern und die Suchergebnisse in eine Microsoft Excel-Tabelle exportieren.</block>
+  <block id="86f21c73bb0c1d0d4e879859c545e31b" category="section-title">Verwenden Sie die Startseite des Interoperabilitäts-Matrix-Tools</block>
+  <block id="3b5ac8d03f9f6310e122c721b88f6864" category="paragraph">Auf der Startseite des Interoperabilitäts-Matrix-Tools (IMT) können Sie *ONTAP SAN Host vereinfacht*, *Lösungssuche, Liste und Suche* und *Erweiterte Suche* verwenden.</block>
+  <block id="8aa2be3c8541db53312080d6b7af39bf" category="paragraph">Sie können jede dieser Optionen als Standardsuche mit dem *als Standard festlegen*-Stern festlegen. Wenn Sie auf eine der Optionen klicken, wird die entsprechende Seite geöffnet, um die kompatiblen Konfigurationen zu untersuchen.</block>
+  <block id="318d41b50563b5f3d2ab4c315f1a8613" category="admonition">Um bereits gespeicherte Suchen zu finden, können Sie das Menü *gespeicherte Suche* verwenden. Wenn Sie die benötigte Konfiguration nicht finden können, klicken Sie auf das Menü *kann Konfiguration nicht finden?* und melden Sie das Problem.</block>
+  <block id="61227a4a707d7c445d63c926c6891462" category="summary">Bei der Verwendung des Interoperabilitäts-Matrix-Tools ist es wichtig, dass Sie einige der allgemeinen Anwendungsfälle verstehen, die mithilfe der Workflows erläutert werden.</block>
+  <block id="2a85b4097b57bbd38dd15aa7ab34a80d" category="doc">Suchworkflow des Interoperabilitäts-Matrix-Tools</block>
+  <block id="d73b0da3447a7b3c3de838cc2d8f3705" category="summary">Sie können die zuvor gespeicherten Konfigurationen von der Startseite aus laden. Sie können den Tag-Namen, die Beschreibung und den Lösungsnamen der gespeicherten Konfiguration anzeigen.</block>
+  <block id="aeb4f40f23d25ac709dfd1830f05a3c6" category="doc">Gespeicherte Konfiguration laden</block>
+  <block id="43749eb5a2d09f8f8e3529b59e2f3628" category="paragraph">Sie können die spezifische Konfiguration laden, indem Sie nach dem Namen suchen, den Sie für diese bestimmte Konfiguration angegeben haben.</block>
+  <block id="d5bcfba6484fd0f51d0c051578a06c55" category="paragraph">Wenn Sie die Konfiguration bereits gespeichert haben, können Sie sie jederzeit später laden.</block>
+  <block id="0daf919eb8e41b5dc97a4af2ef833bf5" category="list-text">Klicken Sie auf der Startseite auf die Option *gespeicherte Suche*, um die gespeicherte Konfiguration zu laden.</block>
+  <block id="a181166aa1053e21a6817485b8a62953" category="list-text">Klicken Sie auf der Registerkarte *Saved Configuration* auf Configuration.</block>
+  <block id="1e72ee87bb0ae1884d33e091d24de098" category="list-text">Wenn Sie den Mauszeiger über die gespeicherte Konfiguration bewegen, wird der Konfigurationsname angezeigt.</block>
+  <block id="047c69a510c16702380165aebda65688" category="list-text">Klicken Sie auf *Tag Name* und laden Sie die Konfiguration.</block>
+  <block id="0532f3e0c0e98b366c17c05b7808fb2d" category="list-text">Klicken Sie auf den Link *Details anzeigen*, um zur Ergebnisseite zu gelangen.</block>
+  <block id="e8d00dad529b9352fc56fd8fa9796fc6" category="summary">Auf der Startseite können Sie entweder nach Komponenten suchen oder die zuvor gespeicherten Kriterien laden.</block>
+  <block id="3ad141b1cd2afe19f2415bd41fab474d" category="doc">Gespeicherte Kriterien laden</block>
+  <block id="0005c57f76ba9e8ea662b5ef32a2de85" category="paragraph">Sie müssen die Suchkriterien auf der Startseite gespeichert haben.</block>
+  <block id="0819aa555edc864acfa72a53c486c126" category="paragraph">Sie können auf *gespeicherte Suche* klicken, um alle zuvor gespeicherten Kriterien zu laden.</block>
+  <block id="0dfb7116d87298f76b2e085602e4502a" category="list-text">Klicken Sie auf der ersten Seite auf *gespeicherte Suche*.</block>
+  <block id="21fa2b596d8adeb516e52bce39d9c334" category="list-text">Klicken Sie auf *Kriterien* oder *Konfiguration*, um die gespeicherten Kriterien oder Konfigurationen zu laden. Nachdem Sie den Kriteriennamen ausgewählt haben, werden die Kriterien im Bereich Suchkriterien geladen.</block>
+  <block id="1efc14e81baa9059e46f78473ef543aa" category="summary">Auf der Seite Suchkriterien verfeinern können Sie die Suchkriterien ändern, um den Kriterien eine Lösung, Komponente oder Kategorie hinzuzufügen.</block>
+  <block id="1dc11ad6ca9ec5fdcdb1a9cf379f5504" category="doc">Ändern Sie die Suchkriterien</block>
+  <block id="ce17a27bd8d11f30bd723bd5b488d63e" category="paragraph">Auf der Seite *Suchkriterien verfeinern* können Sie die Suchkriterien ändern, um eine Lösung, eine Komponente oder eine Kategorie zu den Kriterien hinzuzufügen.</block>
+  <block id="ae5a975594bcd4ddf1dfd63c649f56d2" category="list-text">Klicken Sie auf der Seite *Suchkriterien verfeinern* auf *Kriterien ändern*.</block>
+  <block id="e0636dc5974ea34440665a409c5f15e1" category="list-text">Auf der Seite Suchkriterien können Sie eine Lösung, Komponente oder Kategorie über das Textfeld Suchen hinzufügen.</block>
+  <block id="1697e862953ccbbd56111e77eb57c685" category="list-text">Klicken Sie auf *Weiter*, um die kompatiblen Konfigurationen auf der Seite *Suchkriterien verfeinern* anzuzeigen.</block>
+  <block id="1463523d7e5042eac98a0ddebe5aa86c" category="summary">Verwenden Sie die Karten auf der Startseite des Interoperabilitäts-Matrix-Tools (IMT), um allgemeine Suchvorgänge durchzuführen, einschließlich des vereinfachten ONTAP-SAN-Hosts, der Lösungssuche, der Liste und Suche sowie der erweiterten Suche.</block>
+  <block id="3bdc568a8bcd812e1b8ceca566581918" category="doc">Führen Sie allgemeine Suchen durch</block>
+  <block id="3af0043e9a42dbcb3994fe0a434a71ce" category="paragraph">Verwenden Sie die Karten auf der Startseite des Interoperabilitäts-Matrix-Tools (IMT), um gemeinsame Suchvorgänge durchzuführen, einschließlich *ONTAP SAN-Host vereinfacht*, *Lösungssuche*, *Liste und Suche* und *Erweiterte Suche*.</block>
+  <block id="d067ad360948d10f2d780f075697e18f" category="paragraph">Wenn Sie das IMT öffnen, werden die häufigsten Suchtypen auf der Startseite angezeigt:</block>
+  <block id="d502b8e07d27fad00c4965d4647db3a2" category="list-text">*ONTAP SAN Host vereinfacht*</block>
+  <block id="3fd79e93f13415c1bdd8b5549bbcaa6b" category="list-text">*Lösungssuche*</block>
+  <block id="74152f0f0743d856ced77dc3f2335ebd" category="list-text">*Liste und Suche*</block>
+  <block id="f5167a76744a057734881839f6024df8" category="list-text">*Erweiterte Suche*</block>
+  <block id="06d26363632e23515632763b195365bf" category="inline-link">Schulungsvideos</block>
+  <block id="a73a5f329094de39386ea09d01d1ddfc" category="inline-link">Active IQ Berater</block>
+  <block id="fb29be4696f2fe6f4f627f98a34a2f1b" category="paragraph">Sie können das auch von der Startseite aus ansehen<block ref="ec04b3a82336da62b4db4326887e8bbd" category="inline-link-rx"></block> oder öffnen<block ref="78271e392417a9b42ec24b305b4c350a" category="inline-link-rx"></block>.</block>
+  <block id="cf1c4646242def1428c155c9317d29a1" category="summary">Mit dem Interoperabilitäts-Matrix-Tool können Sie die kompatiblen Konfigurationen für Ihr Produkt auf der Seite *Suchkriterien verfeinern* ansehen.</block>
+  <block id="784e74992af3834f944fb515f4448bba" category="doc">Die Seite Suchkriterien verfeinern, um die Kompatibilität zu überprüfen</block>
+  <block id="1587d4268b25a2b9335f44610033db17" category="paragraph">Mit dem Interoperabilitäts-Matrix-Tool können Sie die kompatiblen Konfigurationen für Ihr Produkt auf der Seite *Suchkriterien verfeinern* ansehen. Sie können die Konfigurationsergebnisse von dieser Seite auf die gewünschten Konfigurationen für Ihr Produkt eingrenzen.</block>
+  <block id="e657f68f47b6f46ab9d94df9ae5adb88" category="paragraph">Sie können auf der Seite *Suchkriterium verfeinern* nur dann zur Seite *Suchkriterien verfeinern* navigieren, wenn die von Ihnen eingegebenen Kriterien Konfigurationen unterstützen. Die Seite *Suchkriterien verfeinern* ist in zwei Bereiche unterteilt:</block>
+  <block id="bff3de2c9fbca70fdd304c24e0c96f1e" category="list-text">*Suchkriterien*: Zeigt die zu den Suchkriterien hinzugefügten Lösungen, Komponenten und Filter an. Sie können die ursprünglichen Suchkriterien ändern, um die erforderlichen Konfigurationsergebnisse anzuzeigen. Sie können *Kriterien ändern* aktivieren, um zur Seite *Suchkriterien* zurückzukehren und die ursprünglichen Suchkriterien zu ändern. Sie können die Registerkarte *dynamische Filterung* überprüfen, um die Kompatibilität zwischen Komponenten sofort anzuzeigen. Sie können die Registerkarte *dynamische Filterung* deaktivieren, um mehrere Komponenten hinzuzufügen und auf *Update* count klicken. Sie können die Registerkarte *Try a different method* aktivieren, um zur Startseite zu navigieren.</block>
+  <block id="47e9518e04b7d57a34263f7892c863b8" category="list-text">*Suchkriterien verfeinern*: Zeigt die Liste der Komponenten in verschiedenen Kategorien an. Die in diesem Bereich aufgeführten Kategorien sind abhängig von den Suchkriterien und den kompatiblen Konfigurationen.</block>
+  <block id="38d79dd1e98099e8c66985ea5676f993" category="list-text">Wenn Sie eine Lösung in die ursprünglichen Suchkriterien aufgenommen haben, können Sie auf der Seite Refine *Suchkriterien* Komponenten aus dieser Kategorie sowie Komponenten aus anderen Kategorien auswählen.</block>
+  <block id="6cce0a2ed9251b55e6bfda158c667384" category="list-text">Wenn Sie bestimmte Komponenten in die ursprünglichen Suchkriterien aufgenommen haben, können Sie die in den ursprünglichen Suchkriterien enthaltenen Komponenten auf der Seite *Suchkriterien verfeinern* nicht abwählen, aber Sie können zusätzliche Komponenten aus anderen Kategorien auswählen.</block>
+  <block id="8ab8467c478df9b1a8aceed1245a2d66" category="paragraph">In jeder Kategorie können Sie das Filtersymbol verwenden, um das Textfeld für die Suche anzuzeigen und nach einer bestimmten Komponente zu suchen. Wenn Sie die Komponentenauswahl im Bereich *Suchkriterien* zurücksetzen oder löschen möchten, klicken Sie auf *Alle löschen*.</block>
+  <block id="3da77797c976f88886e4bcf4b163ecb0" category="paragraph">Abhängig von den Komponenten, die Sie aus den verschiedenen Kategorien auswählen, werden Sie feststellen, dass die Anzahl der Konfigurationsergebnisse variieren kann. Je mehr Komponenten Sie auswählen, desto enger wird das Interoperabilitäts-Matrix-Tool die Suchergebnisse eingrenzen und Sie können die gewünschte Konfiguration für Ihr Produkt anzeigen.</block>
+  <block id="df2c00b46ef9ba19741e02e6a0b37e63" category="summary">Sie können die gespeicherte Konfiguration entfernen oder aktualisieren, die Sie nicht benötigen.</block>
+  <block id="586536c712502532cd5e34785e9b1c25" category="doc">Konfiguration aus gespeicherten Tags entfernen</block>
+  <block id="961c8e5340cb5778c5805a50326242e5" category="paragraph">Wenn Sie die Konfiguration aus den Ergebnissen gespeichert haben, können Sie sie entfernen, wenn Sie sie nicht mehr als Referenz benötigen.</block>
+  <block id="03702cd77bb84e389813d7ad6b0a61cd" category="list-text">Klicken Sie auf das gelbe Sternsymbol, um die gespeicherte Konfiguration zu entfernen oder zu aktualisieren.</block>
+  <block id="6bb5550ec20db2972bec2a14c98b4334" category="list-text">Klicken Sie auf *Entfernen*, um die gespeicherte Konfiguration zu löschen. Nachdem Sie im Popup-Fenster auf die Schaltfläche Entfernen geklickt haben, ändert sich das Sternsymbol von gelb zu weiß.</block>
+  <block id="e1166f794cd554e4bb0519d72e4ac49c" category="summary">Wenn ein Problem auftritt, können Sie das Problem dem Support- und Feedback-Team melden.</block>
+  <block id="c9be257d441fc3cc4d51ae5752c6e9a1" category="paragraph">Wenn ein Problem auftritt, können Sie das Problem mit der Funktion *Problem melden* an das Support- und Feedback-Team melden.</block>
+  <block id="c7a90011ec4e77f58a2cac82e14e9ff6" category="summary">Sie können Ihre letzten Suchvorgänge speichern, um die Kriterien für spätere Suchvorgänge beizubehalten.</block>
+  <block id="54920763a7a968a65321a00d66b3acc3" category="doc">Speichern einer letzten Suche</block>
+  <block id="f3422b785e2576499ec1f1f61c205db5" category="paragraph">Auf der Seite Willkommen auf der IMT können Sie Ihre letzten Suchvorgänge speichern, um die Kriterien für spätere Suchvorgänge beizubehalten.</block>
+  <block id="c20fd47018c862a7451d053362dbf161" category="list-text">Klicken Sie auf Lösungssuche oder Erweiterte Suche.</block>
+  <block id="41560cf107c4abdd66a9c07e7023edb3" category="list-text">Wählen Sie die Suchkriterien aus.</block>
+  <block id="8debc2e41568eb8094071b5fa349e738" category="list-text">Wählen Sie direkt zu den Ergebnissen aus, oder klicken Sie auf Weiter, um Ihre Suchkriterien zu verfeinern, und navigieren Sie dann zur Seite Unterstützte Konfigurationen anzeigen (Ergebnisse).</block>
+  <block id="a7ed4616aab31f1b8a77e3e48b8a7082" category="paragraph">Ein Popup-Dialogfeld informiert Sie darüber, dass Ihre Kriterien automatisch gespeichert werden.</block>
+  <block id="f79de03d41d30156ddeeeeb88d64f5c6" category="summary">Sie können verschiedene Lösungen oder Konfigurationen über das Menü *gespeicherte Suche* laden, mit dem Sie zu zuvor gespeicherten Suchergebnissen, zuletzt gespeicherten Suchergebnissen und gespeicherten Konfigurationen navigieren können.</block>
+  <block id="bafb5d5d68032f0cd01cfbc25237cbaa" category="doc">Gespeicherte Suchfunktionen</block>
+  <block id="fcc9eb63d6626293c9d2af5d47a3694c" category="paragraph">Die Registerkarte *Suchkriterien* enthält Ihre gespeicherten Suchen. Auf dieser Registerkarte können Sie Suchen freigeben oder Suchen anzeigen, die andere für Sie freigegeben haben. Die Registerkarte *Konfiguration* enthält Ihre gespeicherten Konfigurationen. Auf dieser Registerkarte können Sie Konfigurationen freigeben oder Konfigurationen anzeigen, die andere für Sie freigegeben haben.</block>
+  <block id="bf7484feef7ef313fd098d9c643450f4" category="paragraph">Die Registerkarte *Letzte Suche* enthält die letzten 30 Sätze von Suchkriterien, vom letzten bis zum ältesten. Es listet auch den *Suchfluss* auf, der die Ursprungsseite angibt, die *Liste und Suche, Solution Explorer oder Advanced Search* sein kann. Die Kriterien werden automatisch gespeichert. Diese Seite listet auch das *Datum der letzten Änderung* einer gespeicherten oder letzten Suche auf. Sie können *Load* eine Suche aus der Liste laden, um die Kriterien bzw. Konfigurationen anzuzeigen.</block>
+  <block id="8a697a78ea03392a1de668f9f7640de2" category="summary">Sie können Ihre Kriterien mit anderen Benutzern teilen.</block>
+  <block id="40100e04c6c8b66e6166b86ca1223ad1" category="doc">Gespeicherte Suchkriterien für andere Benutzer freigeben</block>
+  <block id="d223a67d6761207bc0016c62152b8f78" category="paragraph">Auf der Seite *Suchkriterien verfeinern* können Sie Ihre *gespeicherte Suche*-Kriterien mit anderen Benutzern teilen.</block>
+  <block id="1afa3fab843060f56d47cf8e18d47c26" category="paragraph">Im Folgenden werden die drei verschiedenen Methoden zum Speichern und Freigeben der Suchkriterien beschrieben:</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-xref"></block>
+  <block id="0917c609dcc1133b4b04893020ce5a9b" category="list-text"><block ref="e1d20b7c5345a1ca0d4ca5f18c411088" category="inline-xref-macro-rx"></block></block>
+  <block id="7c8ad1f0e7393914bfd5bf3ef0aaa84e" category="list-text"><block ref="aa46c9ec17ec30bac8d2ba8aea4ef2b6" category="inline-xref-macro-rx"></block></block>
+  <block id="9b8d12df1814ba93968722bee2e2f7e6" category="list-text"><block ref="47f7ecc698c18cacae02465134f07565" category="inline-xref-macro-rx"></block></block>
+  <block id="2395aac43a3b28bcb3d86f1fb63899d8" category="section-title">Geben Sie die Kriterien beim Speichern an</block>
+  <block id="9575e98463c6debdaed1c1ef1328f491" category="paragraph">Auf der Seite Suchkriterien verfeinern können Sie die Suchkriterien beim Speichern freigeben.</block>
+  <block id="eb3a12b537be06f2f69e9ada2353baeb" category="paragraph">Sie müssen die Lösungen und Komponenten auf der ersten Seite hinzufügen, um die Kriterien beim Speichern zu teilen.</block>
+  <block id="d8e1a3e23e5ec1845d9c99d468966be7" category="list-text">Aktivieren Sie das Kontrollkästchen Freigeben, um die gespeicherten Suchkriterien freizugeben.</block>
+  <block id="60a8990ca87e2fd3f76ab563a9551c78" category="list-text">Geben Sie den Benutzernamen in das Textfeld für die Benutzersuche ein, und klicken Sie auf Benutzer hinzufügen.</block>
+  <block id="df4719a8986d0ca8627a45e5b2a46e04" category="admonition">Wenn der Benutzername nicht vorhanden ist, wird die Validierungsmeldung angezeigt.</block>
+  <block id="5925a1c0e312b718d3d78bbe35c3d49e" category="list-text">Sie können mit der Option „Benutzer suchen“ nachschlagen und Kriterien für die gemeinsame Nutzung einreichen.</block>
+  <block id="7426996286810ff9613244c7edeaf999" category="section-title">Teilen Sie die Kriterien nach dem Speichern</block>
+  <block id="9c0d2a5e2b8b6136baed97a7f63f0097" category="paragraph">Auf der Seite Suchkriterien verfeinern können Sie die Suchkriterien nach dem Speichern freigeben.</block>
+  <block id="b65245bdf543a38aa3b148a2330dbb3a" category="paragraph">Sie müssen die gespeicherten Suchlösungen und Komponenten auf der ersten Seite hinzufügen, um die Kriterien nach dem Speichern gemeinsam zu nutzen.</block>
+  <block id="a2885b4d6eff311636d00f627324f01c" category="list-text">Klicken Sie auf der Startseite auf die Option gespeicherte Suche.</block>
+  <block id="ff7f0220f271c42b464d84ad28453440" category="list-text">Klicken Sie auf „Teilen“, um die Kriterien für andere freizugeben.</block>
+  <block id="4cfc06fd58e7f0e2aa1b8f124813ae71" category="list-text">Geben Sie den Benutzernamen in das Textfeld ein, um die Benutzer zu durchsuchen, und klicken Sie auf Senden.</block>
+  <block id="2254b563c52fa08bf51259ad3a808829" category="section-title">Gemeinsame Kriterien anzeigen</block>
+  <block id="b8e28d04f87c426f5de7c9ef4f56a09e" category="paragraph">Sie müssen die Lösungen und Komponenten in der gespeicherten Suche speichern.</block>
+  <block id="5b7571e534ed46d4ca528df1d1715a72" category="list-text">Sie können die Kriterien anzeigen, die Sie mit anderen Benutzern geteilt haben, indem Sie die Option gespeicherte Suche als Standard festlegen.</block>
+  <block id="441a74be085e88436fc75c069f505a3d" category="list-text">Wählen Sie in der Spalte Freigegeben von den Eintrag Benutzername aus, um die gemeinsamen Kriterien anzuzeigen.</block>
+  <block id="7af3734b7440460bde586b702e40dc8c" category="list-text">Es wird eine E-Mail-Benachrichtigung an die freigegebenen Benutzer gesendet, die über die Freigabe informiert werden.</block>
+  <block id="cca1a017c6fe62d07caed34a55735170" category="admonition">Die Aktualisierung der ursprünglichen Kriterien hat keinen Einfluss auf die gemeinsamen Kriterien. Sie gelten als separate Einheiten.</block>
+  <block id="18713831a09c5c7f97239a674295ac2b" category="doc">Speichern Sie eine kürzlich durchgeführte Suche</block>
+  <block id="43ce49852967977e02b10f118f2140e2" category="list-text">Klicken Sie auf *Lösungssuche* oder *Erweiterte Suche*.</block>
+  <block id="e93c73fa13a2ee15f1e9b6e8d28873d8" category="list-text">Wählen Sie *direkt zu den Ergebnissen* oder klicken Sie auf *Weiter*, um Ihre Suchkriterien zu verfeinern, und navigieren Sie dann zur Seite *Unterstützte Konfigurationen anzeigen* (Ergebnisse). Ein Popup-Dialogfeld informiert Sie darüber, dass Ihre Kriterien automatisch gespeichert werden.</block>
+  <block id="bdfeda4bcd0bfa637e60d6c5fe2b25b5" category="summary">Sie können Konfigurationen mit einem beliebigen Namen für eine bestimmte Lösung speichern.</block>
+  <block id="cf565402d32b79d33f626252949a6941" category="doc">Konfiguration speichern</block>
+  <block id="09121540463fb871c274bbceeedeb725" category="paragraph">Sie können Konfigurationen mit einem beliebigen Namen für eine bestimmte Lösung speichern. Auf diese Weise können Sie die Konfigurationen zu einem späteren Zeitpunkt abrufen, ohne sich die komplizierte Konfigurations-ID merken zu müssen.</block>
+  <block id="ffe82760f5b16eb2eab68ba09dbf68c2" category="paragraph">Sie können die gewünschte Konfiguration später ganz einfach abrufen, indem Sie nach dem angegebenen Namen suchen.</block>
+  <block id="e2999eb17be3afc60649f822e6018954" category="paragraph">Wenn Sie später auf die Konfiguration verweisen möchten, können Sie die Konfiguration mit einem beliebigen Namen speichern.</block>
+  <block id="6808587d16f321260a9d307bdfcad9e7" category="list-text">Klicken Sie auf der Seite *Results* auf STAR, um die Konfiguration zu speichern. Nachdem Sie die Konfiguration gespeichert haben, wird der Stern gelb. Sie können maximal 20 Konfigurationen speichern.</block>
+  <block id="840cd922c8d96b582780e1afb3986579" category="list-text">Geben Sie im Dialogfeld *Tag-Konfiguration* den Namen und die Beschreibung ein, um die Konfiguration als Referenz zu markieren. Der gespeicherte Konfigurationsname wird auf dem Link Konfigurationsdetails angezeigt. Sie können einem bestimmten Tag mehrere Konfigurationen hinzufügen. Ein Tag ist für eine einzige Lösung einzigartig. Verschiedene Benutzer können denselben Tag-Namen verwenden.</block>
+  <block id="8a8179dcbfdb34614a07f6a3ab8767dc" category="list-text">Wählen Sie den Tag-Namen aus dem Dropdown-Pfeil aus, um Konfigurationen zu einer bereits gespeicherten Registerkarte hinzuzufügen.</block>
+  <block id="3f2d805e8c14e765c1ddc7588aa0af74" category="summary">Auf der Seite Suchkriterien verfeinern können Sie wählen, ob Sie die Suchkriterien speichern oder aktualisieren möchten, um sie später abzurufen.</block>
+  <block id="7cf37abfb86f13e7881ba7f0ee929775" category="doc">Speichern Sie die Suchkriterien</block>
+  <block id="69bd39b27396c460de7dffde002b3a4f" category="paragraph">Auf der Seite *Suchkriterien verfeinern* können Sie wählen, ob Sie die Suchkriterien speichern oder aktualisieren möchten, um sie später abzurufen.</block>
+  <block id="24bb7af209fc829bb1f38a2b1bbbcf02" category="paragraph">Sie müssen bereits Lösungen und Komponenten auf der ersten Seite hinzugefügt haben, um die Kriterien für die zukünftige Referenz zu speichern.</block>
+  <block id="e12e456faab15986ce687ca283dfee9a" category="list-text">Klicken Sie auf der Seite *Suchkriterien verfeinern* auf *Kriterien speichern*.</block>
+  <block id="c3511a2a75c145a073031ce67b4cde18" category="list-text">Geben Sie den *Criteria Name* ein und fügen Sie Informationen in die *Beschreibung* Felder ein. Der *Criteria Name* kann alphanumerisch sein und Sie können bis zu 20 Zeichen hinzufügen. Das Feld *Beschreibung* kann bis zu 100 alphanumerische Zeichen umfassen. Das Interoperabilitäts-Matrix-Tool lässt keine doppelten Namen für das Speichern von Kriterien zu. *Criteria Name* ist obligatorisch.</block>
+  <block id="394f358d6e8000897e7a01a4f208e59c" category="list-text">Klicken Sie auf *Kriterien aktualisieren*, um Filter oder Kriterien hinzuzufügen, die als Teil der gespeicherten Kriterien berücksichtigt werden sollen.</block>
+  <block id="c9cb70ada3079e89b71a014047a8c2da" category="list-text">Klicken Sie Auf *Speichern*. Der Link *Kriterien speichern* ändert sich in *Kriterien aktualisieren*, nachdem Sie die Kriterien gespeichert haben. Sie können maximal 10 Suchkriterien speichern.</block>
+  <block id="1c2330855bcf8dd1b692d50681ea4805" category="paragraph">Wenn Sie auf *gespeicherte Suche* klicken, wird ein Popup-Fenster mit den *gespeicherten Kriterien* angezeigt. Auf der Registerkarte *Letzte Suche* werden Ihre letzten Suchanfragen angezeigt.</block>
+  <block id="d449eb38510b44904f1a170873f49309" category="paragraph">Jede zuletzt gespeicherte Suche wird durch ihren Zeitstempel eindeutig identifiziert. Sie können auf den Zeitstempel klicken, um zur Seite *Suchkriterien verfeinern* zu gelangen.</block>
+  <block id="888b783c8de25fa8c73e802cc44e1eae" category="summary">Sie können die Funktion Was-wäre-wenn auf der Seite *Ergebnisse* verwenden, um eine Komponente in Ihrer Produktkonfiguration zu aktualisieren oder herunterzustufen. Sie können die Komponenten ändern und die Kompatibilität prüfen.</block>
+  <block id="d9e123d5d66e7b9d2184c4852d600235" category="doc">Wählen Sie eine Komponente aus, die aktualisiert oder heruntergestuktiert werden soll</block>
+  <block id="50f0605b66fe680311cdaf91c21b5c2c" category="paragraph">Sie können die Funktion *Was wäre, wenn* auf der Seite *Ergebnisse* verwenden, um eine Komponente in Ihrer Produktkonfiguration zu aktualisieren oder herunterzustufen. Sie können die Komponenten ändern und die Kompatibilität prüfen.</block>
+  <block id="4fc43e1250ee0fbf204db6bdc5a80acf" category="list-text">Klicken Sie auf *Was wäre, wenn*, um die Komponenten anzuzeigen, die Sie aktualisieren oder herunterstufen können, um die ausgewählte Konfiguration zu ändern.</block>
+  <block id="feebe9eaa17ff80987d6eb3d371add59" category="list-text">Klicken Sie auf eine Kategorie, um die verfügbaren Komponenten für das Upgrade oder Downgrade anzuzeigen.</block>
+  <block id="b8d80b74292e31d238a66820c48de737" category="list-text">Im Fenster Verfügbare Optionen können Sie nach einer bestimmten Komponentenversion suchen und diese auswählen.</block>
+  <block id="d2744c2316440720f728725fd2656a4e" category="list-text">Wenn die ausgewählte Komponente eine gültige Konfiguration ist und mit Ihrer früheren Konfiguration kompatibel ist, wird die Kompatibilitätsmeldung angezeigt. Sie können die Ergebnisse nun exportieren, um alle unterstützten Konfigurationen anzuzeigen.</block>
+  <block id="8b6ae4b6bac8d1c26b12c08daa8236bb" category="summary">Sie können Excel- oder PDF-Versionen der Lösungsberichte anzeigen und herunterladen.</block>
+  <block id="431bda3fd1123e74a18c1b2f404f7e3e" category="doc">Lösungsberichte</block>
+  <block id="999cd51a83c0715733614645b09d0112" category="paragraph">Sie können Excel- oder PDF-Versionen von Lösungsberichten mit der Funktion *Berichte &gt; tägliche Exporte abschließen* anzeigen und herunterladen. Sie können auch die Excel-Version der *Component EOVS Summary* herunterladen, die Komponenten auflistet, die die Versionsunterstützung erreicht haben.</block>
+  <block id="813c39388e3ea4a4a2178b06f3abbd5f" category="summary">Sie können einzelne oder mehrere Kategorien Ihrer Wahl abonnieren.</block>
+  <block id="f275139dd1477a6116bca7a603350e57" category="doc">Abonnieren Sie Kategorien</block>
+  <block id="459458724e11ff0e5c0c5226c14171c0" category="paragraph">Sie erhalten eine E-Mail-Benachrichtigung, wenn Komponenten in einer Kategorie hinzugefügt oder gelöscht werden.</block>
+  <block id="3577e45092be56ad7e64ba9b429c5705" category="list-text">Klicken Sie im Header-Menü auf den Link *Abonnement*.</block>
+  <block id="55f6cfca3d425decf96d896fa7580ab1" category="list-text">Wählen Sie im Abonnementfenster die Registerkarte *Kategorie* aus.</block>
+  <block id="7d96920540505974c713c982d17d0686" category="list-text">Aktivieren Sie für die Kategorie Ihrer Wahl das Kontrollkästchen für die Option Komponenten hinzugefügt oder gelöscht.</block>
+  <block id="214df4595fc1ae4002445d2e3d07b390" category="list-text">Wählen Sie im Feld *Frequenz* *sofort* oder *Digest* aus.</block>
+  <block id="7b3ef14ab163be72192be9a5252bd234" category="admonition">Die Standardauswahl ist *immediate*.</block>
+  <block id="1c7eecc0e0946fba660b6c6a82700369" category="list-text">Klicken Sie auf *Abonnieren*, um Abonnements für die Kategorien zu erhalten, die Sie abonniert haben.</block>
+  <block id="41a8e722844ed7656085dd96bbb0d312" category="admonition">Sie können auf *Zurücksetzen* klicken, um alle Optionen in der Registerkarte Kategorie zu löschen.</block>
+  <block id="8cdb27b864d6e06976dc6261cd18bb5b" category="summary">Sie können einzelne oder mehrere Komponenten Ihrer Wahl abonnieren.</block>
+  <block id="508fbbd790f857127c9155f0724c240d" category="doc">Abonnieren Sie Komponenten</block>
+  <block id="e81ebc26abd04b71d90173320c78d4dd" category="paragraph">Sie erhalten eine E-Mail-Benachrichtigung, wenn Änderungen am Anzeigenamen der Komponente oder des Status der Komponente vorgenommen werden.</block>
+  <block id="574e15debf5778641af59391da9500fe" category="list-text">Wählen Sie im Abonnementfenster die Registerkarte *Komponente* aus.</block>
+  <block id="01c10d345f044c7f18be37263c5baeed" category="list-text">Um die Komponente Ihrer Wahl zu abonnieren, aktivieren Sie das Kontrollkästchen für die Option *Attribut aktualisiert*.</block>
+  <block id="272cade40d7e9076a3e79ba7ae5d07a3" category="list-text">Klicken Sie auf *Abonnieren*, um die Abonnements für die Komponenten zu erhalten, die Sie abonniert haben.</block>
+  <block id="7f69ab239a1b8ebd84d3729fe9a802fe" category="admonition">Sie können auf *Reset* klicken, um alle Auswahlmöglichkeiten im Register *Komponente* zu löschen.</block>
+  <block id="e1e7614f94499f2aca20f63a15fb39e0" category="summary">Sie können Konfigurationen mit einem beliebigen Namen für eine bestimmte Lösung oder Komponente abonnieren.</block>
+  <block id="8c5e710b463aebcc3607a3e16a62d378" category="doc">Konfigurationen abonnieren</block>
+  <block id="4b08176137b02874d2675f566ef9dbec" category="paragraph">Sie können Konfigurationen mit einem beliebigen Namen für eine bestimmte Lösung oder Komponente abonnieren. Dies hilft Ihnen, Updates per E-Mail zu erhalten, wenn in der Zeile „abonniert“ eine Aktualisierung oder Änderung vorgenommen wird. Sie können maximal 20 Konfigurationen abonnieren.</block>
+  <block id="1f44a59ac278476eb9645e196a6b1af6" category="paragraph">Sie können die E-Mails für die folgenden Instanzen erhalten:</block>
+  <block id="873da3c1506651d4830f2fe6fd1198a9" category="list-text">Wenn Komponenten zur Konfiguration hinzugefügt werden</block>
+  <block id="87955c5cf2df63e6bef81a8605eb9c3e" category="list-text">Wenn Komponenten aus der Konfiguration gelöscht werden</block>
+  <block id="6b764f9ef0a98a99bcca8f397c582829" category="list-text">Wenn Notizen hinzugefügt oder aus der Konfiguration gelöscht werden</block>
+  <block id="2066131a3ad142dcaccc1edc38957728" category="list-text">Wenn der Status der Konfiguration von unterstützt in einen der zusätzlichen Terminalzustände geändert wird (EOS, veraltet usw.).</block>
+  <block id="833cb41c65cebd1adbd9cdfe76fe47af" category="list-text">Geben Sie im Dialogfeld *Tag-Konfiguration* den Namen und die Beschreibung ein, um die Konfiguration als Referenz zu markieren.</block>
+  <block id="0853005568038530d17f8b473aa83d18" category="list-text">Klicken Sie auf das Kontrollkästchen *Abonnieren* für diese Konfiguration.</block>
+  <block id="336179b864dd55354e8b20409f39c675" category="list-text">Klicken Sie Auf *Tag*.</block>
+  <block id="a0ffe02c554c55c787a11d9720938449" category="summary">Sie können einzelne oder mehrere Storage-Lösungen, Kategorien oder Komponenten Ihrer Wahl abonnieren.</block>
+  <block id="4dfece803af058364e1f077c76d10645" category="doc">Abonnieren Sie Storage-Lösungen, Kategorien oder Komponenten</block>
+  <block id="588de430ceae787096fad95acc7e45fc" category="paragraph">Auf der Registerkarte *Abonnement* können Sie die folgenden Abonnements abonnieren:</block>
+  <block id="54cbeb8988d779c80f3bfdeaf257380e" category="list-text">Abonnieren von Storage-Lösungen</block>
+  <block id="a3038ba6a940fdf1b2dba20f347ea7ec" category="list-text">Abonnieren von Kategorien</block>
+  <block id="5d0937f99cb4eacba4b6cd45fbdf78e2" category="list-text">Abonnieren von Komponenten</block>
+  <block id="a62824c4f47fa0da7d944f92c36e0d73" category="summary">Sie können eine oder mehrere Storage-Lösungen Ihrer Wahl abonnieren.</block>
+  <block id="c200e8439b397b7e65939a7feab229e0" category="doc">Abonnieren Sie Storage-Lösungen</block>
+  <block id="2d6152b89ad002d7fcc2cfe8ceef2c4c" category="paragraph">Die beiden Arten des Abonnements sind wie folgt:</block>
+  <block id="461cc16dc1432fa6d10fa88f7778f4b0" category="list-text">* Sofort*: Sie erhalten sofort eine E-Mail, wenn Änderungen an der abonnierten Lösung vorgenommen werden.</block>
+  <block id="0215d3bb71b13ee4534fa20733a7ef47" category="list-text">*Digest*: Sie erhalten innerhalb von sieben Tagen eine angesammelte E-Mail, die alle Änderungen widerspiegelt, die an den abonnierten Lösungen vorgenommen werden.</block>
+  <block id="bb15c131ac9fd6083c71a0d91e6bd2ef" category="list-text">Wählen Sie im Fenster *Abonnement* die Registerkarte *Speicherlösung* aus.</block>
+  <block id="2dd900b3e88533d0a191c1e12f347a6a" category="list-text">Für Speicherlösungen Ihrer Wahl aktivieren Sie Kontrollkästchen für die Optionen *Solution Status Update, Categories Associated oder Disassociated oder Configurations added oder Deleted*.</block>
+  <block id="6ce8ddc7f15b5911c3e6ea44a5a0c155" category="paragraph">Sie erhalten E-Mails für die folgenden Instanzen:</block>
+  <block id="7c5f6302701612ddd3eb7b943612c3ed" category="list-text">Wenn der Status der Lösung geändert oder aktualisiert wird.</block>
+  <block id="08ab5ebeb1193b28045b328e8e62bdbd" category="list-text">Wenn einige Kategorien hinzugefügt oder aus der Lösung gelöscht werden</block>
+  <block id="bfc3ceef09d090d222b0f1b4ca5fbe9a" category="list-text">Wenn einige Konfigurationen hinzugefügt oder aus der Lösung gelöscht werden</block>
+  <block id="913efce424822314257e798b0558a5bd" category="list-text">Wählen Sie im Feld *Frequenz* entweder *sofort* oder *Digest* aus.</block>
+  <block id="67efe4e7df356a0e984d0b7528d0ce52" category="list-text">Klicken Sie auf *Abonnieren*, um Lösungen zu abonnieren, die Sie ausgewählt haben.</block>
+  <block id="4f8a359ff75a95d3060e02c255c77059" category="admonition">Sie können auf *Reset* klicken, um alle Auswahlmöglichkeiten im Register *Speicherlösung* zu löschen.</block>
+  <block id="ba07bc773ce0f918b1eefce047245719" category="summary">Mit dem Interoperabilitäts-Matrix-Tool (IMT) können Sie die Ergebnisse unterstützter Konfigurationen ganz einfach anzeigen.</block>
+  <block id="0769ff8c1f83c91c3b16b9ce2775faab" category="doc">Unterstützte Konfigurationssuchen</block>
+  <block id="a85654fdf83648d3d156ca9b589151ef" category="paragraph">Mit dem Interoperabilitäts-Matrix-Tool (IMT) können Sie die Ergebnisse unterstützter Konfigurationen ganz einfach anzeigen. Sie können mehrere Aufgaben ausführen, z. B. Ändern, Filtern oder Exportieren der Ergebnisse sowie Anzeigen oder Ändern der Suchkriterien.</block>
+  <block id="125196a9553cb7d66c81efa5b9955299" category="paragraph">Auf der Seite *Ergebnisse* zeigt IMT je nach den eingegebenen Suchkriterien mehrere unterstützte Konfigurationen an. Sie können die vollständigen Konfigurationsdetails für eine bestimmte Konfiguration anzeigen, indem Sie auf den Konfigurationsnamen oder die -ID klicken (z. B. 20150202-204717518).</block>
+  <block id="eff88d54854b0637031f4066736623bc" category="cell">Feldname</block>
+  <block id="b5a7adde1af5c87d7fd797b6245c2a39" category="cell">Beschreibung</block>
+  <block id="1d1072a665cbd7dce3a24d1d65d8841e" category="cell">Weiter zu den Ergebnissen</block>
+  <block id="c02f6ac7ed2ef03115324db2d2969b64" category="cell">Ermöglicht es Ihnen, die Seite *Refine Search Criteria* zu überspringen und direkt zur Seite *results* zu gehen.</block>
+  <block id="5599cdd55ff94796811f21712663c422" category="cell">Konfigurationsname oder -ID</block>
+  <block id="e299f86d07766b826feb2bdd501107f4" category="cell">Der Konfigurationsname oder die -ID ist eine eindeutige Kennung, die einer bestimmten Konfiguration zugewiesen ist. Sie können auf den Konfigurationsnamen klicken, um alle Konfigurationsdetails anzuzeigen. Der Status der Konfigurationen wird zusammen mit dem Konfigurationsnamen angezeigt.</block>
+  <block id="3ec365dd533ddb7ef3d1c111186ce872" category="cell">Details</block>
+  <block id="18db45df0ae63dc08635ce638e77dcd7" category="cell">Enthält Informationen zu den kompatiblen Komponenten und Kategorien für eine bestimmte Konfiguration.</block>
+  <block id="df583ae7ba964fd4806b55904da81813" category="cell">Meldungen</block>
+  <block id="16376cb8d4986c15fde7c163e711c21e" category="cell">Bietet wichtige Informationen zur Konfiguration, z. B. Versionshinweise, Informationen zur Bereitstellung, Empfehlungen usw.</block>
+  <block id="4059b0251f66a18cb56f544728796875" category="cell">Info</block>
+  <block id="0a6af34dc2bd480d3ef1ded69dfa5798" category="cell">Bietet zusätzliche Informationen zur Konfiguration.</block>
+  <block id="16d2b386b2034b9488996466aaae0b57" category="cell">Verlauf</block>
+  <block id="3456dcddae33c9d9fbce081495426626" category="cell">Zeigt den Verlauf der Konfigurationsinhalte an. Der Konfigurationsinhalt wird grün hervorgehoben, wenn die Details hinzugefügt werden, blau, wenn die Details aktualisiert werden, rot mit der Markierung „Streichen“, wenn die Details entfernt werden, und schwarz, wenn keine Änderungen an den Details vorliegen.</block>
+  <block id="8a4eba6be6fe9fbed9197dec9246211f" category="cell">End-To-End-Ansicht Mit Aufbauen</block>
+  <block id="cc9cac1dbf04eaad7c07a7d71788b5b4" category="cell">Ermöglicht die Erstellung einer End-to-End-Ansicht durch Auswahl einer verwandten Lösung, die mit der ausgewählten Konfiguration kompatibel ist.</block>
+  <block id="2e80766098eb34af82b93df208cfbcbe" category="cell">Was-Wäre-Wenn</block>
+  <block id="b469ddc1b2bad5148648fe1d17486519" category="cell">Ermöglicht das Upgrade oder Downgrade einer Komponente in einer ausgewählten Konfiguration.</block>
+  <block id="13dba24862cf9128167a59100e154c8d" category="cell">Drucken</block>
+  <block id="68d5b3fc11e857e1c32f584c3efdd0f2" category="cell">Ermöglicht das Drucken der Konfigurationsdetails.</block>
+  <block id="3c9681e304578d72f4fcc717594acf97" category="cell">Richtlinien und Richtlinien</block>
+  <block id="c7ac661a5b30b8b33e41f7666cf83630" category="cell">Hilft Ihnen, mehr über die Richtlinien und Richtlinien zu erfahren, die für eine ausgewählte Konfiguration gelten. Wenn neue Änderungen in den Richtlinien und Richtlinien hinzugefügt werden, werden die Änderungen gelb hervorgehoben und gelten für 30 Tage. Wenn irgendwelche Richtlinien und Richtlinien entfernt werden, werden die Änderungen gestrichen. Wenn im Feld *Richtlinien und Richtlinien* Änderungen vorgenommen werden, wird dies durch ein rotes Symbol „NEU“ gekennzeichnet.</block>
+  <block id="d7778d0c64b6ba21494c97f77a66885a" category="cell">Filtern</block>
+  <block id="e2b5aa4cc556e932a2044c610346bd30" category="cell">Ermöglicht die Suche nach Konfigurationen, die während eines bestimmten Zeitraums geändert wurden, indem Sie einen entsprechenden Datumsbereich in den Feldern *Zuletzt geändert zwischen* und *und* eingeben.</block>
+  <block id="f4c6f851b00d5518bf888815de279aba" category="cell">Hinweise</block>
+  <block id="91d772a9c635e8c0866aee344754c015" category="cell">Enthält Notizen, die mit der Konfiguration verknüpft sind.</block>
+  <block id="d92a232846a2b6f240bb2eb35c9f7bb4" category="cell">Zeilenvergleich</block>
+  <block id="3327f21bfe91c3080746e524d208e283" category="cell">Ermöglicht den Vergleich von zwei Zeilen mit der Konfiguration.</block>
+  <block id="21b23c6fe7af0b50eee0642047379d4d" category="paragraph">Die Suchergebnisse werden mit den Konfigurationsdetails für jedes Ergebnis angezeigt. In jeder Zeile des Suchergebnisses werden die Details einer Konfiguration angezeigt, die zur aktuell ausgewählten Speicherlösung gehört. Die Konfigurationszeilen im Status *End of Support* werden grau angezeigt und der Status neben dem Konfigurationsnamen wird als *EOS* oder *PVR* angegeben.</block>
+  <block id="b8d3d6fd3dd366569b26adf45da258c1" category="summary">Mit dem Active IQ Interop Advisor-Tool können Sie bei der Suche nach bestimmten Kriterien einen Kompatibilitätsbericht erstellen.</block>
+  <block id="745011275a4b527af05f38dd17f2dfa5" category="doc">Das Active IQ-Tool zur Ermittlung der Kompatibilität</block>
+  <block id="2abe1b0b799ea6958ab05808dfd2e6f0" category="paragraph">Mit dem *Active IQ Interop Advisor*-Tool können Sie einen Kompatibilitätsbericht erstellen, wenn Sie nach bestimmten Kriterien suchen.</block>
+  <block id="4b95bd73f371d633944b277ea2f8940d" category="paragraph">Sie können nach einem der folgenden Kriterien suchen:</block>
+  <block id="3460276ef9eb483d13aa31b870077a0d" category="list-text">Seriennummer</block>
+  <block id="c13733ab0cde1d7164208b013c7e85db" category="list-text">Cluster-ID</block>
+  <block id="9c88708a39e1e0d0de41fff6604be2e0" category="list-text">OneCollect Job-ID</block>
+  <block id="ac602ad780aa2599010cea917dea5c94" category="paragraph">Die vorherigen Suchkriterieninformationen finden Sie unter *MyAutoSupport*.</block>
+  <block id="5005324a60c28050430af25f8b9d4f52" category="summary">Die Registerkarte *Toolbox* zeigt Ihnen eine Liste nützlicher Tools, die in drei Benutzerkategorien unterteilt sind. Für jedes Werkzeug wird ein Link angezeigt.</block>
+  <block id="67414857279fd728c96de6f66ce60dcc" category="doc">Tools in Toolbox verfügbar</block>
+  <block id="e6d0e1c8fc6a4fcf47869df87e04cd88" category="list-text">Kunden</block>
+  <block id="b5fe3a41d32647f20f3b5ec96045d6d6" category="list-text">Active IQ</block>
+  <block id="f9be17421d77a57baae245776004d9fc" category="list-text">Config Advisor</block>
+  <block id="5fb5241db38fadaca7a0d40dbe186627" category="list-text">ConfigEdge</block>
+  <block id="da160308e3b4b4a80bf1b72b5bdbedb8" category="list-text">Hardware Universe</block>
+  <block id="c1e384c5e7f936ddf073862dee019398" category="list-text">Active IQ Interop-Berater</block>
+  <block id="b52e062fbdeb6bb20fccb9392805ce05" category="list-text">Öffentliche NetApp Website</block>
+  <block id="9d2169c1c2855b78a7aeaa4f42d27dc7" category="list-text">NetApp Support-Website</block>
+  <block id="ff331388ea55619596bcb6cf3a003112" category="list-text">Eine Sammlung</block>
+  <block id="922127e17a743afad1354adff731960d" category="list-text">Unified Parser</block>
+  <block id="fd6df34ee4e7642c02ced6012028f6b8" category="list-text">Partner</block>
+  <block id="1b3537665f74d77bd14a7f35ea69a8f6" category="list-text">Field Portal</block>
+  <block id="1f18043048963944d416269d09c9fece" category="list-text">LatX</block>
+  <block id="600a7a2d38e685027888b112c9f09cfa" category="list-text">QuoteEdge</block>
+  <block id="c73fb565aacaf9d4d138b982953a3cf9" category="list-text">SmartSolve</block>
+  <block id="b657a86dd93f1cc3153d34c28b3f330a" category="list-text">Synergie</block>
+  <block id="e21a868bc0bf8e20cba1dc01e82dfb89" category="list-text">System Performance Modeler</block>
+  <block id="38dd88763ce898bd0065e24b9d906e36" category="list-text">Tech Refresh Tool</block>
+  <block id="5bd24680ba49ea2dbc7fa31ac43b9d75" category="list-text">Innerhalb von NetApp</block>
+  <block id="657fd3eec6624217c3ad5de3744a69d2" category="list-text">Agil</block>
+  <block id="0fe4758d380c457915385cf7f8364526" category="list-text">BURT</block>
+  <block id="d0aaf413ea3c98b4488b0e80e2c716f1" category="list-text">EPIC</block>
+  <block id="e8b07ff317b9395c4210e4e6ee15527f" category="summary">Sie sollten sich einiger allgemeiner Probleme mit dem Interoperabilitäts-Matrix-Tool bewusst sein.</block>
+  <block id="374b1a86c0f09e71f4c247c57dd5f81f" category="doc">Fehlerbehebung bei Problemen mit dem Interoperabilitäts-Matrix-Tool</block>
+  <block id="2d9d499f457f866cd4e692bee7369005" category="cell">Probleme</block>
+  <block id="7aebfa1e2291377e040de92d7f7f335f" category="cell">Behelfslösung</block>
+  <block id="4dfc53f36e1dec65c3576bb6b48febca" category="cell">Das Interoperabilitäts-Matrix-Tool kann nicht geladen werden</block>
+  <block id="5f18bf7ed82966c701b57fd41f1a8c22" category="cell">Sie müssen den Browser-Cache löschen, einen neuen Browser öffnen und versuchen, sich bei IMT anzumelden.</block>
+  <block id="40b92c888e8f1d617bc09b10b894a451" category="cell">Das Interoperabilitäts-Matrix-Tool hängt</block>
+  <block id="792f55b978d1fab7a11ede6fa50164cb" category="cell">Dies könnte ein Netzwerkproblem sein. Sie können versuchen, Ihren Browser zu aktualisieren.</block>
+  <block id="27bf486ce5cb0beff0bce7164447f6a7" category="cell">PI nicht die gewünschte Lösung ableiten</block>
+  <block id="6bcad9cdb3be41e28c3647d3b2deac6b" category="cell">Sie müssen die entsprechende Lösung aus dem *Solution Catalog* auswählen oder eine bestimmte Komponente auswählen.</block>
+  <block id="80a46d3b103de0b023943c2edf7d89f1" category="cell">Es können keine anderen Eigenschaften in *Refine Search Criteria* für die HBA-Konfiguration ausgewählt werden</block>
+  <block id="ccdaa17cccad4599b2f73f46abdd3db4" category="cell">Sie müssen die HBA-Komponente deaktivieren und eine Eigenschaft auswählen.</block>
+  <block id="4caf9ed28a5d7ce495d04434581b152b" category="cell">Bei der täglichen Berichterstellung wird ein Fehler von 404 angezeigt</block>
+  <block id="2fb40b8b208e17a91e19f13912277b9e" category="cell">Tägliche Cron-Jobs laufen um 22:00 Uhr PST und für eine Dauer von 30 Minuten sind die Berichte nicht verfügbar.</block>
+  <block id="18131773929f49e2d03333f846c8e8a9" category="cell">Fehler bei der Anmeldeauthentifizierung für die erste Anmeldung beim Interoperabilitäts-Matrix-Tool</block>
+  <block id="149b94e6c8c151a358440f89c8a75489" category="cell">Sie müssen Ihre Anmeldedaten für das Interoperabilitäts-Matrix-Tool synchronisieren.</block>
+  <block id="5ed3de7b6fcc4e15088e26acd0937748" category="cell">Neu hinzugefügte Komponenten werden nicht angezeigt</block>
+  <block id="1319886e6d57f98ad8e8110beef9a17d" category="cell">Warten Sie vier Stunden, die Komponenten werden automatisch aktualisiert.</block>
+  <block id="70602a38ac0f4b98c770a6caae0aaf3a" category="summary">Mit dem Interoperabilitäts-Matrix-Tool können Sie die Ergebnisse für die Konfigurationen anzeigen und exportieren, die Ihre Anforderungen erfüllen.</block>
+  <block id="60e7014e789de3f60ea4e17d64bb01b7" category="doc">Die Ergebnisse des Interoperabilitäts-Matrix-Tools verstehen und verwenden</block>
+  <block id="b3583cd3c6ad27ace3e6abce443badd1" category="paragraph">Mit dem Interoperabilitäts-Matrix-Tool können Sie die Ergebnisse für die Konfigurationen anzeigen und exportieren, die Ihre Anforderungen erfüllen. Auf der Seite *Ergebnisse* können Sie eine End-to-End-Ansicht erstellen, indem Sie eine zugehörige Lösung auswählen, die mit der ausgewählten Konfiguration kompatibel ist. Darüber hinaus können Sie die Funktion *Was wäre wenn* verwenden, um eine Komponente innerhalb einer Konfiguration zu aktualisieren oder herunterzustufen.</block>
+  <block id="b3265dbcd4101d08359925c13b7bf6bb" category="summary">Sie können die Konfiguration auf der Ergebnisseite abbestellen, wenn Sie weitere Updates erhalten möchten.</block>
+  <block id="346753ac0751bbc24e863f483b63cc14" category="doc">Abonnement-Konfigurationen abbestellen</block>
+  <block id="53a607950bfec5d5401aa3bfcb40d688" category="paragraph">Sie können die Konfiguration von der Seite *Results* abbestellen, wenn Sie weitere Updates erhalten möchten.</block>
+  <block id="dd9fbf502ce2472f202cfc7a5955bf4f" category="paragraph">Sie müssen die Konfigurationen von der Seite *Ergebnisse* abonniert haben.</block>
+  <block id="d2e50314a1e8348725849e14a148c005" category="paragraph">So kündigen Sie die Konfiguration ab:</block>
+  <block id="2ff49414f9a59731963781d2fe599a7e" category="list-text">Klicken Sie auf der Seite *Results* auf STAR, um die abonnierte Konfiguration abzubestellen. Wenn Sie die Konfiguration aus der Favoritenliste entfernen, wird die Anmeldung der Konfiguration automatisch aufgehoben.</block>
+  <block id="6acf0028fdb5a7c7400ee13b800a5b80" category="summary">Das NetApp Interoperabilitäts-Matrix-Tool (IMT) ist eine webbasierte Applikation. Mit IMT können Sie nach Konfigurationen von NetApp Produkten und Komponenten suchen, die den von NetApp vorgegebenen Standards und Anforderungen entsprechen</block>
+  <block id="cc5fc314522b4b09cd2aa04bd3a3f35e" category="doc">Verwenden von „Can't Find“-Konfiguration</block>
+  <block id="bb9e1f262e92df0b402da927acb28603" category="paragraph">Wenn Sie die benötigte Konfiguration nicht finden können, können Sie das Problem mit der Funktion *CA NOT FIND CONFIG?* an das Support-Team melden.</block>
+  <block id="a1d312e83c32c0a40d094c17229a053a" category="paragraph">Öffnen Sie das Menü *Can't Find Config?*, um ein Problem zu melden. Füllen Sie das Formular aus, und senden Sie es für weitere Unterstützung.</block>
+  <block id="6da8095a6390487f109a2a5846439157" category="summary">Im Menü Benachrichtigungen werden Ihre aktuellen Benachrichtigungen angezeigt.</block>
+  <block id="3c2db9c439c2e925fa947413bf4bf855" category="doc">Verwenden Sie Benachrichtigungen</block>
+  <block id="5d9015c8edb2c933a6e7caf177a1834e" category="paragraph">Im Menü *Benachrichtigungen* werden Ihre aktuellen Benachrichtigungen angezeigt.</block>
+  <block id="6c46011fcd0d7911c2b61f02efb52129" category="summary">Mit „Suchkriterien verfeinern“ können Sie kompatible Konfigurationen für Ihr Produkt ermitteln.</block>
+  <block id="b4bbb09392c90b3947cdb432d3d27e30" category="doc">Verwenden Sie Die Option Suchkriterien Verfeinern</block>
+  <block id="faa84239e1b2647e5bb0983d17bfc000" category="paragraph">*Refine Search Criteria* ermöglicht es Ihnen, kompatible Konfigurationen für Ihr Produkt zu erkunden. Wenn Sie Komponenten aus verschiedenen Kategorien auswählen, können Sie die Konfigurationen, die Sie erhalten, auf die gewünschten Konfigurationen für Ihr Produkt beschränken.</block>
+  <block id="1b9e32b8f904123d04a67fe606cceaa4" category="admonition">Die Schlüsselwörter *Rack* und *Blade* werden nur mit den Komponenten in *4.x* angezeigt.</block>
+  <block id="dd593eb13f2c8a1efb1881fc710f04be" category="summary">Viele Zeilen enthalten sehr ähnliche Informationen in Interoperability Matrix Tool und es kann ein mühsamer manueller Prozess für Sie, um den Unterschied zwischen den Zeilen zu finden.</block>
+  <block id="20b3802386d1ed5c62f4a00e49eb179c" category="doc">Zeilenvergleich verwenden</block>
+  <block id="ad118d64f1d46843db307e3019d5e24d" category="paragraph">Viele Zeilen enthalten sehr ähnliche Informationen in Interoperability Matrix Tool und es kann ein mühsamer manueller Prozess für Sie, um den Unterschied zwischen den Zeilen zu finden. Das Interoperabilitäts-Matrix-Tool bietet eine Funktion zum Vergleichen von zwei Zeilen.</block>
+  <block id="069d0514bed019adffa6b98198fbcab3" category="paragraph">Auf der Ergebnisseite wird für jede Lösung die Schaltfläche „Hinzufügen zum Vergleich“ oder ein Symbol in der Kopfzeile der Konfigurationskarte angezeigt.</block>
+  <block id="7873eb76fd54f0be0cb18574a2939c9a" category="list-text">Um die Konfiguration für den Vergleich hinzuzufügen, klicken Sie auf das Symbol *Konfiguration Komponentenvergleich*. Sie können maximal zwei Konfigurationen zum Vergleich auswählen.</block>
+  <block id="ba5bfd55a92b4b1db47455be6a399f82" category="list-text">Klicken Sie auf die Schaltfläche *Konfiguration Komponentenvergleich*, um zwei Zeilen zu vergleichen.</block>
+  <block id="52363bd1c9aa306a445bffd05a0f61ec" category="paragraph">Die Unterschiede werden in der Schriftart *bold* auf dem Layover-Display hervorgehoben. Die Komponenten sind unter den jeweiligen Komponententypen gruppiert. Komponenten, die in beiden Zeilen gleich sind, haben eine normale Schriftart. Zeilen können nicht über zwei Lösungen hinweg verglichen werden.</block>
+  <block id="9f8548f695e22969f89afa15c1a2e97d" category="summary">Über den Link „Abonnement“ können Sie Storage Solution, Category oder Component abonnieren. Wenn Sie eine bestimmte Speicherlösung, Kategorie oder Komponente abonniert haben, erhalten Sie eine E-Mail nur, wenn Änderungen in den abonnierten Lösungen, Kategorien oder Komponenten vorgenommen werden.</block>
+  <block id="898833500a2198903c1c83dfc109c034" category="doc">Verwenden Sie Das Abonnement</block>
+  <block id="d130c63d82164f0cdd641554e6c0065f" category="paragraph">Über den Link *Abonnement* können Sie *Storage Solution, Category oder Component* abonnieren. Wenn Sie eine bestimmte Speicherlösung, Kategorie oder Komponente abonniert haben, erhalten Sie eine E-Mail nur, wenn Änderungen in den abonnierten Lösungen, Kategorien oder Komponenten vorgenommen werden.</block>
+  <block id="8db70aba3fbc9a6b95c9b38b17281ee4" category="paragraph">Sie erhalten E-Mails für die folgenden Abonnements:</block>
+  <block id="6aaaa6ee63ae61b3ccd3449b9db168c8" category="list-text">*Speicherlösung*: Wenn die Änderungen im Statusupdate vorgenommen werden, werden die zugehörigen oder nicht zugeordneten Kategorien und Konfigurationen hinzugefügt oder gelöscht.</block>
+  <block id="4f679bca94bf2251743828a60756af66" category="list-text">*Kategorie*: Wenn die Komponenten hinzugefügt oder aus der Kategorie gelöscht werden.</block>
+  <block id="d54b1a2758b7e5ba3933627fd870466e" category="list-text">*Komponente*: Wenn die Änderungen im Anzeigenamen der Komponente oder des Status der Komponente vorgenommen werden.</block>
+  <block id="32e8c8034cc53d4add255eaca611041d" category="admonition">Sie erhalten eine E-Mail, je nachdem, welche Art von Häufigkeit Sie auswählen. Die beiden Frequenztypen sind wie folgt:</block>
+  <block id="644800f75dbb0533a7118b75eade12e4" category="list-text">Sofort: Sie erhalten sofort eine E-Mail, wenn Änderungen an den abonnierten Lösungen, Kategorien oder Komponenten vorgenommen werden.</block>
+  <block id="b14aa29ea1ad370e9378af29d93cfa7d" category="list-text">Digest: Sie erhalten alle sieben Tage eine angesammelte E-Mail, die alle Änderungen widerspiegelt, die an den abonnierten Lösungen, Kategorien oder Komponenten vorgenommen werden.</block>
+  <block id="0e2a7801346c9a649707e972c3926306" category="summary">Sie können alle möglichen Konfigurationen einsehen, die mit Ihren Suchkriterien unterstützt werden.</block>
+  <block id="827ad910b151e2ee60d11bfee3d1c207" category="doc">Verwenden Sie Was-Wäre-Wenn</block>
+  <block id="3021a2b1e541ffbc51c584c2e7c27694" category="paragraph">Sie können alle möglichen Konfigurationen einsehen, die mit Ihren Suchkriterien unterstützt werden. Sie können *Was wäre, wenn* verwenden, um eine Komponente für eine ausgewählte Konfiguration zu aktualisieren oder herunterzustufen und die Kompatibilität zu untersuchen.</block>
+  <block id="e8b2d018252ed6bec2cfc70d4cbfa7e1" category="inline-xref-macro">Melden eines Problems</block>
+  <block id="bdc78183d26b19d7860059ca9bce0bdf" category="paragraph">Wenn Sie die gewünschte Konfiguration nicht finden können, klicken Sie auf *Feedback*, um ein Problem zu melden. Weitere Informationen finden Sie unter <block ref="373fef4cf725e9b952ca544386721376" category="inline-xref-macro-rx"></block>.</block>
+  <block id="2ca70e123444aa174b92f33c622c8ad3" category="summary">Auf der Seite Richtlinien und Richtlinien werden alle aktuellen Informationen und Anleitungen zur Lösung beschrieben.</block>
+  <block id="47af5fe6fb8ced5867f5b5b763b4acb6" category="doc">Richtlinien und Richtlinien anzeigen</block>
+  <block id="151536ba7a317231e3d5fd4d5883c17c" category="list-text">Klicken Sie auf der Seite *Spielplatz* auf *Richtlinien und Richtlinien*. Die Seite *Richtlinien und Richtlinien* wird geöffnet.</block>
+  <block id="7a3e4c7c6f1988fac1d5f9d707e486fd" category="list-text">Lesen Sie die neuesten Nachrichten, Anleitungen, Informationen zu Richtlinien und Copyright für die Lösung. Auf der Seite *Spielplatz* können Sie die Lösung ändern, um andere Richtlinien und Richtlinien anzuzeigen, die für sie spezifisch sind.</block>
+  <block id="fd0b17648cbb96f58d57667a2638c245" category="list-text">Schließen Sie die Seite und kehren Sie zur Seite *Spielplatz* zurück.</block>
+  <block id="2f626e6c5a6afb5eb305cba0328658ec" category="summary">Auf der Seite Willkommen auf der Seite IMT können Sie gespeicherte Suchkriterien laden, um Ihre letzten Suchvorgänge anzuzeigen.</block>
+  <block id="51bc1d62e0da280cc69969013d619869" category="doc">Zuletzt verwendete Suchkriterien anzeigen</block>
+  <block id="24e70611d99edf18b600cc25d967fb1e" category="paragraph">Auf der Seite *Willkommen auf der IMT* können Sie gespeicherte Suchkriterien laden, um Ihre letzten Suchanfragen anzuzeigen.</block>
+  <block id="d36179ee552c8cd7f2138babd00e9b23" category="paragraph">Sie müssen Ihre letzten Suchvorgänge gespeichert haben.</block>
+  <block id="f5903f4247c226fe311fe85039ee08b1" category="list-text">Klicken Sie Auf *Gespeicherte Suche*.</block>
+  <block id="5e78b03368007e0be6e2f7b2e64bc287" category="list-text">Wählen Sie die Registerkarte *Letzte Suche*, um die zuletzt gespeicherten Suchen anzuzeigen. Ihre letzten Suchvorgänge werden angezeigt.</block>
+  <block id="1f70cd49a7cc95ade94bc142d2f26097" category="list-text">Wählen Sie die Registerkarte *Suchkriterien*, um Ihre spezifischen gespeicherten Suchkriterien anzuzeigen. Ihre gespeicherten Kriterien werden angezeigt.</block>
+  <block id="e9c7f082c18ebfe8f5e5964edf7ec988" category="summary">Mit *Advanced Search* können Sie nach verschiedenen Komponenten suchen und Komponenten aus Ihren Suchkriterien hinzufügen oder entfernen.</block>
+  <block id="fa8f8ea5e084a3d02f08c39c744b591d" category="doc">Arbeiten Sie mit der erweiterten Suche</block>
+  <block id="81063a953934d8cb5ee6f81fe405c8b1" category="paragraph">Mit der *Erweiterte Suche* können Sie nach verschiedenen Komponenten suchen, um Komponenten zu Ihren Suchkriterien hinzuzufügen oder zu entfernen. Sie können das Suchfeld im Fenster *Erweiterte Suche* verwenden, um nach Komponenten zu suchen.</block>
+  <block id="6756f030171d226f3144040663767c49" category="paragraph">Sie können bei Bedarf die folgenden Filter verwenden:</block>
+  <block id="98b1c17c17aa647792153499156deb5d" category="list-text">Wählen Sie *Keine eingeschränkten Supportkomponenten anzeigen*, um zu verhindern, dass Komponenten mit eingeschränkter Unterstützung in den Ergebnissen angezeigt werden.</block>
+  <block id="39b498afb424201be730ced244bee6c3" category="list-text">Wählen Sie *Keine EOVS-Komponenten anzeigen* aus, um zu verhindern, dass Komponenten mit End-of-Version-Unterstützung in den Ergebnissen angezeigt werden.</block>
+  <block id="0a878e7c0f88ad1e8e7e90459b61cb42" category="paragraph">Auf dieser Seite können Sie auch den *Komponenten-Explorer, gespeicherte Kriterien oder Konfigurationen laden* oder den *Suchassistenten* verwenden.</block>
+  <block id="1d485407254c2b22c40dd2026cff46c6" category="doc">Mit Liste und Suchen arbeiten</block>
+  <block id="5e3c4ba62e19206dcf657ad7b622bafc" category="paragraph">Im Arbeitsbereich *Liste und Suche* können Sie die bestmöglichen Konfigurationen für Ihre Komponenten anzeigen.</block>
+  <block id="027b6d13735ce68325fbf3b69239bee8" category="paragraph">Verwenden Sie das Fenster *Component Explorer* auf der linken Seite, um Konfigurationen für ausgewählte Komponenten anzuzeigen. Im rechten Bereich werden die Lösungen angezeigt. Jede Registerkarte stellt eine Speicherlösung und die Anzahl der Konfigurationen dar, die die ausgewählten Komponenten verwenden. Wenn die grüne Umschalttaste *Logic* im Arbeitsbereich *Liste und Komponente suchen* auf ODER gesetzt ist, können Sie nach Lösungen suchen, die Konfigurationen mit einzelnen Komponenten enthalten. Wenn die grüne Schaltfläche *Logic* auf *UND* gesetzt ist, können Sie nach Lösungen suchen, die Konfigurationen mit allen ausgewählten Komponenten enthalten. Wenn innerhalb desselben Komponententyps mehrere Komponenten ausgewählt sind, wird die Schaltfläche auf *ODER* gesetzt.</block>
+  <block id="9f2c7bb4e0e0399fff157d283ef3cf20" category="list-text">Klicken Sie auf der Startseite auf *Liste und Suchen*.</block>
+  <block id="897c772a7e35dc75797920a141aedb90" category="list-text">Suchen Sie im *Component Explorer* nach einem Komponentennamen oder erweitern Sie die Auswahl, um Komponenten zum *List and Find Component Workarea* hinzuzufügen.</block>
+  <block id="45bd03466f004ddb3d958afadbf1b92a" category="admonition">Sie können bestimmte aktivierte Lösungen auswählen, nachdem Sie eine Komponente zur *Liste und Komponentenarbeitsbereich suchen* hinzugefügt haben, bevor Sie auf *Weiter* klicken. Sie können auch maximal 3000 Zeilen für jeweils eine Lösung in eine Excel-Tabelle oder PDF exportieren.</block>
+  <block id="7b20b2bbc03b292378be70bd74c67006" category="list-text">Klicken Sie auf *Weiter*, um zu sehen, wo die Komponenten in Konfigurationen über mehrere Lösungen hinweg auf der Seite *Ergebnisse* verwendet werden. Die am besten kompatible Konfiguration für Ihre Liste der Komponenten wird angezeigt.</block>
+  <block id="127e34472d9dcb8e7825d453085448c7" category="summary">Prüfen Sie die Kompatibilität für die ONTAP-Version und die Versionskombinationen für Flash- oder Fabric-Speicher. Sie können Ihre Kompatibilitätssuche für die einzelnen relevanten Komponenten weiter verfeinern</block>
+  <block id="45867ddf970470aa7e77f248425c75e6" category="doc">Unterstützung für ONTAP-SAN-Host vereinfachte Suche</block>
+  <block id="61f451665f535dca2ca857c688b82ed8" category="paragraph">Prüfen Sie die Kompatibilität für ONTAP-Versionen und Flash- oder Fabric-Speicherversionskombinationen. Sie können Ihre Kompatibilitätssuche für die einzelnen relevanten Komponenten weiter verfeinern.</block>
+  <block id="9c1a71cd4de013875c9b459346958efa" category="paragraph">Sie können die Kompatibilität zwischen Ihren Flash- oder Fabric-Speichergeräten auf Ihrem SAN mit der gewünschten ONTAP-Version und anderen relevanten Komponenten prüfen. Sie können zwischen *Expert View* oder *Novice View* wählen.</block>
+  <block id="40b1e4a59a1bc5c85695af0756b84ca0" category="admonition">Klicken Sie auf die Option *als Standard festlegen*, um beim Öffnen des IMT automatisch eine Suche nach *ONTAP SAN Host vereinfacht* zu öffnen.</block>
+  <block id="6ae251336f26dbfeacf40f8af4055800" category="list-text">Klicken Sie auf der Startseite auf *ONTAP SAN Host vereinfacht*.</block>
+  <block id="9f350ade443152c2c85a538bbade24e8" category="list-text">Wählen Sie die Ansicht aus, die Sie verwenden möchten:</block>
+  <block id="994ad29241d78e9164fabb5ffaad044c" category="list-text">Klicken Sie auf *Expert View*, um erweiterte Kriterienoptionen anzuzeigen.</block>
+  <block id="fc2d52b231b65209de6b904e58054728" category="list-text">Klicken Sie auf *Guided view*, um vereinfachte und geführte Kriterienoptionen anzuzeigen.</block>
+  <block id="d0faa1de14e7c4d8db450ac5951593f5" category="list-text">Wählen Sie in *Novice View* die angezeigten Suchkriterien aus.</block>
+  <block id="7d2fe68c49fe99a361082b6364a11e6c" category="list-text">Klicken Sie auf *Überspringen*, um zur nächsten Komponente zu wechseln, ohne eine Auswahl zu treffen. Sie können zur Komponente zurückkehren, indem Sie bei Bedarf auf *Unskip* klicken.</block>
+  <block id="c2e9533c50e6623c0b26145dfe971d7d" category="list-text">Wenn Sie fertig sind, klicken Sie auf *Ergebnisse anzeigen*, um die unterstützten Konfigurationen für Ihre Suchkriterien anzuzeigen.</block>
+  <block id="041463b623ea41ae4843a90154289822" category="list-text">Wählen Sie in der *Expert-Ansicht* die Suchkriterien aus, die Sie für die verschiedenen Komponenten verwenden möchten. Wir empfehlen Ihnen, von links nach rechts zu wechseln, da jede Auswahl die verbleibenden Kriterien eingrenzen wird. Sie müssen nicht für jede Komponente eine Auswahl treffen.</block>
+  <block id="b622e80fb613cd93f846f78712c55f21" category="list-text">Im Rahmen des *ONTAP SAN Hosts vereinfacht* können Sie auch Folgendes tun:</block>
+  <block id="0d945fd644ef263977762f0180076e9c" category="list-text">Klicken Sie auf das Buchsymbol, um die für Ihre Auswahl geltenden Richtlinien und Richtlinien anzuzeigen.</block>
+  <block id="ac2a3ee5cc0c6e8ac6d6904972485028" category="list-text">Klicken Sie auf das Kettensymbol, um eine gemeinsam nutzbare URL für Ihre Auswahl zu generieren, die Sie mit anderen teilen können.</block>
+  <block id="59e0d9789f64ece5977e7f940ba53af0" category="list-text">Klicken Sie auf das Symbol Rückgängig, um die gesamte Auswahl zu löschen und von vorne zu beginnen.</block>
+  <block id="ac370db43df7302f140520247cd911d0" category="list-text">Im Ergebnisbildschirm können Sie Folgendes tun:</block>
+  <block id="5c9aecea84270e44fc9ec4a44d8badd9" category="list-text">Zeigen Sie Details, Warnungen und Hinweise zu Ihrer Konfiguration an.</block>
+  <block id="6d09d563ca5efa55ac958df61c73bfb6" category="list-text">Klicken Sie auf das Sternsymbol, um diese Suche zu einem Favoriten zu machen. Benennen und beschreiben Sie die Konfiguration. Dies wird zu einer gespeicherten Suche, die im Menü *gespeicherte Suche* angezeigt werden kann. Sie können die Konfiguration auch hier abonnieren, die Sie benachrichtigt, wenn Änderungen vorgenommen werden. Wenn Sie sich anmelden, sehen Sie dies auch im Menü *Abonnements*.</block>
+  <block id="a61fbf0d1c3ed9c2a1c08cb05d97e3a9" category="list-text">Bewegen Sie den Mauszeiger über die *Build End-to-End-Ansicht mit*, um weitere unterstützte Lösungen zu finden.</block>
+  <block id="19bfe090a6a2c5fb7b287f5d7c17cd5e" category="list-text">Klicken Sie auf *Was wäre wenn*, um Komponenten zu ändern und andere Kompatibilitätsoptionen zu erkunden.</block>
+  <block id="e1075a632aa2a4299a5ce1d7a1eb1cc1" category="summary">Sie können die Einstellungen in der Voreinstellungsliste verwenden und nach Kategorieneinstellungen suchen, um Ihre Lieblingskategorien zu speichern.</block>
+  <block id="bea6af0d35e7d9db77ca5a88081ab11f" category="doc">Arbeiten Sie mit Voreinstellungen</block>
+  <block id="6e965a953c3c414acf42bd172897202b" category="paragraph">Das Menü *Voreinstellungsliste und Suchkategorieeinstellungen* öffnet die Seite *Liste und Suchkategorieeinstellungen*, auf der Sie Ihre Lieblingskategorien oben in der Liste *Liste und Komponentenexploration suchen* speichern können.</block>
+  <block id="06bd3b66ef75cd45a080babe715be077" category="paragraph">Sie können die Seite *Liste und Kategorie-Einstellungen suchen* verwenden, um Ihre Lieblingskategorien auszuwählen. Diese Kategorien werden oben in der Liste *Liste und Komponenten-Explorer suchen* angezeigt und sind rot markiert.</block>
+  <block id="9971253c2d0d9e64cbd29574a229f3a7" category="list-text">Klicken Sie auf der Startseite auf *Preferences List und Find Category Preferences*. Die Seite *Liste und Suchkategorieeinstellungen* wird geöffnet.</block>
+  <block id="ab543d4e89323d7be3fb8199907b80cf" category="list-text">Wählen Sie die Kategorien aus, die Sie als Favoriten speichern möchten. Im Feld *Suchkategorien* können Sie durch die Liste blättern oder nach Kategorien suchen. Sie können beliebig viele Kategorien auswählen.</block>
+  <block id="ae88ce9b5bb2f1d6426908fbdced0f18" category="list-text">Klicken Sie auf *Speichern*, um Ihre Einstellungen zu behalten. Bei Bedarf können Sie auf *Reset* klicken, um die vorhandene Voreinstellungsliste zu löschen.</block>
+  <block id="69d1c0084e5b27989da1844d88af2a13" category="list-text">Um Ihre Einstellungen anzuzeigen, klicken Sie auf *Home* und dann auf *Liste und Suchen*. Ihre Lieblingskategorien erscheinen oben im *Component Explorer*, rot umrandet.</block>
+  <block id="fb156ce54b4ca2da822edd8aa40ad956" category="summary">Sie können die Ergebnisse für die Konfigurationen anzeigen und exportieren, die Ihren Produktanforderungen entsprechen.</block>
+  <block id="4830cad474537506142af149acab443e" category="doc">Arbeiten Sie mit Ergebnissen</block>
+  <block id="4d82c4a00337f4f8893787f478baed58" category="paragraph">Sie können die Ergebnisse für die Konfigurationen anzeigen und exportieren, die Ihren Produktanforderungen entsprechen.</block>
+  <block id="7a7cbe01895fca99b25cc52488dfdfb0" category="paragraph">Auf der Seite *Ergebnisse* können Sie eine End-to-End-Ansicht erstellen, indem Sie eine zugehörige Lösung auswählen, die mit der ausgewählten Konfiguration kompatibel ist.</block>
+  <block id="00d8407216cc7cfbe0b75371c9693434" category="admonition">Wenn Sie die erwarteten Ergebnisse nicht sehen, entfernen Sie die Filter.</block>
+  <block id="b48b202726bb5c6829fc6fd412762191" category="summary">Sie können die Suchkriterien und Konfigurationen speichern und aktualisieren.</block>
+  <block id="287cea239d29e9cedf992caa172af964" category="doc">Arbeiten Sie mit gespeicherten Kriterien, kürzlich durchgeführten Suchen und Konfigurationen</block>
+  <block id="ceed8f9438f1c40008444f5ef0980d00" category="paragraph">Sie können die Suchkriterien und Konfigurationen speichern und aktualisieren. Sie können die gespeicherten Kriterien und Konfigurationen laden, bearbeiten und löschen.</block>
+  <block id="2c9388e22e8d53e6cc4d40b002ce8372" category="summary">Sie können den Suchassistenten verwenden, der Ihnen die Vorschläge zur Untersuchung der kompatiblen Konfigurationen in Abhängigkeit von den Suchkriterien bietet.</block>
+  <block id="4478096ab411283fd2e6a8520fc4496f" category="doc">Arbeiten Sie mit dem Suchassistenten</block>
+  <block id="4987cd9246140609c39ded884952d01d" category="paragraph">*Suchassistent* bietet Vorschläge, um die kompatiblen Konfigurationen je nach den von Ihnen eingegebenen Suchkriterien zu untersuchen. Im Abschnitt *Suchassistent* werden die häufig verwendeten Kategorien angezeigt, aus denen Sie Komponenten auswählen können, die in die Suchkriterien aufgenommen werden sollen. Je nach gewählter Komponente zeigt der Suchassistent die kompatiblen Komponenten und Lösungen an.</block>
+  <block id="08e5e0ba24ad17a936307bab2f88e264" category="paragraph">Falls Sie falsche Suchkriterien eingegeben haben und das Interoperabilitäts-Matrix-Tool (IMT) keine Ergebnisse finden kann, zeigt der *Suchassistent* die Vorschläge zur Korrektur der Suchkriterien an.</block>
+  <block id="ec537610e86351d19225db2784bf191f" category="summary">Mithilfe des Suchtextes können Sie nach Komponenten, Lösungen, Kategorien und Konfigurationen suchen. Je nach eingebuchtem Text werden im Suchfeld mögliche Treffer angezeigt, die Sie in die Suchkriterien aufnehmen können.</block>
+  <block id="27e661d01e996755ff6343e36db32eca" category="doc">Textfeld „mit Suche arbeiten“</block>
+  <block id="414c2ebd5dd0c5ec528d47cd4e692033" category="summary">Sie können nach verschiedenen Storage-Lösungen suchen und Lösungen zu Ihren Suchkriterien hinzufügen oder entfernen. Sie können das Suchfeld auf der Seite Lösungssuche verwenden, um nach einer bestimmten Lösung zu suchen. Häufig verwendete Lösungen werden im Feld Lösungssuche angezeigt.</block>
+  <block id="7cca85d1f23f3abdc04fb438461cad0f" category="doc">Mit der Lösungssuche arbeiten</block>
+  <block id="df46242fb61bcf1a60e71305db81b7d9" category="paragraph">Sie können nach verschiedenen Storage-Lösungen suchen und Lösungen zu Ihren Suchkriterien hinzufügen oder entfernen. Sie können das Suchfeld auf der Seite *Lösungssuche* verwenden, um nach einer bestimmten Lösung zu suchen. Häufig verwendete Lösungen werden im Feld *Lösungssuche* angezeigt.</block>
+  <block id="57db59ac9c6d6c1ace7a61d1f1391bc7" category="paragraph">Die Seite *Solution Search* enthält eine Registerkarte *Solution Catalog* und eine Registerkarte *Mapping Assistant*. Auf der Registerkarte *Mapping Assistant* können Sie die Kategorie einer ausgewählten Lösung anzeigen, indem Sie entweder *nach Kategorie zuordnen* oder *nach Lösung zuordnen* auswählen.</block>
+  <block id="1cafef499933520a9e86177fcb165e06" category="section-title">Lösungskatalog</block>
+  <block id="7fae33de53bb2a5db04be163601aa253" category="paragraph">Auf der Registerkarte *Solution Catalog* können Sie mithilfe der Filterleiste *Solutions* filtern.</block>
+  <block id="7f757fee6e4d6aaedaccbfee2a9c5443" category="paragraph">Sie können auch die Option *PVR erforderlich, EOS und veraltete Konfigurationen* auswählen, wenn Sie solche Konfigurationen einbeziehen möchten.</block>
+  <block id="a61f1f1e80b63ed74149794321258708" category="section-title">Zuordnungsassistent</block>
+  <block id="522f2a5728bdde0e1e796e235a6db1d9" category="paragraph">Im Folgenden sind die beiden Arten von Arbeitsbereichmodi aufgeführt:</block>
+  <block id="8bc84f3532dc0826e4fe9954b23a9e7a" category="list-text">*Nach Kategorie zuordnen*: Sie können eine Kategorie aus den aufgeführten Kategorien auswählen und alle Lösungen aktivieren, die die ausgewählte Kategorie enthalten, mit gültigen Lösungen am Anfang der Liste. Sie können einzelne oder mehrere aktivierte Lösungen Ihrer Wahl hinzufügen. Sie können das Textfeld *Suchkategorien* verwenden, um nach einer bestimmten Kategorie zu suchen.</block>
+  <block id="83642ee81bca51efd5a8505c5dbb71ae" category="list-text">*Nach Lösung zuordnen*: Sie können eine Lösung aus den aufgeführten Lösungen auswählen und alle Lösungen aktivieren, die die ausgewählte Lösung enthalten, mit gültigen Lösungen oben in der Liste. Sie können einzelne oder mehrere aktivierte Lösungen Ihrer Wahl hinzufügen. Sie können das Textfeld *Suchlösungen* verwenden, um nach einer bestimmten Kategorie zu suchen.</block>
+  <block id="205b32aced3513c0bdb9dfdb8cbd86a4" category="paragraph">Wenn Sie fertig sind, können Sie die von Ihnen ausgewählten Elemente unter *Ausgewählte Storage-Lösungen* sehen. *Klicken Sie auf View Refine Search Criteria* oder *Skip to Results*.</block>
+  <block id="7b830318624b05f50d5376aa150520a8" category="section-title">Geführte Suche</block>
+  <block id="0b4078bb132552033ef900528e6773cb" category="paragraph">*Geführte Suche* ist aktiviert, wenn Sie eine Lösung auswählen. Die *Guided Search* bietet einen geführten Workflow, um Kriterien weiter zu verfeinern.</block>
+  <block id="c8d8164a68d29958f434cb28bd55364c" category="list-text">Klicken Sie auf der Startseite auf die *Lösungssuche*.</block>
+  <block id="c5d1a4e5b85f3b8338aa0a7306f6f126" category="list-text">Klicken Sie auf die *Expert-Ansicht*, um erweiterte Kriterienoptionen anzuzeigen.</block>
+  <block id="77df4fedf30b095745c71ad8a5d6dbe1" category="list-text">Klicken Sie auf die *Ansicht mit Anleitung*, um vereinfachte und geführte Kriterienoptionen anzuzeigen.</block>
+  <block id="92966aaa8e23f9c38da8793b0ed456e4" category="list-text">Wählen Sie in der *Novice-Ansicht* die angezeigten Suchkriterienoptionen aus:</block>
+  <block id="717ada056e3a3ab33201e93190a96d7b" category="list-text">Klicken Sie nach den ersten fünf Auswahlen auf *Mehr anzeigen*, um Ihre Suchkriterien weiter zu verfeinern. Sie können zur vorherigen Ansicht zurückkehren, indem Sie auf *weniger anzeigen* klicken.</block>
+  <block id="7381b6af8540464ba572c1a41d6bbece" category="list-text">Im Rahmen der *Lösungssuche* können Sie auch Folgendes tun:</block>
+  <block id="22ccf134d726013f225f30e415350afd" category="list-text">Klicken Sie auf das Kettensymbol, um eine gemeinsam nutzbare URL für Ihre Auswahl zu generieren, die Sie mit anderen teilen können.</block>
+  <block id="2a255f76e7a4e41ac5208b9f9c1e14bf" category="list-text">Klicken Sie auf das Symbol Rückgängig, um Ihre gesamte Auswahl zu löschen und von vorne zu beginnen.</block>
+  <block id="7d3548071d43ddbb5a114244d649cc72" category="list-text">Klicken Sie auf das Sternsymbol, um diese Suche zu einem Favoriten zu machen. Benennen und beschreiben Sie die Konfiguration. Dies wird zu einer gespeicherten Suche, die über das Menü gespeicherte Suche angezeigt werden kann. Sie können die Konfiguration auch hier abonnieren, die Sie benachrichtigt, wenn Änderungen vorgenommen werden. Wenn Sie sich anmelden, sehen Sie dies auch im Menü *Abonnements*.</block>
+  <block id="cbb5df1a2f14206cda92df2eee9ad768" category="sidebar">Führen Sie Allgemeine Suchen Durch</block>
+  <block id="1f2912ea316c2e90ba1fb996bce7c786" category="sidebar">Gespeicherte Suchfunktionen</block>
+  <block id="c9db0e0f049034dde7c772dfb13bbb54" category="sidebar">Konfiguration kann nicht gefunden werden</block>
+</blocks>

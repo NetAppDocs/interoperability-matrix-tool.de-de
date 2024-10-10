@@ -1,0 +1,62 @@
+---
+sidebar: sidebar 
+permalink: working-with-ontap-san-host-solutions-search.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: Prüfen Sie die Kompatibilität für die ONTAP-Version und die Versionskombinationen für Flash- oder Fabric-Speicher. Sie können Ihre Kompatibilitätssuche für die einzelnen relevanten Komponenten weiter verfeinern 
+---
+= Unterstützung für ONTAP-SAN-Host vereinfachte Suche
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Prüfen Sie die Kompatibilität für ONTAP-Versionen und Flash- oder Fabric-Speicherversionskombinationen. Sie können Ihre Kompatibilitätssuche für die einzelnen relevanten Komponenten weiter verfeinern.
+
+
+
+== Über diese Aufgabe
+
+Sie können die Kompatibilität zwischen Ihren Flash- oder Fabric-Speichergeräten auf Ihrem SAN mit der gewünschten ONTAP-Version und anderen relevanten Komponenten prüfen. Sie können zwischen *Expert View* oder *Novice View* wählen.
+
+
+NOTE: Klicken Sie auf die Option *als Standard festlegen*, um beim Öffnen des IMT automatisch eine Suche nach *ONTAP SAN Host vereinfacht* zu öffnen.
+
+
+
+== Schritte
+
+. Klicken Sie auf der Startseite auf *ONTAP SAN Host vereinfacht*.
+. Wählen Sie die Ansicht aus, die Sie verwenden möchten:
++
+.. Klicken Sie auf *Expert View*, um erweiterte Kriterienoptionen anzuzeigen.
+.. Klicken Sie auf *Guided view*, um vereinfachte und geführte Kriterienoptionen anzuzeigen.
+
+
+. Wählen Sie in *Novice View* die angezeigten Suchkriterien aus.
++
+.. Klicken Sie auf *Überspringen*, um zur nächsten Komponente zu wechseln, ohne eine Auswahl zu treffen. Sie können zur Komponente zurückkehren, indem Sie bei Bedarf auf *Unskip* klicken.
+.. Wenn Sie fertig sind, klicken Sie auf *Ergebnisse anzeigen*, um die unterstützten Konfigurationen für Ihre Suchkriterien anzuzeigen.
+
+
+. Wählen Sie in der *Expert-Ansicht* die Suchkriterien aus, die Sie für die verschiedenen Komponenten verwenden möchten. Wir empfehlen Ihnen, von links nach rechts zu wechseln, da jede Auswahl die verbleibenden Kriterien eingrenzen wird. Sie müssen nicht für jede Komponente eine Auswahl treffen.
++
+.. Wenn Sie fertig sind, klicken Sie auf *Ergebnisse anzeigen*, um die unterstützten Konfigurationen für Ihre Suchkriterien anzuzeigen.
+
+
+. Im Rahmen des *ONTAP SAN Hosts vereinfacht* können Sie auch Folgendes tun:
++
+.. Klicken Sie auf das Buchsymbol, um die für Ihre Auswahl geltenden Richtlinien und Richtlinien anzuzeigen.
+.. Klicken Sie auf das Kettensymbol, um eine gemeinsam nutzbare URL für Ihre Auswahl zu generieren, die Sie mit anderen teilen können.
+.. Klicken Sie auf das Symbol Rückgängig, um die gesamte Auswahl zu löschen und von vorne zu beginnen.
+
+
+. Im Ergebnisbildschirm können Sie Folgendes tun:
++
+.. Zeigen Sie Details, Warnungen und Hinweise zu Ihrer Konfiguration an.
+.. Klicken Sie auf das Sternsymbol, um diese Suche zu einem Favoriten zu machen. Benennen und beschreiben Sie die Konfiguration. Dies wird zu einer gespeicherten Suche, die im Menü *gespeicherte Suche* angezeigt werden kann. Sie können die Konfiguration auch hier abonnieren, die Sie benachrichtigt, wenn Änderungen vorgenommen werden. Wenn Sie sich anmelden, sehen Sie dies auch im Menü *Abonnements*.
+.. Bewegen Sie den Mauszeiger über die *Build End-to-End-Ansicht mit*, um weitere unterstützte Lösungen zu finden.
+.. Klicken Sie auf *Was wäre wenn*, um Komponenten zu ändern und andere Kompatibilitätsoptionen zu erkunden.
+
+
+

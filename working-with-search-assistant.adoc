@@ -1,0 +1,16 @@
+---
+sidebar: sidebar 
+permalink: working-with-search-assistant.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, search, assistant 
+summary: Sie können den Suchassistenten verwenden, der Ihnen die Vorschläge zur Untersuchung der kompatiblen Konfigurationen in Abhängigkeit von den Suchkriterien bietet. 
+---
+= Arbeiten Sie mit dem Suchassistenten
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*Suchassistent* bietet Vorschläge, um die kompatiblen Konfigurationen je nach den von Ihnen eingegebenen Suchkriterien zu untersuchen. Im Abschnitt *Suchassistent* werden die häufig verwendeten Kategorien angezeigt, aus denen Sie Komponenten auswählen können, die in die Suchkriterien aufgenommen werden sollen. Je nach gewählter Komponente zeigt der Suchassistent die kompatiblen Komponenten und Lösungen an.
+
+Falls Sie falsche Suchkriterien eingegeben haben und das Interoperabilitäts-Matrix-Tool (IMT) keine Ergebnisse finden kann, zeigt der *Suchassistent* die Vorschläge zur Korrektur der Suchkriterien an.

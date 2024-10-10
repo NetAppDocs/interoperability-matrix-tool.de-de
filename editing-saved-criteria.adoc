@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: editing-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Sie können die zuvor gespeicherten Suchkriterien bearbeiten. 
+---
+= Gespeicherte Kriterien bearbeiten
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können die zuvor gespeicherten Suchkriterien bearbeiten. Sie können den gespeicherten Kriterien neue Komponenten hinzufügen oder die Komponente aus vorhandenen gespeicherten Kriterien entfernen.
+
+
+
+== Bevor Sie beginnen
+
+Sie müssen die gespeicherten Kriterien für die Bearbeitung laden.
+
+
+
+== Schritte
+
+. Laden Sie die gespeicherten Kriterien, und klicken Sie auf den Link gespeicherte Kriterien.
+. Klicken Sie auf den Link *Suchkriterien verfeinern*. Sie können die Kriterien hinzufügen oder aus gespeicherten Kriterien entfernen.
+

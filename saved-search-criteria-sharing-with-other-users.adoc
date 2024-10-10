@@ -1,0 +1,89 @@
+---
+sidebar: sidebar 
+permalink: saved-search-criteria-sharing-with-other-users.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Sie können Ihre Kriterien mit anderen Benutzern teilen. 
+---
+= Gespeicherte Suchkriterien für andere Benutzer freigeben
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Auf der Seite *Suchkriterien verfeinern* können Sie Ihre *gespeicherte Suche*-Kriterien mit anderen Benutzern teilen.
+
+Im Folgenden werden die drei verschiedenen Methoden zum Speichern und Freigeben der Suchkriterien beschrieben:
+
+* <<Geben Sie die Kriterien beim Speichern an>>
+* <<Teilen Sie die Kriterien nach dem Speichern>>
+* <<Gemeinsame Kriterien anzeigen>>
+
+
+
+
+== Geben Sie die Kriterien beim Speichern an
+
+Auf der Seite Suchkriterien verfeinern können Sie die Suchkriterien beim Speichern freigeben.
+
+
+
+=== Bevor Sie beginnen
+
+Sie müssen die Lösungen und Komponenten auf der ersten Seite hinzufügen, um die Kriterien beim Speichern zu teilen.
+
+
+
+=== Schritte
+
+. Aktivieren Sie das Kontrollkästchen Freigeben, um die gespeicherten Suchkriterien freizugeben.
+. Geben Sie den Benutzernamen in das Textfeld für die Benutzersuche ein, und klicken Sie auf Benutzer hinzufügen.
++
+
+NOTE: Wenn der Benutzername nicht vorhanden ist, wird die Validierungsmeldung angezeigt.
+
+. Sie können mit der Option „Benutzer suchen“ nachschlagen und Kriterien für die gemeinsame Nutzung einreichen.
+
+
+
+
+== Teilen Sie die Kriterien nach dem Speichern
+
+Auf der Seite Suchkriterien verfeinern können Sie die Suchkriterien nach dem Speichern freigeben.
+
+
+
+=== Bevor Sie beginnen
+
+Sie müssen die gespeicherten Suchlösungen und Komponenten auf der ersten Seite hinzufügen, um die Kriterien nach dem Speichern gemeinsam zu nutzen.
+
+
+
+=== Schritte
+
+. Klicken Sie auf der Startseite auf die Option gespeicherte Suche.
+. Klicken Sie auf „Teilen“, um die Kriterien für andere freizugeben.
+. Geben Sie den Benutzernamen in das Textfeld ein, um die Benutzer zu durchsuchen, und klicken Sie auf Senden.
+
+
+
+
+== Gemeinsame Kriterien anzeigen
+
+
+
+=== Bevor Sie beginnen
+
+Sie müssen die Lösungen und Komponenten in der gespeicherten Suche speichern.
+
+
+
+=== Schritte
+
+. Sie können die Kriterien anzeigen, die Sie mit anderen Benutzern geteilt haben, indem Sie die Option gespeicherte Suche als Standard festlegen.
+. Wählen Sie in der Spalte Freigegeben von den Eintrag Benutzername aus, um die gemeinsamen Kriterien anzuzeigen.
+. Es wird eine E-Mail-Benachrichtigung an die freigegebenen Benutzer gesendet, die über die Freigabe informiert werden.
+
+
+
+NOTE: Die Aktualisierung der ursprünglichen Kriterien hat keinen Einfluss auf die gemeinsamen Kriterien. Sie gelten als separate Einheiten.

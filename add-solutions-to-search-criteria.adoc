@@ -1,0 +1,48 @@
+---
+sidebar: sidebar 
+permalink: add-solutions-to-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Sie können Ihren Suchkriterien mithilfe des Suchtextes oder der Lösungssuche Lösungen hinzufügen. 
+---
+= Fügen Sie Lösungen zu Suchkriterien hinzu
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können Ihre Suchkriterien mit Hilfe des Suchtextes oder der *Lösungssuche* ergänzen.
+
+
+
+== Über diese Aufgabe
+
+Wenn Sie wissen, welche spezifischen Lösungen zu den Suchkriterien hinzugefügt werden sollen, können Sie die Lösungsnamen in das Suchfeld eingeben. Sie können die *Lösungssuche* verwenden, wenn Sie nicht sicher sind, welche Lösung zu den Suchkriterien hinzugefügt werden soll.
+
+Wenn Sie die in den Suchkriterien enthaltenen Lösungen löschen möchten, klicken Sie oben rechts auf *alles löschen*.
+
+
+
+=== Schritte
+
+. Geben Sie auf der Startseite des Interoperabilitäts-Matrix-Tools den Namen der Lösung in das Suchfeld ein, um die möglichen Übereinstimmungen anzuzeigen.
++
+.. Klicken Sie auf *Hinzufügen*, um die Lösung in die Suchkriterien aufzunehmen.
+
+
+. Optional Mit der *Lösungssuche* können Sie eine Lösung zu den Suchkriterien hinzufügen.
++
+.. Klicken Sie Auf *Lösungssuche*.
+.. Geben Sie im Feld *Lösungssuche* die Lösung an, die zu den Suchkriterien hinzugefügt werden soll, und klicken Sie auf *Hinzufügen*.
+.. Bei Bedarf können Sie das Kontrollkästchen *PVR erforderlich, EOS* und *veraltete Konfigurationen* aktivieren. Dieses Kontrollkästchen enthält Informationen zu Produktabweichungsanforderung, Support für das Ende der Version und veraltete Elemente in den Ergebnissen.
+
+
+
+
+Sie können das Suchfeld im Fenster *Lösungssuche* verwenden, um nach einer bestimmten Lösung zu suchen. Um eine mit der *Lösungssuche* hinzugefügte Lösung zu entfernen, klicken Sie im oberen Bereich auf *Entfernen*.
+
+
+
+=== Ergebnis
+
+Wenn Sie Lösungen zu den Suchkriterien hinzufügen, werden die Lösungen im rechten Fensterbereich unter *Suchkriterien* angezeigt.

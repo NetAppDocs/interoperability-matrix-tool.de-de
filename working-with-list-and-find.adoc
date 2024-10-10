@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: working-with-list-and-find.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, list, find 
+summary: Bestimmen Sie .. 
+---
+= Mit Liste und Suchen arbeiten
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Im Arbeitsbereich *Liste und Suche* können Sie die bestmöglichen Konfigurationen für Ihre Komponenten anzeigen.
+
+
+
+== Über diese Aufgabe
+
+Verwenden Sie das Fenster *Component Explorer* auf der linken Seite, um Konfigurationen für ausgewählte Komponenten anzuzeigen. Im rechten Bereich werden die Lösungen angezeigt. Jede Registerkarte stellt eine Speicherlösung und die Anzahl der Konfigurationen dar, die die ausgewählten Komponenten verwenden. Wenn die grüne Umschalttaste *Logic* im Arbeitsbereich *Liste und Komponente suchen* auf ODER gesetzt ist, können Sie nach Lösungen suchen, die Konfigurationen mit einzelnen Komponenten enthalten. Wenn die grüne Schaltfläche *Logic* auf *UND* gesetzt ist, können Sie nach Lösungen suchen, die Konfigurationen mit allen ausgewählten Komponenten enthalten. Wenn innerhalb desselben Komponententyps mehrere Komponenten ausgewählt sind, wird die Schaltfläche auf *ODER* gesetzt.
+
+
+
+== Schritte
+
+. Klicken Sie auf der Startseite auf *Liste und Suchen*.
+. Suchen Sie im *Component Explorer* nach einem Komponentennamen oder erweitern Sie die Auswahl, um Komponenten zum *List and Find Component Workarea* hinzuzufügen.
++
+
+NOTE: Sie können bestimmte aktivierte Lösungen auswählen, nachdem Sie eine Komponente zur *Liste und Komponentenarbeitsbereich suchen* hinzugefügt haben, bevor Sie auf *Weiter* klicken. Sie können auch maximal 3000 Zeilen für jeweils eine Lösung in eine Excel-Tabelle oder PDF exportieren.
+
+. Klicken Sie auf *Weiter*, um zu sehen, wo die Komponenten in Konfigurationen über mehrere Lösungen hinweg auf der Seite *Ergebnisse* verwendet werden. Die am besten kompatible Konfiguration für Ihre Liste der Komponenten wird angezeigt.
+

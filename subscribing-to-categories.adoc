@@ -1,0 +1,38 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Sie können einzelne oder mehrere Kategorien Ihrer Wahl abonnieren. 
+---
+= Abonnieren Sie Kategorien
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können einzelne oder mehrere Kategorien Ihrer Wahl abonnieren.
+
+
+
+== Über diese Aufgabe
+
+Sie erhalten eine E-Mail-Benachrichtigung, wenn Komponenten in einer Kategorie hinzugefügt oder gelöscht werden.
+
+
+
+== Schritte
+
+. Klicken Sie im Header-Menü auf den Link *Abonnement*.
+. Wählen Sie im Abonnementfenster die Registerkarte *Kategorie* aus.
+. Aktivieren Sie für die Kategorie Ihrer Wahl das Kontrollkästchen für die Option Komponenten hinzugefügt oder gelöscht.
+. Wählen Sie im Feld *Frequenz* *sofort* oder *Digest* aus.
++
+
+NOTE: Die Standardauswahl ist *immediate*.
+
+. Klicken Sie auf *Abonnieren*, um Abonnements für die Kategorien zu erhalten, die Sie abonniert haben.
+
+
+
+NOTE: Sie können auf *Zurücksetzen* klicken, um alle Optionen in der Registerkarte Kategorie zu löschen.

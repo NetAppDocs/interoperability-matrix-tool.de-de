@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: saving-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Auf der Seite Suchkriterien verfeinern können Sie wählen, ob Sie die Suchkriterien speichern oder aktualisieren möchten, um sie später abzurufen. 
+---
+= Speichern Sie die Suchkriterien
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Auf der Seite *Suchkriterien verfeinern* können Sie wählen, ob Sie die Suchkriterien speichern oder aktualisieren möchten, um sie später abzurufen.
+
+
+
+== Bevor Sie beginnen
+
+Sie müssen bereits Lösungen und Komponenten auf der ersten Seite hinzugefügt haben, um die Kriterien für die zukünftige Referenz zu speichern.
+
+.Schritte
+. Klicken Sie auf der Seite *Suchkriterien verfeinern* auf *Kriterien speichern*.
+. Geben Sie den *Criteria Name* ein und fügen Sie Informationen in die *Beschreibung* Felder ein. Der *Criteria Name* kann alphanumerisch sein und Sie können bis zu 20 Zeichen hinzufügen. Das Feld *Beschreibung* kann bis zu 100 alphanumerische Zeichen umfassen. Das Interoperabilitäts-Matrix-Tool lässt keine doppelten Namen für das Speichern von Kriterien zu. *Criteria Name* ist obligatorisch.
+. Klicken Sie auf *Kriterien aktualisieren*, um Filter oder Kriterien hinzuzufügen, die als Teil der gespeicherten Kriterien berücksichtigt werden sollen.
+. Klicken Sie Auf *Speichern*. Der Link *Kriterien speichern* ändert sich in *Kriterien aktualisieren*, nachdem Sie die Kriterien gespeichert haben. Sie können maximal 10 Suchkriterien speichern.
+
+
+
+
+== Ergebnis
+
+Wenn Sie auf *gespeicherte Suche* klicken, wird ein Popup-Fenster mit den *gespeicherten Kriterien* angezeigt. Auf der Registerkarte *Letzte Suche* werden Ihre letzten Suchanfragen angezeigt.
+
+Jede zuletzt gespeicherte Suche wird durch ihren Zeitstempel eindeutig identifiziert. Sie können auf den Zeitstempel klicken, um zur Seite *Suchkriterien verfeinern* zu gelangen.

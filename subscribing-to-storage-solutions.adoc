@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-storage-solutions.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: Sie können eine oder mehrere Storage-Lösungen Ihrer Wahl abonnieren. 
+---
+= Abonnieren Sie Storage-Lösungen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können eine oder mehrere Storage-Lösungen Ihrer Wahl abonnieren.
+
+
+
+== Über diese Aufgabe
+
+Die beiden Arten des Abonnements sind wie folgt:
+
+. * Sofort*: Sie erhalten sofort eine E-Mail, wenn Änderungen an der abonnierten Lösung vorgenommen werden.
+. *Digest*: Sie erhalten innerhalb von sieben Tagen eine angesammelte E-Mail, die alle Änderungen widerspiegelt, die an den abonnierten Lösungen vorgenommen werden.
+
+
+
+
+== Schritte
+
+. Klicken Sie im Header-Menü auf den Link *Abonnement*.
+. Wählen Sie im Fenster *Abonnement* die Registerkarte *Speicherlösung* aus.
+. Für Speicherlösungen Ihrer Wahl aktivieren Sie Kontrollkästchen für die Optionen *Solution Status Update, Categories Associated oder Disassociated oder Configurations added oder Deleted*.
++
+Sie erhalten E-Mails für die folgenden Instanzen:
+
++
+** Wenn der Status der Lösung geändert oder aktualisiert wird.
+** Wenn einige Kategorien hinzugefügt oder aus der Lösung gelöscht werden
+** Wenn einige Konfigurationen hinzugefügt oder aus der Lösung gelöscht werden
+
+
+. Wählen Sie im Feld *Frequenz* entweder *sofort* oder *Digest* aus.
++
+
+NOTE: Die Standardauswahl ist *immediate*.
+
+. Klicken Sie auf *Abonnieren*, um Lösungen zu abonnieren, die Sie ausgewählt haben.
++
+
+NOTE: Sie können auf *Reset* klicken, um alle Auswahlmöglichkeiten im Register *Speicherlösung* zu löschen.
+
+

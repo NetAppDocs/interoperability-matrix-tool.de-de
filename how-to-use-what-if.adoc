@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: how-to-use-what-if.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: *What If* ermöglicht es Ihnen, alle möglichen unterstützten Konfigurationen zu erkunden. 
+---
+= Verwendung von Was-wäre-wenn
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*What If* ermöglicht es Ihnen, alle möglichen unterstützten Konfigurationen zu erkunden. Sie können die Funktion *Was wäre wenn* verwenden, um eine Komponente in einer ausgewählten Konfiguration zu aktualisieren oder herunterzustufen und die Kompatibilität zu untersuchen. Um alle unterstützten Konfigurationen nach dem Upgrade oder Downgrade einer Komponente anzuzeigen, können Sie die Option *Export* verwenden, um die Konfigurationsdetails in ein Excel-Arbeitsblatt oder eine PDF-Datei zu exportieren.
+
+Nachdem Sie im Fenster *Was wäre, wenn* eine bestimmte Komponente zum Upgrade oder Downgrade ausgewählt haben, können Sie anzeigen, ob die ausgewählte Komponente mit anderen Komponenten in der Konfiguration kompatibel ist oder ob keine passenden Konfigurationen vorhanden sind. Falls keine passenden Konfigurationen vorhanden sind, müssen Sie die anfänglichen Kriterien erweitern, um weitere Konfigurationen abzuleiten.
+
+Das Fenster *Was wäre, wenn* ist in zwei Bereiche unterteilt:
+
+* Oberer Bereich gibt an, ob eine ausgewählte Komponente mit gültigen Konfigurationen übereinstimmt.
+* Im unteren Bereich werden die verschiedenen Kategorien und die jeweiligen Komponentenversionen angezeigt.
+
+
+Wenn Sie die gewünschte Konfiguration nicht finden können, klicken Sie auf *Feedback*, um ein Problem zu melden.
+
+Weitere Informationen finden Sie unter link:reporting-an-issue.html["Problem melden"].

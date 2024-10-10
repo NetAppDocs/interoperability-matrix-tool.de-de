@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: removing-config-from-saved-tags.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Sie können die gespeicherte Konfiguration entfernen oder aktualisieren, die Sie nicht benötigen. 
+---
+= Konfiguration aus gespeicherten Tags entfernen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können die gespeicherte Konfiguration entfernen oder aktualisieren, die Sie nicht benötigen.
+
+
+
+== Über diese Aufgabe
+
+Wenn Sie die Konfiguration aus den Ergebnissen gespeichert haben, können Sie sie entfernen, wenn Sie sie nicht mehr als Referenz benötigen.
+
+
+
+== Schritte
+
+. Klicken Sie auf das gelbe Sternsymbol, um die gespeicherte Konfiguration zu entfernen oder zu aktualisieren.
+. Klicken Sie auf *Entfernen*, um die gespeicherte Konfiguration zu löschen. Nachdem Sie im Popup-Fenster auf die Schaltfläche Entfernen geklickt haben, ändert sich das Sternsymbol von gelb zu weiß.
+

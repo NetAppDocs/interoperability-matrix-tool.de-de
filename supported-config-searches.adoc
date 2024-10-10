@@ -1,0 +1,61 @@
+---
+sidebar: sidebar 
+permalink: supported-config-searches.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Mit dem Interoperabilitäts-Matrix-Tool (IMT) können Sie die Ergebnisse unterstützter Konfigurationen ganz einfach anzeigen.' 
+---
+= Unterstützte Konfigurationssuchen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Mit dem Interoperabilitäts-Matrix-Tool (IMT) können Sie die Ergebnisse unterstützter Konfigurationen ganz einfach anzeigen. Sie können mehrere Aufgaben ausführen, z. B. Ändern, Filtern oder Exportieren der Ergebnisse sowie Anzeigen oder Ändern der Suchkriterien.
+
+Auf der Seite *Ergebnisse* zeigt IMT je nach den eingegebenen Suchkriterien mehrere unterstützte Konfigurationen an. Sie können die vollständigen Konfigurationsdetails für eine bestimmte Konfiguration anzeigen, indem Sie auf den Konfigurationsnamen oder die -ID klicken (z. B. 20150202-204717518).
+
+[cols="~,~"]
+|===
+| Feldname | Beschreibung 
+
+
+| Weiter zu den Ergebnissen | Ermöglicht es Ihnen, die Seite *Refine Search Criteria* zu überspringen und direkt zur Seite *results* zu gehen. 
+
+
+| Konfigurationsname oder -ID | Der Konfigurationsname oder die -ID ist eine eindeutige Kennung, die einer bestimmten Konfiguration zugewiesen ist. Sie können auf den Konfigurationsnamen klicken, um alle Konfigurationsdetails anzuzeigen. Der Status der Konfigurationen wird zusammen mit dem Konfigurationsnamen angezeigt. 
+
+
+| Details | Enthält Informationen zu den kompatiblen Komponenten und Kategorien für eine bestimmte Konfiguration. 
+
+
+| Meldungen | Bietet wichtige Informationen zur Konfiguration, z. B. Versionshinweise, Informationen zur Bereitstellung, Empfehlungen usw. 
+
+
+| Info | Bietet zusätzliche Informationen zur Konfiguration. 
+
+
+| Verlauf | Zeigt den Verlauf der Konfigurationsinhalte an. Der Konfigurationsinhalt wird grün hervorgehoben, wenn die Details hinzugefügt werden, blau, wenn die Details aktualisiert werden, rot mit der Markierung „Streichen“, wenn die Details entfernt werden, und schwarz, wenn keine Änderungen an den Details vorliegen. 
+
+
+| End-To-End-Ansicht Mit Aufbauen | Ermöglicht die Erstellung einer End-to-End-Ansicht durch Auswahl einer verwandten Lösung, die mit der ausgewählten Konfiguration kompatibel ist. 
+
+
+| Was-Wäre-Wenn | Ermöglicht das Upgrade oder Downgrade einer Komponente in einer ausgewählten Konfiguration. 
+
+
+| Drucken | Ermöglicht das Drucken der Konfigurationsdetails. 
+
+
+| Richtlinien und Richtlinien | Hilft Ihnen, mehr über die Richtlinien und Richtlinien zu erfahren, die für eine ausgewählte Konfiguration gelten. Wenn neue Änderungen in den Richtlinien und Richtlinien hinzugefügt werden, werden die Änderungen gelb hervorgehoben und gelten für 30 Tage. Wenn irgendwelche Richtlinien und Richtlinien entfernt werden, werden die Änderungen gestrichen. Wenn im Feld *Richtlinien und Richtlinien* Änderungen vorgenommen werden, wird dies durch ein rotes Symbol „NEU“ gekennzeichnet. 
+
+
+| Filtern | Ermöglicht die Suche nach Konfigurationen, die während eines bestimmten Zeitraums geändert wurden, indem Sie einen entsprechenden Datumsbereich in den Feldern *Zuletzt geändert zwischen* und *und* eingeben. 
+
+
+| Hinweise | Enthält Notizen, die mit der Konfiguration verknüpft sind. 
+
+
+| Zeilenvergleich | Ermöglicht den Vergleich von zwei Zeilen mit der Konfiguration. 
+|===
+Die Suchergebnisse werden mit den Konfigurationsdetails für jedes Ergebnis angezeigt. In jeder Zeile des Suchergebnisses werden die Details einer Konfiguration angezeigt, die zur aktuell ausgewählten Speicherlösung gehört. Die Konfigurationszeilen im Status *End of Support* werden grau angezeigt und der Status neben dem Konfigurationsnamen wird als *EOS* oder *PVR* angegeben.

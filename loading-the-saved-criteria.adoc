@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: loading-the-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Auf der Startseite können Sie entweder nach Komponenten suchen oder die zuvor gespeicherten Kriterien laden. 
+---
+= Gespeicherte Kriterien laden
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Auf der Startseite können Sie entweder nach Komponenten suchen oder die zuvor gespeicherten Kriterien laden.
+
+
+
+== Bevor Sie beginnen
+
+Sie müssen die Suchkriterien auf der Startseite gespeichert haben.
+
+
+
+== Über diese Aufgabe
+
+Sie können auf *gespeicherte Suche* klicken, um alle zuvor gespeicherten Kriterien zu laden.
+
+
+
+== Schritte
+
+. Klicken Sie auf der ersten Seite auf *gespeicherte Suche*.
+. Klicken Sie auf *Kriterien* oder *Konfiguration*, um die gespeicherten Kriterien oder Konfigurationen zu laden. Nachdem Sie den Kriteriennamen ausgewählt haben, werden die Kriterien im Bereich Suchkriterien geladen.
+

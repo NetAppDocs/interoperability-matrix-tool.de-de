@@ -1,0 +1,88 @@
+---
+sidebar: sidebar 
+permalink: working-with-solution-search.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Sie können nach verschiedenen Storage-Lösungen suchen und Lösungen zu Ihren Suchkriterien hinzufügen oder entfernen. Sie können das Suchfeld auf der Seite Lösungssuche verwenden, um nach einer bestimmten Lösung zu suchen. Häufig verwendete Lösungen werden im Feld Lösungssuche angezeigt. 
+---
+= Mit der Lösungssuche arbeiten
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können nach verschiedenen Storage-Lösungen suchen und Lösungen zu Ihren Suchkriterien hinzufügen oder entfernen. Sie können das Suchfeld auf der Seite *Lösungssuche* verwenden, um nach einer bestimmten Lösung zu suchen. Häufig verwendete Lösungen werden im Feld *Lösungssuche* angezeigt.
+
+
+
+== Über diese Aufgabe
+
+Die Seite *Solution Search* enthält eine Registerkarte *Solution Catalog* und eine Registerkarte *Mapping Assistant*. Auf der Registerkarte *Mapping Assistant* können Sie die Kategorie einer ausgewählten Lösung anzeigen, indem Sie entweder *nach Kategorie zuordnen* oder *nach Lösung zuordnen* auswählen.
+
+
+
+=== Lösungskatalog
+
+Auf der Registerkarte *Solution Catalog* können Sie mithilfe der Filterleiste *Solutions* filtern.
+
+Sie können auch die Option *PVR erforderlich, EOS und veraltete Konfigurationen* auswählen, wenn Sie solche Konfigurationen einbeziehen möchten.
+
+
+
+=== Zuordnungsassistent
+
+Im Folgenden sind die beiden Arten von Arbeitsbereichmodi aufgeführt:
+
+* *Nach Kategorie zuordnen*: Sie können eine Kategorie aus den aufgeführten Kategorien auswählen und alle Lösungen aktivieren, die die ausgewählte Kategorie enthalten, mit gültigen Lösungen am Anfang der Liste. Sie können einzelne oder mehrere aktivierte Lösungen Ihrer Wahl hinzufügen. Sie können das Textfeld *Suchkategorien* verwenden, um nach einer bestimmten Kategorie zu suchen.
+* *Nach Lösung zuordnen*: Sie können eine Lösung aus den aufgeführten Lösungen auswählen und alle Lösungen aktivieren, die die ausgewählte Lösung enthalten, mit gültigen Lösungen oben in der Liste. Sie können einzelne oder mehrere aktivierte Lösungen Ihrer Wahl hinzufügen. Sie können das Textfeld *Suchlösungen* verwenden, um nach einer bestimmten Kategorie zu suchen.
+
+
+Sie können auch die Option *PVR erforderlich, EOS und veraltete Konfigurationen* auswählen, wenn Sie solche Konfigurationen einbeziehen möchten.
+
+Wenn Sie fertig sind, können Sie die von Ihnen ausgewählten Elemente unter *Ausgewählte Storage-Lösungen* sehen. *Klicken Sie auf View Refine Search Criteria* oder *Skip to Results*.
+
+
+
+=== Geführte Suche
+
+*Geführte Suche* ist aktiviert, wenn Sie eine Lösung auswählen. Die *Guided Search* bietet einen geführten Workflow, um Kriterien weiter zu verfeinern.
+
+
+
+== Schritte
+
+. Klicken Sie auf der Startseite auf die *Lösungssuche*.
+. Wählen Sie die Ansicht aus, die Sie verwenden möchten:
++
+.. Klicken Sie auf die *Expert-Ansicht*, um erweiterte Kriterienoptionen anzuzeigen.
+.. Klicken Sie auf die *Ansicht mit Anleitung*, um vereinfachte und geführte Kriterienoptionen anzuzeigen.
+
+
+. Wählen Sie in der *Novice-Ansicht* die angezeigten Suchkriterienoptionen aus:
++
+.. Klicken Sie auf *Überspringen*, um zur nächsten Komponente zu wechseln, ohne eine Auswahl zu treffen. Sie können zur Komponente zurückkehren, indem Sie bei Bedarf auf *Unskip* klicken.
+.. Klicken Sie nach den ersten fünf Auswahlen auf *Mehr anzeigen*, um Ihre Suchkriterien weiter zu verfeinern. Sie können zur vorherigen Ansicht zurückkehren, indem Sie auf *weniger anzeigen* klicken.
+.. Wenn Sie fertig sind, klicken Sie auf *Ergebnisse anzeigen*, um die unterstützten Konfigurationen für Ihre Suchkriterien anzuzeigen.
+
+
+. Wählen Sie in der *Expert-Ansicht* die Suchkriterien aus, die Sie für die verschiedenen Komponenten verwenden möchten. Wir empfehlen Ihnen, von links nach rechts zu wechseln, da jede Auswahl die verbleibenden Kriterien eingrenzen wird. Sie müssen nicht für jede Komponente eine Auswahl treffen.
++
+.. Wenn Sie fertig sind, klicken Sie auf *Ergebnisse anzeigen*, um die unterstützten Konfigurationen für Ihre Suchkriterien anzuzeigen.
+
+
+. Im Rahmen der *Lösungssuche* können Sie auch Folgendes tun:
++
+.. Klicken Sie auf das Buchsymbol, um die für Ihre Auswahl geltenden Richtlinien und Richtlinien anzuzeigen.
+.. Klicken Sie auf das Kettensymbol, um eine gemeinsam nutzbare URL für Ihre Auswahl zu generieren, die Sie mit anderen teilen können.
+.. Klicken Sie auf das Symbol Rückgängig, um Ihre gesamte Auswahl zu löschen und von vorne zu beginnen.
+
+
+. Im Ergebnisbildschirm können Sie Folgendes tun:
++
+.. Zeigen Sie Details, Warnungen und Hinweise zu Ihrer Konfiguration an.
+.. Klicken Sie auf das Sternsymbol, um diese Suche zu einem Favoriten zu machen. Benennen und beschreiben Sie die Konfiguration. Dies wird zu einer gespeicherten Suche, die über das Menü gespeicherte Suche angezeigt werden kann. Sie können die Konfiguration auch hier abonnieren, die Sie benachrichtigt, wenn Änderungen vorgenommen werden. Wenn Sie sich anmelden, sehen Sie dies auch im Menü *Abonnements*.
+.. Bewegen Sie den Mauszeiger über die *Build End-to-End-Ansicht mit*, um weitere unterstützte Lösungen zu finden.
+.. Klicken Sie auf *Was wäre wenn*, um Komponenten zu ändern und andere Kompatibilitätsoptionen zu erkunden.
+
+
+

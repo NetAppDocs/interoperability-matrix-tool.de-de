@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: finding-the-compatibility-using-the-refine-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Im Interoperabilitäts-Matrix-Tool (IMT) können Sie auf der Seite Suchkriterien verfeinern die kompatiblen Konfigurationen für Ihr Produkt anzeigen lassen.' 
+---
+= Finden Sie die Kompatibilität mit Suchkriterien verfeinern
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Im Interoperabilitäts-Matrix-Tool (IMT) können Sie auf der Seite *Suchkriterien verfeinern* die kompatiblen Konfigurationen für Ihr Produkt anzeigen. Sie können nach kompatiblen Lösungen, Komponenten, Kategorien oder Konfigurationen für Ihr Produkt suchen. Durch Auswahl der entsprechenden Komponenten können Sie die Konfigurationsergebnisse je nach Ihren Anforderungen eingrenzen.
+
+
+
+== Kompatibilitätswarnung
+
+Wenn eine der Komponenten auf der Seite *Suchkriterien verfeinern* in der IMT-Endbenutzer-App miteinander kompatibel ist, wird eine Kompatibilitätswarnung angezeigt. Die Kompatibilitätswarnung, die rot markiert und oben auf der Seite angezeigt wird, sieht ähnlich aus wie die folgende Meldung:
+
+`Please note: you must go to the Results page (next step) to confirm valid configurations.`
+
+Wenn die Kompatibilitätswarnung angezeigt wird, navigieren Sie zur Seite *Unterstützte Konfigurationen anzeigen*, indem Sie auf den Link *Unterstützte Konfigurationen anzeigen* klicken.

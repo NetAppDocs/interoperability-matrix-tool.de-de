@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: deleting-tag-names.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Gespeicherte Konfigurationen können gelöscht werden, indem der Tag-Name entfernt wird. 
+---
+= Tag-Namen löschen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können das gesamte Tag für gespeicherte Konfigurationen löschen.
+
+
+
+== Über diese Aufgabe
+
+Gespeicherte Konfigurationen können gelöscht werden, indem der Tag-Name entfernt wird. Wenn Sie den Tag-Namen löschen, werden auch alle Konfigurationen, die diesen Tags zugeordnet sind, gelöscht.
+
+
+
+== Schritte
+
+. Klicken Sie Auf *Favoriten*.
+. Klicken Sie im Dialogfeld *Saved Criteria* auf die Registerkarte *Konfigurationen*.
+. Klicken Sie unter der Spalte *Aktion* auf das Symbol X löschen. Das Popup-Fenster wird angezeigt, in dem Sie gefragt werden, ob Sie gespeicherte Tags und die zugehörigen Konfigurationen löschen möchten.
+. Klicken Sie auf *Ja*, um Tags und die zugehörigen Konfigurationen zu löschen.
+. Klicken Sie auf *Nein*, um Tags und die zugehörigen Konfigurationen beizubehalten.
+

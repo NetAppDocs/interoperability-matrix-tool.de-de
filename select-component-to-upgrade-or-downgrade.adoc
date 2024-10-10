@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: select-component-to-upgrade-or-downgrade.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Sie können die Funktion Was-wäre-wenn auf der Seite *Ergebnisse* verwenden, um eine Komponente in Ihrer Produktkonfiguration zu aktualisieren oder herunterzustufen. Sie können die Komponenten ändern und die Kompatibilität prüfen. 
+---
+= Wählen Sie eine Komponente aus, die aktualisiert oder heruntergestuktiert werden soll
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können die Funktion *Was wäre, wenn* auf der Seite *Ergebnisse* verwenden, um eine Komponente in Ihrer Produktkonfiguration zu aktualisieren oder herunterzustufen. Sie können die Komponenten ändern und die Kompatibilität prüfen.
+
+.Schritte
+. Klicken Sie auf *Was wäre, wenn*, um die Komponenten anzuzeigen, die Sie aktualisieren oder herunterstufen können, um die ausgewählte Konfiguration zu ändern.
+. Klicken Sie auf eine Kategorie, um die verfügbaren Komponenten für das Upgrade oder Downgrade anzuzeigen.
+. Im Fenster Verfügbare Optionen können Sie nach einer bestimmten Komponentenversion suchen und diese auswählen.
+. Wenn die ausgewählte Komponente eine gültige Konfiguration ist und mit Ihrer früheren Konfiguration kompatibel ist, wird die Kompatibilitätsmeldung angezeigt. Sie können die Ergebnisse nun exportieren, um alle unterstützten Konfigurationen anzuzeigen.
+

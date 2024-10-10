@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: unsubscribe-the-subscribed-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Sie können die Konfiguration auf der Ergebnisseite abbestellen, wenn Sie weitere Updates erhalten möchten. 
+---
+= Abonnement-Konfigurationen abbestellen
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können die Konfiguration von der Seite *Results* abbestellen, wenn Sie weitere Updates erhalten möchten.
+
+
+
+== Bevor Sie beginnen
+
+Sie müssen die Konfigurationen von der Seite *Ergebnisse* abonniert haben.
+
+So kündigen Sie die Konfiguration ab:
+
+* Klicken Sie auf der Seite *Results* auf STAR, um die abonnierte Konfiguration abzubestellen. Wenn Sie die Konfiguration aus der Favoritenliste entfernen, wird die Anmeldung der Konfiguration automatisch aufgehoben.
+

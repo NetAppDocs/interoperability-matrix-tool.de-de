@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: loading-the-saved-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Sie können die zuvor gespeicherten Konfigurationen von der Startseite aus laden. Sie können den Tag-Namen, die Beschreibung und den Lösungsnamen der gespeicherten Konfiguration anzeigen. 
+---
+= Gespeicherte Konfiguration laden
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können die zuvor gespeicherten Konfigurationen von der Startseite aus laden. Sie können den Tag-Namen, die Beschreibung und den Lösungsnamen der gespeicherten Konfiguration anzeigen.
+
+
+
+== Bevor Sie beginnen
+
+Sie können die spezifische Konfiguration laden, indem Sie nach dem Namen suchen, den Sie für diese bestimmte Konfiguration angegeben haben.
+
+
+
+== Über diese Aufgabe
+
+Wenn Sie die Konfiguration bereits gespeichert haben, können Sie sie jederzeit später laden.
+
+
+
+== Schritte
+
+. Klicken Sie auf der Startseite auf die Option *gespeicherte Suche*, um die gespeicherte Konfiguration zu laden.
+. Klicken Sie auf der Registerkarte *Saved Configuration* auf Configuration.
+. Wenn Sie den Mauszeiger über die gespeicherte Konfiguration bewegen, wird der Konfigurationsname angezeigt.
+. Klicken Sie auf *Tag Name* und laden Sie die Konfiguration.
+. Klicken Sie auf den Link *Details anzeigen*, um zur Ergebnisseite zu gelangen.
+

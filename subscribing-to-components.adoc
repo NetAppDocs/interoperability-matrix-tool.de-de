@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-components.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Sie können einzelne oder mehrere Komponenten Ihrer Wahl abonnieren. 
+---
+= Abonnieren Sie Komponenten
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können einzelne oder mehrere Komponenten Ihrer Wahl abonnieren.
+
+
+
+== Über diese Aufgabe
+
+Sie erhalten eine E-Mail-Benachrichtigung, wenn Änderungen am Anzeigenamen der Komponente oder des Status der Komponente vorgenommen werden.
+
+
+
+== Schritte
+
+. Klicken Sie im Header-Menü auf den Link *Abonnement*.
+. Wählen Sie im Abonnementfenster die Registerkarte *Komponente* aus.
+. Um die Komponente Ihrer Wahl zu abonnieren, aktivieren Sie das Kontrollkästchen für die Option *Attribut aktualisiert*.
+. Wählen Sie im Feld *Frequenz* *sofort* oder *Digest* aus.
++
+
+NOTE: Die Standardauswahl ist *immediate*.
+
+. Klicken Sie auf *Abonnieren*, um die Abonnements für die Komponenten zu erhalten, die Sie abonniert haben.
++
+
+NOTE: Sie können auf *Reset* klicken, um alle Auswahlmöglichkeiten im Register *Komponente* zu löschen.
+
+

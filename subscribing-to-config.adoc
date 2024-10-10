@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Sie können Konfigurationen mit einem beliebigen Namen für eine bestimmte Lösung oder Komponente abonnieren. 
+---
+= Konfigurationen abonnieren
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können Konfigurationen mit einem beliebigen Namen für eine bestimmte Lösung oder Komponente abonnieren. Dies hilft Ihnen, Updates per E-Mail zu erhalten, wenn in der Zeile „abonniert“ eine Aktualisierung oder Änderung vorgenommen wird. Sie können maximal 20 Konfigurationen abonnieren.
+
+
+
+== Über diese Aufgabe
+
+Sie können die E-Mails für die folgenden Instanzen erhalten:
+
+* Wenn Komponenten zur Konfiguration hinzugefügt werden
+* Wenn Komponenten aus der Konfiguration gelöscht werden
+* Wenn Notizen hinzugefügt oder aus der Konfiguration gelöscht werden
+* Wenn der Status der Konfiguration von unterstützt in einen der zusätzlichen Terminalzustände geändert wird (EOS, veraltet usw.).
+
+
+
+
+== Schritte
+
+. Klicken Sie auf der Seite *Results* auf STAR, um die Konfiguration zu speichern. Nachdem Sie die Konfiguration gespeichert haben, wird der Stern gelb. Sie können maximal 20 Konfigurationen speichern.
+. Geben Sie im Dialogfeld *Tag-Konfiguration* den Namen und die Beschreibung ein, um die Konfiguration als Referenz zu markieren.
+. Klicken Sie auf das Kontrollkästchen *Abonnieren* für diese Konfiguration.
+. Klicken Sie Auf *Tag*.
+

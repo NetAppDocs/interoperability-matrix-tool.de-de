@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: using-subscription.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Über den Link „Abonnement“ können Sie Storage Solution, Category oder Component abonnieren. Wenn Sie eine bestimmte Speicherlösung, Kategorie oder Komponente abonniert haben, erhalten Sie eine E-Mail nur, wenn Änderungen in den abonnierten Lösungen, Kategorien oder Komponenten vorgenommen werden. 
+---
+= Verwenden Sie Das Abonnement
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Über den Link *Abonnement* können Sie *Storage Solution, Category oder Component* abonnieren. Wenn Sie eine bestimmte Speicherlösung, Kategorie oder Komponente abonniert haben, erhalten Sie eine E-Mail nur, wenn Änderungen in den abonnierten Lösungen, Kategorien oder Komponenten vorgenommen werden.
+
+Sie erhalten E-Mails für die folgenden Abonnements:
+
+. *Speicherlösung*: Wenn die Änderungen im Statusupdate vorgenommen werden, werden die zugehörigen oder nicht zugeordneten Kategorien und Konfigurationen hinzugefügt oder gelöscht.
+. *Kategorie*: Wenn die Komponenten hinzugefügt oder aus der Kategorie gelöscht werden.
+. *Komponente*: Wenn die Änderungen im Anzeigenamen der Komponente oder des Status der Komponente vorgenommen werden.
++
+
+NOTE: Sie erhalten eine E-Mail, je nachdem, welche Art von Häufigkeit Sie auswählen. Die beiden Frequenztypen sind wie folgt:
+
++
+** Sofort: Sie erhalten sofort eine E-Mail, wenn Änderungen an den abonnierten Lösungen, Kategorien oder Komponenten vorgenommen werden.
+** Digest: Sie erhalten alle sieben Tage eine angesammelte E-Mail, die alle Änderungen widerspiegelt, die an den abonnierten Lösungen, Kategorien oder Komponenten vorgenommen werden.
+
+
+

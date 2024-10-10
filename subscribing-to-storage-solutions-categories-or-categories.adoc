@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-storage-solutions-categories-or-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Sie können einzelne oder mehrere Storage-Lösungen, Kategorien oder Komponenten Ihrer Wahl abonnieren. 
+---
+= Abonnieren Sie Storage-Lösungen, Kategorien oder Komponenten
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können einzelne oder mehrere Storage-Lösungen, Kategorien oder Komponenten Ihrer Wahl abonnieren.
+
+Auf der Registerkarte *Abonnement* können Sie die folgenden Abonnements abonnieren:
+
+* Abonnieren von Storage-Lösungen
+* Abonnieren von Kategorien
+* Abonnieren von Komponenten
+

@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: working-with-preferences.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, list, find, component, explorer 
+summary: Sie können die Einstellungen in der Voreinstellungsliste verwenden und nach Kategorieneinstellungen suchen, um Ihre Lieblingskategorien zu speichern. 
+---
+= Arbeiten Sie mit Voreinstellungen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Das Menü *Voreinstellungsliste und Suchkategorieeinstellungen* öffnet die Seite *Liste und Suchkategorieeinstellungen*, auf der Sie Ihre Lieblingskategorien oben in der Liste *Liste und Komponentenexploration suchen* speichern können.
+
+
+
+== Über diese Aufgabe
+
+Sie können die Seite *Liste und Kategorie-Einstellungen suchen* verwenden, um Ihre Lieblingskategorien auszuwählen. Diese Kategorien werden oben in der Liste *Liste und Komponenten-Explorer suchen* angezeigt und sind rot markiert.
+
+
+
+== Schritte
+
+. Klicken Sie auf der Startseite auf *Preferences List und Find Category Preferences*. Die Seite *Liste und Suchkategorieeinstellungen* wird geöffnet.
+. Wählen Sie die Kategorien aus, die Sie als Favoriten speichern möchten. Im Feld *Suchkategorien* können Sie durch die Liste blättern oder nach Kategorien suchen. Sie können beliebig viele Kategorien auswählen.
+. Klicken Sie auf *Speichern*, um Ihre Einstellungen zu behalten. Bei Bedarf können Sie auf *Reset* klicken, um die vorhandene Voreinstellungsliste zu löschen.
+. Um Ihre Einstellungen anzuzeigen, klicken Sie auf *Home* und dann auf *Liste und Suchen*. Ihre Lieblingskategorien erscheinen oben im *Component Explorer*, rot umrandet.
+

@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: viewing-policies-and-guidelines.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os 
+summary: Auf der Seite Richtlinien und Richtlinien werden alle aktuellen Informationen und Anleitungen zur Lösung beschrieben. 
+---
+= Richtlinien und Richtlinien anzeigen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+:firstname: [.lead]
+:author: [.lead]
+:authorinitials: [
+:authors: [.lead]
+:revdate: The *Policies &amp; Guidelines* link opens the Policies and Guidelines page for the selected solution.
+
+
+Auf der Seite Richtlinien und Richtlinien werden alle aktuellen Informationen und Anleitungen zur Lösung beschrieben.
+
+
+
+== Schritte
+
+. Klicken Sie auf der Seite *Spielplatz* auf *Richtlinien und Richtlinien*. Die Seite *Richtlinien und Richtlinien* wird geöffnet.
+. Lesen Sie die neuesten Nachrichten, Anleitungen, Informationen zu Richtlinien und Copyright für die Lösung. Auf der Seite *Spielplatz* können Sie die Lösung ändern, um andere Richtlinien und Richtlinien anzuzeigen, die für sie spezifisch sind.
+. Schließen Sie die Seite und kehren Sie zur Seite *Spielplatz* zurück.
+

@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: working-with-search-text-box.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: Mithilfe des Suchtextes können Sie nach Komponenten, Lösungen, Kategorien und Konfigurationen suchen. Je nach eingebuchtem Text werden im Suchfeld mögliche Treffer angezeigt, die Sie in die Suchkriterien aufnehmen können. 
+---
+= Textfeld „mit Suche arbeiten“
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Mithilfe des Suchtextes können Sie nach Komponenten, Lösungen, Kategorien und Konfigurationen suchen. Je nach eingebuchtem Text werden im Suchfeld mögliche Treffer angezeigt, die Sie in die Suchkriterien aufnehmen können.

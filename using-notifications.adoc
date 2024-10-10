@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: using-notifications.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
 summary: Im Menü Benachrichtigungen werden Ihre aktuellen Benachrichtigungen angezeigt. 
 ---
 = Verwenden Sie Benachrichtigungen

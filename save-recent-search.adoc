@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: interoperability-matrix-tool-overview.html 
-keywords: imt, interoperability, matrix, tool, 
+keywords: imt, interoperability, matrix, tool 
 summary: Sie können Ihre letzten Suchvorgänge speichern, um die Kriterien für spätere Suchvorgänge beizubehalten. 
 ---
 = Speichern einer letzten Suche
